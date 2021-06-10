@@ -6,14 +6,14 @@ print(credentials)
 stopifnot(is.character(credentials))
 gs4_auth(email = "petridish@gmail.com", credentials)
 
-archive_target = function(target) {
+archive_target <- function(target) {
   stopifnot("url" %in% names(target))
   stopifnot("sheets" %in% names(target))
 
   lapply(target$sheet, function(sheet_name) {
-    sheet <- read_sheet(target$url, sheet_name)
+    sheet <- googlesheets4::read_sheet(target$url, sheet_name)
     path <- paste0(sheet_name, ".csv")
-    write_csv(sheet, path)
+    readr::write_csv(sheet, path)
 
     path
   })
