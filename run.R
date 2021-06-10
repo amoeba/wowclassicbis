@@ -1,8 +1,9 @@
 library(googlesheets4)
 library(readr)
 
-
-gs4_auth(path = "service-account.json")
+credentials <- Sys.getenv("SHEETS_CREDENTIALS")
+stopifnot(is.character(credentials))
+gs4_auth(email = "petridish@gmail.com", credentials)
 
 archive_target = function(target) {
   stopifnot("url" %in% names(target))

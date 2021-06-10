@@ -10,10 +10,14 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
-    - name: Fetch latest data
-      run: |-
-        curl https://www.fire.ca.gov/umbraco/Api/IncidentApi/GetIncidents | jq . > incidents.json
-    # - name: Commit and push if it changed
+    - uses: r-lib/actions/setup-r@v1
+    - name: Install dependencies
+      run: |
+        install.packages(c("remotes"))
+        remotes::install_deps(dependencies = TRUE)
+      shell: Rscript {0}
+    - name: Scrape
+      shell: Rscript run.R
     #   run: |-
     #     git config user.name "Automated"
     #     git config user.email "actions@users.noreply.github.com"
