@@ -2,8 +2,12 @@ library(googlesheets4)
 library(readr)
 
 credentials <- Sys.getenv("SHEETS_CREDENTIALS")
-print(credentials)
+# Debug
+
+print(nchar(credentials))
+
 stopifnot(is.character(credentials))
+
 gs4_auth(email = "petridish@gmail.com", credentials)
 
 archive_target <- function(target) {
@@ -31,3 +35,4 @@ targets = list(
 )
 
 archive_targets(targets)
+
