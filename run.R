@@ -1,14 +1,12 @@
-library(googlesheets4)
-library(readr)
+library(googledrive)
 
-credentials <- Sys.getenv("SHEETS_CREDENTIALS")
+drive_auth_configure(
+  path = Sys.getenv("SHEETS_CREDENTIALS")
+)
+
 # Debug
-
 print(nchar(credentials))
-
 stopifnot(is.character(credentials))
-
-gs4_auth(email = "petridish@gmail.com", credentials)
 
 archive_target <- function(target) {
   stopifnot("url" %in% names(target))
