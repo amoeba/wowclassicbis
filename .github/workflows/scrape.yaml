@@ -18,6 +18,7 @@ jobs:
       - name: Run
         env:
           CREDENTIALS: ${{ secrets.CREDENTIALS}}
+          SHEET_URL: ${{ secrets.SHEET_URL}}
         run: ruby .github/scrape.rb
       - name: Commit and push if it changed
         run: |-
