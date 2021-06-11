@@ -1,10 +1,11 @@
+name: Scrape
 on: push
-
-steps:
-- uses: actions/checkout@v2
-- uses: actions/setup-ruby@v1
-  with:
-    ruby-version: '3.0' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
-- run: gem install bundler
-- run: bundle
-- run: bundle exec ruby main.rb
+jobs: scrape
+  steps:
+  - uses: actions/checkout@v2
+  - uses: actions/setup-ruby@v1
+    with:
+      ruby-version: '3.0' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+  - run: gem install bundler
+  - run: bundle
+  - run: bundle exec ruby main.rb
