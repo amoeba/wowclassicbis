@@ -1,29 +1,8 @@
-on:
-  push:
-  workflow_dispatch:
-  schedule:
-    - cron:  '*/5 * * * *'
-
-jobs:
-  scheduled:
-    runs-on: macOS-latest
-    steps:
-    - name: Check out this repo
-      uses: actions/checkout@v2
-    - uses: r-lib/actions/setup-r@v1
-    - name: Install dependencies
-      run: |
-        install.packages(c("remotes"))
-        remotes::install_deps(dependencies = TRUE)
-      shell: Rscript {0}
-    - name: Scrape
-      env:
-        SHEETS_CREDENTIALS: ${{ secrets.SHEETS_CREDENTIALS }}
-      run: Rscript run.R
-    #   run: |-
-    #     git config user.name "Automated"
-    #     git config user.email "actions@users.noreply.github.com"
-    #     git add -A
-    #     timestamp=$(date -u)
-    #     git commit -m "Latest data: ${timestamp}" || exit 0
-    #     git push
+steps:
+- uses: actions/checkout@v2
+- uses: actions/setup-ruby@v1
+  with:
+    ruby-version: '3.0' # Version range or exact version of a Ruby version to use, using semvers version range syntax.
+- run: gem install bundler
+- run: bundle
+- run: bundle exec ruby main.rb
