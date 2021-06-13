@@ -6,6 +6,8 @@ library(dplyr)
 # Credentials
 credentials_path <- tempfile()
 writeLines(Sys.getenv("CREDENTIALS"), credentials_path)
+print(file.exists(credentials_path))
+print(nchar(Sys.getenv("CREDENTIALS")))
 googlesheets4::gs4_auth(path = credentials_path)
 
 # Setup
