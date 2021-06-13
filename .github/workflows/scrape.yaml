@@ -7,29 +7,7 @@ on:
     - cron:  '27 * * * *'
 
 jobs:
-  # scrape:
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #     - uses: actions/setup-ruby@v1
-  #       with:
-  #         ruby-version: "3.0"
-  #     - run: gem install google_drive
-  #     - name: Run
-  #       env:
-  #         CREDENTIALS: ${{ secrets.CREDENTIALS}}
-  #         SHEET_IDS: ${{ secrets.SHEET_IDS}}
-  #       run: ruby .github/scrape.rb
-  #     - name: Commit and push if it changed
-  #       run: |-
-  #         git config user.name "Automated"
-  #         git config user.email "actions@users.noreply.github.com"
-  #         git add -A
-  #         timestamp=$(date -u)
-  #         git commit -m "Latest data: ${timestamp}" || exit 0
-  #         git push
-
-  scrapeviar:
+  scrape:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
