@@ -2,17 +2,19 @@ library(googlesheets4)
 library(jsonlite)
 library(readr)
 library(dplyr)
+library(base64enc)
 
 # Credentials
-credentials_path <- tempfile()
-writeLines(Sys.getenv("CREDENTIALS"), credentials_path)
-print(file.exists(credentials_path))
-print(nchar(Sys.getenv("CREDENTIALS")))
-googlesheets4::gs4_auth(path = credentials_path)
+CREDENTIALS <- Sys.getenv("CREDENTIALS")
+SHEET_IDS <- strsplit(Sys.getenv("SHEET_IDS"), ",")[[1]]
+CREDENTIALS_BINARY <- base64enc::base64decode(CREDENTIALS)
+CREDENTIALS_DECODED <- tempfile()
+writeBin(CREDENTIALS_BINARY, CREDENTIALS_DECODED)
 
-# Setup
-sheet_ids <- strsplit(Sysgetenv("SHEET_IDS"), ",")[[1]]
+# Auth
+googlesheets4::gs4_auth(path = CREDENTIALS_DECODED)
 
+# process_sheet
 process_sheet <- function(sheet_id) {
   info <- googlesheets4::gs4_get(sheet_id)
   sheet_names <- info$sheets$name
@@ -28,4 +30,4 @@ process_sheet <- function(sheet_id) {
   })
 }
 
-lapply(sheet_ids, process_sheet)
+lapply(SHEET_IDS, process_sheet)
