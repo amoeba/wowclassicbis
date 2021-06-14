@@ -81,21 +81,21 @@ NA,13,Robe of the Great Dark Beyond,Robe of the Great Dark Beyond,Rare,84.848,Ma
 NA,14,Grand Marshal's Silk Raiment,Grand Marshal's Silk Raiment,Rare,84.532,NA,PvP,1,https://tbc.wowhead.com/item=28717,NA,23,15,NULL,17,NULL,Red,Yellow,Yellow
 NA,15,High Warlord's Silk Raiment,High Warlord's Silk Raiment,Rare,84.532,NA,PvP,1,https://tbc.wowhead.com/item=28869,NA,23,15,NULL,17,NULL,Red,Yellow,Yellow
 NA,NA,Wrist,NA,NA,NULL,NA,NA,NULL,NA,NA,SP,int,hit,crit,haste,Sockets,NA,NA
-NA,1,General's Silk Cuffs,General's Silk Cuffs,Epic,55.452,Season 1,PvP,1,https://tbc.wowhead.com/item=28411,NA,20,17,NULL,12,NULL,Yellow,NA,NA
-NA,2,Marshal's Silk Cuffs,Marshal's Silk Cuffs,Epic,55.452,NA,PvP,1,https://tbc.wowhead.com/item=29002,NA,20,17,NULL,12,NULL,Yellow,NA,NA
-NA,3,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,54.45,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,4,Crimson Bracers of Gloom,Crimson Bracers of Gloom,Rare,54.16,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27462,NA,22,18,12,NULL,NULL,NA,NA,NA
-NA,5,Bracers of Havok,Bracers of Havok,Rare,53.55,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,Yellow,NA,NA
-NA,6,Bands of Nefarious Deeds,Bands of Nefarious Deeds,Epic,50.38,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28515,NA,32,22,NULL,NULL,NULL,NA,NA,NA
-NA,7,Bands of Negation,Bands of Negation,Epic,46.75,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=29240,NA,29,22,NULL,NULL,NULL,NA,NA,NA
-NA,8,General's Dreadweave Cuffs,General's Dreadweave Cuffs,Epic,44.93,Season 1,PvP,1,https://tbc.wowhead.com/item=28405,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
-NA,9,Marshal's Dreadweave Cuffs,Marshal's Dreadweave Cuffs,Epic,44.93,NA,PvP,1,https://tbc.wowhead.com/item=28981,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
-NA,10,The Soul Harvester's Bindings,The Soul Harvester's Bindings,Epic,44.484,Naxxramas,Gothik the Harvester,1,https://tbc.wowhead.com/item=23021,NA,21,11,NULL,14,NULL,NA,NA,NA
-NA,11,Arcanium Signet Bands,Arcanium Signet Bands,Rare,44.25,Underbog,Hungarfen,1,https://tbc.wowhead.com/item=27746,NA,30,15,NULL,NULL,NULL,NA,NA,NA
-NA,12,Shattrath Wraps,Shattrath Wraps,Rare,44.25,NA,The Soul Devices,1,https://tbc.wowhead.com/item=28174,NA,21,15,NULL,NULL,NULL,Red,NA,NA
-NA,13,Harbinger Bands,Harbinger Bands,Epic,42.59,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28477,NA,26,21,NULL,NULL,NULL,NA,NA,NA
-NA,14,Bands of Rarefied Magic,Bands of Rarefied Magic,Epic,41.38,Shattered Halls,Warchief Kargath Bladefist,1,https://tbc.wowhead.com/item=29255,NA,25,21,NULL,NULL,NULL,NA,NA,NA
-NA,15,Burrower Bracers,Burrower Bracers,Epic,40.77,Classic,NA,0,https://tbc.wowhead.com/item=21611,NA,28,13,NULL,NULL,NULL,NA,NA,NA
+NA,1,Illidari Bindings of Wrath,Illidari Bindings of Wrath,Rare,56.87,NA,NA,NULL,https://tbc.wowhead.com/item=31225/illidari-bindings,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,2,General's Silk Cuffs,General's Silk Cuffs,Epic,55.452,Season 1,PvP,1,https://tbc.wowhead.com/item=28411,NA,20,17,NULL,12,NULL,Yellow,NA,NA
+NA,3,Marshal's Silk Cuffs,Marshal's Silk Cuffs,Epic,55.452,NA,PvP,1,https://tbc.wowhead.com/item=29002,NA,20,17,NULL,12,NULL,Yellow,NA,NA
+NA,4,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,54.45,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,5,Crimson Bracers of Gloom,Crimson Bracers of Gloom,Rare,54.16,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27462,NA,22,18,12,NULL,NULL,NA,NA,NA
+NA,6,Bracers of Havok,Bracers of Havok,Rare,53.55,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,Yellow,NA,NA
+NA,7,Bands of Nefarious Deeds,Bands of Nefarious Deeds,Epic,50.38,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28515,NA,32,22,NULL,NULL,NULL,NA,NA,NA
+NA,8,Bands of Negation,Bands of Negation,Epic,46.75,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=29240,NA,29,22,NULL,NULL,NULL,NA,NA,NA
+NA,9,General's Dreadweave Cuffs,General's Dreadweave Cuffs,Epic,44.93,Season 1,PvP,1,https://tbc.wowhead.com/item=28405,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
+NA,10,Marshal's Dreadweave Cuffs,Marshal's Dreadweave Cuffs,Epic,44.93,NA,PvP,1,https://tbc.wowhead.com/item=28981,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
+NA,11,The Soul Harvester's Bindings,The Soul Harvester's Bindings,Epic,44.484,Naxxramas,Gothik the Harvester,1,https://tbc.wowhead.com/item=23021,NA,21,11,NULL,14,NULL,NA,NA,NA
+NA,12,Arcanium Signet Bands,Arcanium Signet Bands,Rare,44.25,Underbog,Hungarfen,1,https://tbc.wowhead.com/item=27746,NA,30,15,NULL,NULL,NULL,NA,NA,NA
+NA,13,Shattrath Wraps,Shattrath Wraps,Rare,44.25,NA,The Soul Devices,1,https://tbc.wowhead.com/item=28174,NA,21,15,NULL,NULL,NULL,Red,NA,NA
+NA,14,Harbinger Bands,Harbinger Bands,Epic,42.59,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28477,NA,26,21,NULL,NULL,NULL,NA,NA,NA
+NA,15,Bands of Rarefied Magic,Bands of Rarefied Magic,Epic,41.38,Shattered Halls,Warchief Kargath Bladefist,1,https://tbc.wowhead.com/item=29255,NA,25,21,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Hands,NA,NA,NULL,NA,NA,NULL,NA,NA,SP,int,hit,crit,haste,Sockets,NA,NA
 NA,1,Anger-Spark Gloves,Anger-Spark Gloves,Epic,111.73,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30725,NA,30,NULL,20,25,NULL,Red,Red,NA
 NA,2,Spellfire Gloves (Fire/Arcane),Spellfire Gloves (Fire/Arcane),Epic,109.338,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21847,NA,50,10,NULL,23,NULL,Yellow,Blue,NA

@@ -89,13 +89,13 @@ NA,5,Marshal's Silk Cuffs,Marshal's Silk Cuffs,Epic,50.439,NA,PvP,1,https://tbc.
 NA,6,Crimson Bracers of Gloom,Crimson Bracers of Gloom,Rare,49.678,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27462,NA,22,18,NULL,12,NULL,NULL,NA,NA,NA
 NA,7,Bracers of Havok,Bracers of Havok,Rare,49.014,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,NULL,Yellow,NA,NA
 NA,8,Bands of Negation,Bands of Negation,Epic,48.124,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=29240,NA,29,22,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,9,Bands of Nethekurse,Bands of Nethekurse,Rare,45.146,Shattered Halls,Grand Warlock Nethekurse,1,https://tbc.wowhead.com/item=27517,NA,21,18,13,NULL,NULL,NULL,NA,NA,NA
-NA,10,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,44.19,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,11,Aldor Ceremonial Wraps,Aldor Ceremonial Wraps,Uncommon,43.538,NA,Aldor No More,0,https://tbc.wowhead.com/item=30382,NA,23,14,13,NULL,NULL,NULL,NA,NA,NA
-NA,12,Earthmender's Bracer of Shattering,Earthmender's Bracer of Shattering,Uncommon,43.08,NA,NA,0,https://tbc.wowhead.com/item=30927,NA,27,12,9,NULL,NULL,NULL,NA,NA,NA
-NA,13,General's Dreadweave Cuffs,General's Dreadweave Cuffs,Epic,42.944,Season 1,PvP,1,https://tbc.wowhead.com/item=28405,NA,22,14,NULL,NULL,NULL,NULL,Yellow,NA,NA
-NA,14,Marshal's Dreadweave Cuffs,Marshal's Dreadweave Cuffs,Epic,42.944,NA,PvP,1,https://tbc.wowhead.com/item=28981,NA,22,14,NULL,NULL,NULL,NULL,Yellow,NA,NA
-NA,15,Arcanium Signet Bands,Arcanium Signet Bands,Rare,42.855,Underbog,Hungarfen,1,https://tbc.wowhead.com/item=27746,NA,30,15,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,9,Illidari Bindings of Wrath,Illidari Bindings of Wrath,Rare,46.154,NA,NA,NULL,https://tbc.wowhead.com/item=31225/illidari-bindings,NA,47,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,10,Bands of Nethekurse,Bands of Nethekurse,Rare,45.146,Shattered Halls,Grand Warlock Nethekurse,1,https://tbc.wowhead.com/item=27517,NA,21,18,13,NULL,NULL,NULL,NA,NA,NA
+NA,11,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,44.19,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,12,Aldor Ceremonial Wraps,Aldor Ceremonial Wraps,Uncommon,43.538,NA,Aldor No More,0,https://tbc.wowhead.com/item=30382,NA,23,14,13,NULL,NULL,NULL,NA,NA,NA
+NA,13,Earthmender's Bracer of Shattering,Earthmender's Bracer of Shattering,Uncommon,43.08,NA,NA,0,https://tbc.wowhead.com/item=30927,NA,27,12,9,NULL,NULL,NULL,NA,NA,NA
+NA,14,General's Dreadweave Cuffs,General's Dreadweave Cuffs,Epic,42.944,Season 1,PvP,1,https://tbc.wowhead.com/item=28405,NA,22,14,NULL,NULL,NULL,NULL,Yellow,NA,NA
+NA,15,Marshal's Dreadweave Cuffs,Marshal's Dreadweave Cuffs,Epic,42.944,NA,PvP,1,https://tbc.wowhead.com/item=28981,NA,22,14,NULL,NULL,NULL,NULL,Yellow,NA,NA
 NA,NA,Hands,NA,NA,NULL,NA,NA,NULL,NA,NA,SP,int,spi,hit,crit,haste,socket,NA,NA
 NA,1,Gloves of the Aldor,Gloves of the Aldor,Epic,94.101,Karazhan,The Curator,1,https://tbc.wowhead.com/item=29080,NA,35,22,19,17,19,NULL,NA,NA,NA
 NA,2,Spellfire Gloves (Fire/Arcane),Spellfire Gloves (Fire/Arcane),Epic,88.701,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21847,NA,50,10,NULL,NULL,23,NULL,Yellow,Blue,NA

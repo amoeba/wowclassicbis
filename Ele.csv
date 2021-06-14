@@ -81,21 +81,21 @@ NA,13,Worldfire Chestguard,Worldfire Chestguard,Rare,60.06,Arcatraz,Dalliah the 
 NA,14,Robe of the Great Dark Beyond,Robe of the Great Dark Beyond,Rare,59.35,Mana-Tombs,Tavarok,1,https://tbc.wowhead.com/item=27824,NA,39,30,NULL,23,NULL,NA,NA,NA
 NA,15,Anchorite's Robes,Anchorite's Robes,Rare,59.3,Quartermaster Endarin,NA,1,https://tbc.wowhead.com/item=29129,NA,29,38,NULL,NULL,NULL,Yellow,Blue,Yellow
 NA,NA,Wrist,NA,NA,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,45,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Veteran's Mail Bracers,Veteran's Mail Bracers,Epic,44.8,Mail Armor,NA,1,https://tbc.wowhead.com/item=32817,NA,22,14,NULL,17,NULL,Yellow,NA,NA
-NA,3,Netherstrike Bracers,Netherstrike Bracers,Epic,42.62,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29521,NA,20,13,NULL,17,NULL,Yellow,NA,NA
-NA,4,Bracers of Havok,Bracers of Havok,Rare,41.39,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,Yellow,NA,NA
-NA,5,General's Mail Bracers,General's Mail Bracers,Epic,40.49,NA,NA,1,https://tbc.wowhead.com/item=28638,NA,20,12,NULL,14,NULL,Yellow,NA,NA
-NA,6,Marshal's Mail Bracers,Marshal's Mail Bracers,Epic,40.49,NA,PvP,1,https://tbc.wowhead.com/item=28992,NA,20,12,NULL,14,NULL,Yellow,NA,NA
-NA,7,General's Silk Cuffs,General's Silk Cuffs,Epic,40.09,Season 1,PvP,1,https://tbc.wowhead.com/item=28411,NA,20,17,NULL,12,NULL,Yellow,NA,NA
-NA,8,Marshal's Silk Cuffs,Marshal's Silk Cuffs,Epic,40.09,NA,PvP,1,https://tbc.wowhead.com/item=29002,NA,20,17,NULL,12,NULL,Yellow,NA,NA
-NA,9,Windhawk Bracers,Windhawk Bracers,Epic,38.69,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29523,NA,16,17,NULL,16,NULL,Yellow,NA,NA
-NA,10,World's End Bracers,World's End Bracers,Rare,36.47,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=27522,NA,22,19,NULL,17,NULL,NA,NA,NA
-NA,11,Bands of Nefarious Deeds,Bands of Nefarious Deeds,Epic,35.96,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28515,NA,32,22,NULL,NULL,NULL,NA,NA,NA
-NA,12,General's Dreadweave Cuffs,General's Dreadweave Cuffs,Epic,33.75,Season 1,PvP,1,https://tbc.wowhead.com/item=28405,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
-NA,13,Marshal's Dreadweave Cuffs,Marshal's Dreadweave Cuffs,Epic,33.75,NA,PvP,1,https://tbc.wowhead.com/item=28981,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
-NA,14,Bands of Negation,Bands of Negation,Epic,32.96,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=29240,NA,29,22,NULL,NULL,NULL,NA,NA,NA
-NA,15,Arcanium Signet Bands,Arcanium Signet Bands,Rare,32.7,Underbog,Hungarfen,1,https://tbc.wowhead.com/item=27746,NA,30,15,NULL,NULL,NULL,NA,NA,NA
+NA,1,Ravager's Cuffs of Wrath (Frost/Shadow),Ravager's Cuffs of Wrath (Frost/Shadow),Epic,52,Karazhan,Rokad the Ravager,NULL,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,52,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,2,Illidari Bindings of Wrath,Illidari Bindings of Wrath,Rare,47,NA,NA,NULL,https://tbc.wowhead.com/item=31225/illidari-bindings,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,3,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,45,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,4,Veteran's Mail Bracers,Veteran's Mail Bracers,Epic,44.8,Mail Armor,NA,1,https://tbc.wowhead.com/item=32817,NA,22,14,NULL,17,NULL,Yellow,NA,NA
+NA,5,Netherstrike Bracers,Netherstrike Bracers,Epic,42.62,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29521,NA,20,13,NULL,17,NULL,Yellow,NA,NA
+NA,6,Bracers of Havok,Bracers of Havok,Rare,41.39,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,Yellow,NA,NA
+NA,7,General's Mail Bracers,General's Mail Bracers,Epic,40.49,NA,NA,1,https://tbc.wowhead.com/item=28638,NA,20,12,NULL,14,NULL,Yellow,NA,NA
+NA,8,Marshal's Mail Bracers,Marshal's Mail Bracers,Epic,40.49,NA,PvP,1,https://tbc.wowhead.com/item=28992,NA,20,12,NULL,14,NULL,Yellow,NA,NA
+NA,9,General's Silk Cuffs,General's Silk Cuffs,Epic,40.09,Season 1,PvP,1,https://tbc.wowhead.com/item=28411,NA,20,17,NULL,12,NULL,Yellow,NA,NA
+NA,10,Marshal's Silk Cuffs,Marshal's Silk Cuffs,Epic,40.09,NA,PvP,1,https://tbc.wowhead.com/item=29002,NA,20,17,NULL,12,NULL,Yellow,NA,NA
+NA,11,Windhawk Bracers,Windhawk Bracers,Epic,38.69,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29523,NA,16,17,NULL,16,NULL,Yellow,NA,NA
+NA,12,World's End Bracers,World's End Bracers,Rare,36.47,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=27522,NA,22,19,NULL,17,NULL,NA,NA,NA
+NA,13,Bands of Nefarious Deeds,Bands of Nefarious Deeds,Epic,35.96,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28515,NA,32,22,NULL,NULL,NULL,NA,NA,NA
+NA,14,General's Dreadweave Cuffs,General's Dreadweave Cuffs,Epic,33.75,Season 1,PvP,1,https://tbc.wowhead.com/item=28405,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
+NA,15,Marshal's Dreadweave Cuffs,Marshal's Dreadweave Cuffs,Epic,33.75,NA,PvP,1,https://tbc.wowhead.com/item=28981,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
 NA,NA,Hands,NA,NA,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,1,Anger-Spark Gloves,Anger-Spark Gloves,Epic,74.25,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30725,NA,30,NULL,20,25,NULL,Red,Red,NA
 NA,2,Soul-Eater's Handwraps,Soul-Eater's Handwraps,Epic,68.2,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28780,NA,36,24,NULL,21,NULL,Yellow,Blue,NA
