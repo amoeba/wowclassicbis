@@ -229,16 +229,16 @@ NA,17,Felsteel Longblade,Felsteel Longblade,Epic,789.62,Blacksmithing,Crafted,1,
 NA,18,Vileblade of the Betrayer,Vileblade of the Betrayer,Epic,782.8,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29360,NA,One Hand,Dagger,83.6,1.8,60,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,19,Riftmaker,Riftmaker,Epic,772.77,NA,Alurmi,1,https://tbc.wowhead.com/item=29182,NA,One Hand,Dagger,81.4,1.8,22,21,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,20,The Bladefist,The Bladefist,Epic,747.6,Shattered Halls,Warchief Kargath Bladefist,1,https://tbc.wowhead.com/item=29348,NA,Main Hand,Fist,83.7,2.6,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,21,Claw of the Watcher,Claw of the Watcher,Rare,730.8,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27846,NA,Main Hand,Fist,71.6,2.5,24,NULL,NULL,12,NULL,NA,NULL,Blue,Red,NA
-NA,22,Reflex Blades,Reflex Blades,Rare,724.36,Arcatraz,Dalliah the Doomsayer,1,https://tbc.wowhead.com/item=28392,NA,Main Hand,Fist,71.7,2.7,32,NULL,16,NULL,NULL,NA,NULL,NA,NA,NA
-NA,23,Demonblood Eviscerator,Demonblood Eviscerator,Rare,722.95,Shattered Halls,Warchief Kargath Bladefist,1,https://tbc.wowhead.com/item=27533,NA,Main Hand,Fist,71.7,2.6,28,NULL,NULL,NULL,NULL,NA,17,NA,NA,NA
-NA,24,Honor's Call,Honor's Call,Epic,721.68,Honor Hold,Exalted,1,https://tbc.wowhead.com/item=29156,NA,One Hand,Sword,81.1,1.8,NULL,NULL,8,NULL,NULL,NA,NULL,NA,NA,NA
-NA,25,Claw of the Netherwing Flight,Claw of the Netherwing Flight,Rare,721.4,NA,Ally of the Netherwing,1,https://tbc.wowhead.com/item=31492,NA,One Hand,Dagger,66.4,1.8,30,15,15,NULL,NULL,NA,15,NA,NA,NA
-NA,26,High Warlord's Right Ripper,High Warlord's Right Ripper,Rare,718.45,NA,PvP,1,https://tbc.wowhead.com/item=28928,NA,Main Hand,Fist,71.7,2.6,26,NULL,8,13,NULL,NA,NULL,NA,NA,NA
-NA,27,Grand Marshal's Right Ripper,Grand Marshal's Right Ripper,Rare,718.45,NA,PvP,1,https://tbc.wowhead.com/item=28953,NA,Main Hand,Fist,71.7,2.6,26,NULL,8,13,NULL,NA,NULL,NA,NA,NA
-NA,28,High Warlord's Pummeler,High Warlord's Pummeler,Rare,718.45,NA,PvP,1,https://tbc.wowhead.com/item=28925,NA,One Hand,Mace,71.7,2.6,26,NULL,8,13,NULL,NA,NULL,NA,NA,NA
-NA,29,High Warlord's Slicer,High Warlord's Slicer,Rare,718.45,NA,PvP,1,https://tbc.wowhead.com/item=28937,NA,One Hand,Sword,71.7,2.6,26,NULL,8,13,NULL,NA,NULL,NA,NA,NA
-NA,30,Grand Marshal's Pummeler,Grand Marshal's Pummeler,Rare,718.45,NA,PvP,1,https://tbc.wowhead.com/item=28951,NA,One Hand,Mace,71.7,2.6,26,NULL,8,13,NULL,NA,NULL,NA,NA,NA
+NA,21,Illidari-Bane Broadsword (Demon),Illidari-Bane Broadsword (Demon),Rare,747.6,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=30788,NA,One Hand,Sword,71.7,2.7,93,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,22,Claw of the Watcher,Claw of the Watcher,Rare,730.8,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27846,NA,Main Hand,Fist,71.6,2.5,24,NULL,NULL,12,NULL,NA,NULL,Blue,Red,NA
+NA,23,Reflex Blades,Reflex Blades,Rare,724.36,Arcatraz,Dalliah the Doomsayer,1,https://tbc.wowhead.com/item=28392,NA,Main Hand,Fist,71.7,2.7,32,NULL,16,NULL,NULL,NA,NULL,NA,NA,NA
+NA,24,Demonblood Eviscerator,Demonblood Eviscerator,Rare,722.95,Shattered Halls,Warchief Kargath Bladefist,1,https://tbc.wowhead.com/item=27533,NA,Main Hand,Fist,71.7,2.6,28,NULL,NULL,NULL,NULL,NA,17,NA,NA,NA
+NA,25,Honor's Call,Honor's Call,Epic,721.68,Honor Hold,Exalted,1,https://tbc.wowhead.com/item=29156,NA,One Hand,Sword,81.1,1.8,NULL,NULL,8,NULL,NULL,NA,NULL,NA,NA,NA
+NA,26,Claw of the Netherwing Flight,Claw of the Netherwing Flight,Rare,721.4,NA,Ally of the Netherwing,1,https://tbc.wowhead.com/item=31492,NA,One Hand,Dagger,66.4,1.8,30,15,15,NULL,NULL,NA,15,NA,NA,NA
+NA,27,Illidari-Bane Dagger (Demon),Illidari-Bane Dagger (Demon),Rare,720.6,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=31745,NA,One Hand,Dagger,71.7,1.8,93,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,28,High Warlord's Right Ripper,High Warlord's Right Ripper,Rare,718.45,NA,PvP,1,https://tbc.wowhead.com/item=28928,NA,Main Hand,Fist,71.7,2.6,26,NULL,8,13,NULL,NA,NULL,NA,NA,NA
+NA,29,Grand Marshal's Right Ripper,Grand Marshal's Right Ripper,Rare,718.45,NA,PvP,1,https://tbc.wowhead.com/item=28953,NA,Main Hand,Fist,71.7,2.6,26,NULL,8,13,NULL,NA,NULL,NA,NA,NA
+NA,30,High Warlord's Pummeler,High Warlord's Pummeler,Rare,718.45,NA,PvP,1,https://tbc.wowhead.com/item=28925,NA,One Hand,Mace,71.7,2.6,26,NULL,8,13,NULL,NA,NULL,NA,NA,NA
 NA,NA,Off Hand,NA,NA,NULL,NA,NA,NULL,NA,NA,type,NULL,dps,speed,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA
 NA,1,Gladiator's Shiv,Gladiator's Shiv,Epic,119.67,Season 1,PvP,1,https://tbc.wowhead.com/item=28310,NA,Off Hand,Dagger,91.1,1.4,28,NULL,9,15,NULL,NA,NULL,NA,NA,NA
 NA,2,Gladiator's Bonecracker,Gladiator's Bonecracker,Epic,104.39,Season 1,PvP,1,https://tbc.wowhead.com/item=28302,NA,Off Hand,Mace,91,1.5,28,NULL,9,15,NULL,NA,NULL,NA,NA,NA
@@ -267,6 +267,6 @@ NA,24,King's Defender,King's Defender,Epic,45.12,Karazhan,Chess Event,1,https://
 NA,25,Ashtongue Blade,Ashtongue Blade,Rare,40.91,Shadowmoon Valley,Akama's Promise,1,https://tbc.wowhead.com/item=30999,NA,One Hand,Dagger,66.8,1.4,40,11,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,26,Riftmaker,Riftmaker,Epic,25.49,NA,Alurmi,1,https://tbc.wowhead.com/item=29182,NA,One Hand,Dagger,81.4,1.8,22,21,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,27,Vileblade of the Betrayer,Vileblade of the Betrayer,Epic,24.08,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29360,NA,One Hand,Dagger,83.6,1.8,60,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,28,Claw of the Frost Wyrm,Claw of the Frost Wyrm,Epic,23.02,Naxxramas,Sapphiron,1,https://tbc.wowhead.com/item=23242,NA,Off Hand,Fist,71.7,1.5,NULL,NULL,10,14,NULL,NA,NULL,NA,NA,NA
-NA,29,Direbrew's Shanker,Direbrew's Shanker,Epic,22.23,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=37597,NA,One Hand,Dagger,87.5,2,36,19,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,30,Stormreaver Warblades,Stormreaver Warblades,Rare,17.97,Botanica,High Botanist Freywinn,1,https://tbc.wowhead.com/item=28315,NA,Off Hand,Fist,71.6,1.6,22,NULL,NULL,21,NULL,NA,NULL,NA,NA,NA
+NA,28,Illidari-Bane Dagger (Demon),Illidari-Bane Dagger (Demon),Rare,23.76,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=31745,NA,One Hand,Dagger,71.7,1.8,93,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,29,Claw of the Frost Wyrm,Claw of the Frost Wyrm,Epic,23.02,Naxxramas,Sapphiron,1,https://tbc.wowhead.com/item=23242,NA,Off Hand,Fist,71.7,1.5,NULL,NULL,10,14,NULL,NA,NULL,NA,NA,NA
+NA,30,Direbrew's Shanker,Direbrew's Shanker,Epic,22.23,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=37597,NA,One Hand,Dagger,87.5,2,36,19,NULL,NULL,NULL,NA,NULL,NA,NA,NA

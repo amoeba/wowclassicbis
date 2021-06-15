@@ -207,23 +207,23 @@ NA,11,Warp Splinter's Thorn,Warp Splinter's Thorn,Rare,29.944,Botanica,Warp Spli
 NA,12,Borak's Reminder,Borak's Reminder,Rare,29.794,NA,The Cipher of Damnation,1,https://tbc.wowhead.com/item=31073,NA,40,11,7,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,13,Twin-Bladed Ripper,Twin-Bladed Ripper,Rare,29.72,Netherstorm,Nexus-King Salhadaar,1,https://tbc.wowhead.com/item=30013,NA,24,12,11,NULL,NULL,NULL,7,NA,NA,NA,NA,NA
 NA,14,Guile of Khoraazi,Guile of Khoraazi,Epic,29.64,NA,NA,1,https://tbc.wowhead.com/item=29121,NA,38,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,Emerald Ripper,Emerald Ripper,Epic,29.014,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28524,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,Illidari-Bane Broadsword (Demon),Illidari-Bane Broadsword (Demon),Rare,29.109,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=30788,NA,93,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Two Hand,NA,NA,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Sonic Spear,Sonic Spear,Rare,76.096,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=27903,NA,62,35,24,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Hellforged Halberd,Hellforged Halberd,Rare,72.08,Honor Hold,Revered,1,https://tbc.wowhead.com/item=29166,NA,92,26,19,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,3,Blackened Spear,Blackened Spear,Rare,72.08,Thrallmar,Revered,1,https://tbc.wowhead.com/item=29167,NA,92,26,19,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,4,Hellscream's Will,Hellscream's Will,Rare,68.292,The Mag'har,Exalted,1,https://tbc.wowhead.com/item=29137,NA,84,NULL,42,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,5,Arechron's Gift,Arechron's Gift,Rare,68.292,Kurenai,Exalted,1,https://tbc.wowhead.com/item=29138,NA,84,NULL,42,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,6,Mooncleaver,Mooncleaver,Epic,67.186,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28435,NA,106,NULL,NULL,52,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,7,Gladiator's Decapitator,Gladiator's Decapitator,Epic,62.922,Season 1,PvP,1,https://tbc.wowhead.com/item=28298,NA,64,NULL,20,35,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,8,Legacy,Legacy,Epic,62.4,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28587,NA,80,40,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,9,Lunar Crescent,Lunar Crescent,Epic,60.786,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28434,NA,96,NULL,NULL,47,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,10,Felsteel Reaper,Felsteel Reaper,Epic,54.676,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23543,NA,112,NULL,NULL,30,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,11,High Warlord's Decapitator,High Warlord's Decapitator,Rare,53.84,NA,PvP,1,https://tbc.wowhead.com/item=28918,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,High Warlord's Painsaw,High Warlord's Painsaw,Rare,53.84,NA,PvP,0,https://tbc.wowhead.com/item=28923,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,Grand Marshal's Decapitator,Grand Marshal's Decapitator,Rare,53.84,NA,PvP,1,https://tbc.wowhead.com/item=28945,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,14,Grand Marshal's Painsaw,Grand Marshal's Painsaw,Rare,53.84,NA,PvP,0,https://tbc.wowhead.com/item=28949,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,Quantum Blade,Quantum Blade,Epic,51.546,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=29356,NA,102,NULL,NULL,30,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,4,Illidari-Bane Claymore (Demon),Illidari-Bane Claymore (Demon),Rare,71.148,Shadowmoon Valley,Quenching the Blade,1,https://tbc.wowhead.com/item=30789,NA,150,NULL,NULL,37,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,5,Hellscream's Will,Hellscream's Will,Rare,68.292,The Mag'har,Exalted,1,https://tbc.wowhead.com/item=29137,NA,84,NULL,42,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,6,Arechron's Gift,Arechron's Gift,Rare,68.292,Kurenai,Exalted,1,https://tbc.wowhead.com/item=29138,NA,84,NULL,42,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,7,Mooncleaver,Mooncleaver,Epic,67.186,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28435,NA,106,NULL,NULL,52,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,8,Gladiator's Decapitator,Gladiator's Decapitator,Epic,62.922,Season 1,PvP,1,https://tbc.wowhead.com/item=28298,NA,64,NULL,20,35,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,9,Legacy,Legacy,Epic,62.4,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28587,NA,80,40,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,10,Lunar Crescent,Lunar Crescent,Epic,60.786,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28434,NA,96,NULL,NULL,47,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,11,Felsteel Reaper,Felsteel Reaper,Epic,54.676,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23543,NA,112,NULL,NULL,30,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,High Warlord's Decapitator,High Warlord's Decapitator,Rare,53.84,NA,PvP,1,https://tbc.wowhead.com/item=28918,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,13,High Warlord's Painsaw,High Warlord's Painsaw,Rare,53.84,NA,PvP,0,https://tbc.wowhead.com/item=28923,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,Grand Marshal's Decapitator,Grand Marshal's Decapitator,Rare,53.84,NA,PvP,1,https://tbc.wowhead.com/item=28945,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,Grand Marshal's Painsaw,Grand Marshal's Painsaw,Rare,53.84,NA,PvP,0,https://tbc.wowhead.com/item=28949,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Ranged,NA,NA,NULL,NA,NA,NULL,NA,NA,type,dps,speed,ap,agi,hit,crit,haste,arp,exp,socket,NA
 NA,1,Sunfury Bow of the Phoenix,Sunfury Bow of the Phoenix,Epic,278.288,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28772,NA,Bow,83.3,2.9,34,19,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Barrel-Blade Longrifle,Barrel-Blade Longrifle,Epic,277.224,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30724,NA,Gun,81.2,2.6,NULL,16,NULL,NULL,NA,NA,NA,Red,Red
