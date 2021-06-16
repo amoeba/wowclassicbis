@@ -2,7 +2,7 @@ Holy Phase 1,...2,...3,...4,...5,...6,...7,...8,...9,...10,...11,...12,...13,...
 NA,NA,Item,NA,NA,EPV,Location,NA,Phase,NA,NA,Stats,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,NA,Head,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Fathom-Helm of the Deeps,Fathom-Helm of the Deeps,Epic,177.9,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30728,NA,106,29,NULL,NA,NULL,9,Yellow,Blue,Blue
-NA,2,Justicar Diadem,Justicar Diadem,Epic,168.2,NA,NA,1,https://tbc.wowhead.com/item=29061,NA,75,33,NULL,NA,NULL,NULL,Red,Meta,NA
+NA,2,Justicar Diadem,Justicar Diadem,Epic,168.2,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29061,NA,75,33,NULL,NA,NULL,NULL,Red,Meta,NA
 NA,3,Helmet of the Steadfast Champion,Helmet of the Steadfast Champion,Epic,150.5,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32084,NA,70,24,NULL,NA,NULL,10,Meta,Yellow,NA
 NA,4,Whitemend Hood,Whitemend Hood,Epic,144.9,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24264,NA,79,15,NULL,NA,NULL,11,Blue,Yellow,Red
 NA,5,Gladiator's Ornamented Headcover,Gladiator's Ornamented Headcover,Epic,144.55,Season 1,PvP,1,https://tbc.wowhead.com/item=31616,NA,57,30,NULL,NA,NULL,NULL,Meta,Red,NA
