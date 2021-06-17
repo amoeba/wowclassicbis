@@ -1,259 +1,259 @@
-Shadow Phase 1,...2,...3,...4,...5,...6,...7,...8,...9,...10,...11,...12,...13,...14,...15,...16,...17,...18,...19,...20
+Shadow Phase,...2,...3,...4,...5,...6,...7,...8,...9,...10,...11,...12,...13,...14,...15,...16,...17,...18
 NA,NA,Item,NA,NA,EPV,"If Hit 
-Capped",Location,NA,Phase,NA,NA,Stats,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,NA,Head,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Soul-Collar of the Incarnate,Soul-Collar of the Incarnate,Epic,96.0172,83.71,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29058,NA,39,35,16,NULL,NULL,Meta,Yellow,NA
-NA,2,Spellstrike Hood,Spellstrike Hood,Epic,90.3592,78.052,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24266,NA,46,12,16,24,NULL,Blue,Yellow,Red
-NA,3,Hood of Oblivion,Hood of Oblivion,Rare,81.884,NULL,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28415,NA,40,32,NULL,NULL,NULL,Blue,Meta,NA
-NA,4,Elementalist Skullcap of Wrath,Elementalist Skullcap of Wrath,Uncommon,80,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=24689,NA,80,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,5,Mana-Binders Cowl,Mana-Binders Cowl,Epic,78.3905,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32089,NA,34,29,NULL,15,NULL,Yellow,Meta,NA
-NA,6,Incanter's Cowl,Incanter's Cowl,Rare,75.8545,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28278,NA,29,27,NULL,19,NULL,Yellow,Meta,NA
-NA,7,Mana-Etched Crown,Mana-Etched Crown,Rare,75.14,NULL,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28193,NA,34,20,NULL,NULL,NULL,Red,Meta,NA
-NA,8,Hydromancer's Headwrap,Hydromancer's Headwrap,Rare,74.574,NULL,NA,The Warlord's Hideout,1,https://tbc.wowhead.com/item=28183,NA,33,27,NULL,NULL,NULL,Blue,Meta,NA
-NA,9,Gladiator's Satin Hood,Gladiator's Satin Hood,Epic,73.14,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27708,NA,32,20,NULL,NULL,NULL,Meta,Red,NA
-NA,10,Collar of Cho'gall,Collar of Cho'gall,Epic,70.232,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28804,NA,68,36,NULL,NULL,NULL,NA,NA,NA
-NA,11,Evoker's Helmet of Second Sight,Evoker's Helmet of Second Sight,Rare,68.118,NULL,NA,"Teron Gorefiend, I am...",1,https://tbc.wowhead.com/item=31104,NA,35,15,NULL,24,NULL,Blue,Blue,Yellow
-NA,12,Uni-Mind Headdress,Uni-Mind Headdress,Epic,67.5823,52.9675,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28744,NA,46,40,19,25,NULL,NA,NA,NA
-NA,13,Gnomish Power Goggles,Gnomish Power Goggles,Epic,65.328,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23828,NA,59,21,NULL,28,NULL,NA,NA,NA
-NA,14,Exorcist's Silk Hood,Exorcist's Silk Hood,Rare,65.2555,NULL,Spirit Shard,PvP,1,https://tbc.wowhead.com/item=28760,NA,29,14,NULL,25,NULL,Meta,NA,NA
-NA,15,Mag'hari Ritualist's Horns,Mag'hari Ritualist's Horns,Rare,62.9149,53.6845,NA,NA,1,https://tbc.wowhead.com/item=28169,NA,50,16,12,15,NULL,NA,NA,NA
-NA,NA,Neck,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Ritssyn's Lost Pendant (Shadow),Ritssyn's Lost Pendant (Shadow),Epic,51,NULL,Karazhan,Trash,1,https://tbc.wowhead.com/item=30666,NA,51,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Eye of the Night (GROUP BUFF),Eye of the Night (GROUP BUFF),Rare,50.9742,38.667,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24116,NA,34,NULL,16,26,NULL,NA,NA,NA
-NA,3,Brooch of Unquenchable Fury,Brooch of Unquenchable Fury,Epic,38.84,27.302,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28530,NA,26,21,15,NULL,NULL,NA,NA,NA
-NA,4,Pendant of Dominance,Pendant of Dominance,Epic,35.744,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28245,NA,26,12,NULL,NULL,NULL,Yellow,NA,NA
-NA,5,Adornment of Stolen Souls,Adornment of Stolen Souls,Epic,33.3685,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28762,NA,28,20,NULL,23,NULL,NA,NA,NA
-NA,6,Brooch of Heightened Potential,Brooch of Heightened Potential,Rare,32.3038,25.381,Shadow Labyrinth,Blackheart the Inciter,1,https://tbc.wowhead.com/item=28134,NA,22,14,9,14,NULL,NA,NA,NA
-NA,7,Hydra-fang Necklace,Hydra-fang Necklace,Rare,32.2992,19.992,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27758,NA,19,16,16,NULL,NULL,NA,NA,NA
-NA,8,Natasha's Ember Necklace,Natasha's Ember Necklace,Rare,31.725,NULL,NA,The Hound-Master,1,https://tbc.wowhead.com/item=31692,NA,29,15,NULL,10,NULL,NA,NA,NA
-NA,9,Chain of the Twilight Owl (GROUP BUFF),Chain of the Twilight Owl (GROUP BUFF),Rare,30.09036,NULL,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24121,NA,21,19,NULL,44.08,NULL,NA,NA,NA
-NA,10,Amulet of Vek'nilash,Amulet of Vek'nilash,Epic,29.823,NULL,Classic,NA,0,https://tbc.wowhead.com/item=21608,NA,27,5,NULL,14,NULL,NA,NA,NA
-NA,11,Natasha's Arcane Filament,Natasha's Arcane Filament,Rare,29.62,NULL,NA,The Hound-Master,1,https://tbc.wowhead.com/item=31693,NA,29,10,NULL,NULL,NULL,NA,NA,NA
-NA,12,Choker of the Arctic Flow,Choker of the Arctic Flow,Epic,29.364,NULL,NA,NA,1,https://tbc.wowhead.com/item=35508,NA,28,22,NULL,NULL,NULL,NA,NA,NA
-NA,13,Malice Stone Pendant,Malice Stone Pendant,Epic,28.496,NULL,Naxxramas,Grand Widow Faerlina,1,https://tbc.wowhead.com/item=22943,NA,28,8,NULL,NULL,NULL,NA,NA,NA
-NA,14,Luminous Pearls of Insight,Luminous Pearls of Insight,Rare,27.9045,NULL,The Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=24462,NA,25,15,NULL,11,NULL,NA,NA,NA
-NA,15,Potent Sha'tari Pendant,Potent Sha'tari Pendant,Rare,27,NULL,NA,Harbinger of Doom,1,https://tbc.wowhead.com/item=31747,NA,27,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,NA,Shoulders,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Frozen Shadoweave Shoulders (Shadow/Frost),Frozen Shadoweave Shoulders (Shadow/Frost),Epic,68.93,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21869,NA,50,15,NULL,NULL,NULL,Yellow,Blue,NA
-NA,2,Soul-Mantle of the Incarnate,Soul-Mantle of the Incarnate,Epic,50.716,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=29060,NA,29,28,NULL,NULL,NULL,Red,Blue,NA
-NA,3,Spaulders of Oblivion,Spaulders of Oblivion,Rare,48.054,NULL,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=27778,NA,29,17,NULL,NULL,NULL,Yellow,Blue,NA
-NA,4,Spaulders of the Torn-heart,Spaulders of the Torn-heart,Rare,44.545,NULL,NA,The Cipher of Damnation - The Third Fragment Recovered,1,https://tbc.wowhead.com/item=30925,NA,40,7,NULL,18,NULL,NA,NA,NA
-NA,5,Rime Covered Mantle,Rime Covered Mantle,Epic,42.257,NULL,Naxxramas,Gluth,1,https://tbc.wowhead.com/item=22983,NA,39,12,NULL,14,NULL,NA,NA,NA
-NA,6,Mana-Etched Spaulders,Mana-Etched Spaulders,Rare,41.926,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27796,NA,20,17,NULL,16,NULL,Yellow,Red,NA
-NA,7,Gladiator's Satin Mantle,Gladiator's Satin Mantle,Epic,41.364,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27710,NA,22,22,NULL,NULL,NULL,Red,Yellow,NA
-NA,8,Incanter's Pauldrons,Incanter's Pauldrons,Rare,40.814,NULL,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=27738,NA,20,17,NULL,NULL,NULL,Yellow,Red,NA
-NA,9,Mantle of Three Terrors,Mantle of Three Terrors,Rare,39.7804,30.55,Black Morass,Chrono Lord Deja,1,https://tbc.wowhead.com/item=27994,NA,29,25,12,NULL,NULL,NA,NA,NA
-NA,10,Destroyers' Mantle,Destroyers' Mantle,Rare,38.2395,NULL,NA,Natural Remedies,1,https://tbc.wowhead.com/item=28075,NA,35,12,NULL,9,NULL,NA,NA,NA
-NA,11,Mantle of the Mind Flayer,Mantle of the Mind Flayer,Epic,36.798,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28726,NA,35,29,NULL,NULL,NULL,NA,NA,NA
-NA,12,Mindrage Pauldrons,Mindrage Pauldrons,Rare,34.93,NULL,Mana-Tombs,Pandemonius,1,https://tbc.wowhead.com/item=27816,NA,34,15,NULL,NULL,NULL,NA,NA,NA
-NA,13,Spiritbinder's Mantle,Spiritbinder's Mantle,Uncommon,34.892,NULL,NA,A Fate Worse Than Death,0,https://tbc.wowhead.com/item=29954,NA,33,11,NULL,NULL,NULL,NA,NA,NA
-NA,14,Grand Marshal's Satin Mantle,Grand Marshal's Satin Mantle,Rare,34.054,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28707,NA,15,17,NULL,NULL,NULL,Red,Yellow,NA
-NA,15,High Warlord's Satin Mantle,High Warlord's Satin Mantle,Rare,34.054,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28859,NA,15,17,NULL,NULL,NULL,Red,Yellow,NA
-NA,NA,Back,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Illidari Cloak of Wrath,Illidari Cloak of Wrath,Rare,47,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31201,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Ruby Drape of the Mysticant,Ruby Drape of the Mysticant,Epic,45.1476,31.302,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28766,NA,30,21,18,NULL,NULL,NA,NA,NA
-NA,3,Ambusher's Cloak of Wrath,Ambusher's Cloak of Wrath,Uncommon,42,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=25041,NA,42,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,4,Ancient Spellcloak of the Highborne,Ancient Spellcloak of the Highborne,Epic,40.3405,NULL,Hellfire Peninsula,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30735,NA,36,15,NULL,19,NULL,NA,NA,NA
-NA,5,Shadow-Cloak of Dalaran,Shadow-Cloak of Dalaran,Epic,37.116,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28570,NA,36,18,NULL,NULL,NULL,NA,NA,NA
-NA,6,Cloak of the Devoured,Cloak of the Devoured,Epic,36.7736,30.62,Classic,NA,0,https://tbc.wowhead.com/item=22731,NA,30,10,8,NULL,NULL,NA,NA,NA
-NA,7,Cloak of the Black Void,Cloak of the Black Void,Rare,35.682,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24252,NA,35,11,NULL,NULL,NULL,NA,NA,NA
-NA,8,Cloak of the Necropolis,Cloak of the Necropolis,Epic,35.3486,29.195,Naxxramas,Sapphiron,1,https://tbc.wowhead.com/item=23050,NA,26,11,8,14,NULL,NA,NA,NA
-NA,9,Terokk's Wisdom,Terokk's Wisdom,Epic,33.992,NULL,Terokkar Forest,Terokk,1,https://tbc.wowhead.com/item=32541,NA,33,16,NULL,NULL,NULL,NA,NA,NA
-NA,10,Cloak of Entropy,Cloak of Entropy,Rare,33.374,25.682,NA,World Drop,1,https://tbc.wowhead.com/item=31140,NA,25,11,10,NULL,NULL,NA,NA,NA
-NA,11,Brute Cloak of the Ogre-Magi,Brute Cloak of the Ogre-Magi,Epic,33.3685,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28797,NA,28,20,NULL,23,NULL,NA,NA,NA
-NA,12,Sethekk Oracle Cloak,Sethekk Oracle Cloak,Rare,32.3464,23.116,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27981,NA,22,18,12,NULL,NULL,NA,NA,NA
-NA,13,Cloak of Woven Energy,Cloak of Woven Energy,Rare,31.213,NULL,Netherstorm,Hitting the Motherlode,1,https://tbc.wowhead.com/item=29813,NA,29,13,NULL,6,NULL,NA,NA,NA
-NA,14,Cloak of the Brood Lord,Cloak of the Brood Lord,Epic,28.868,NULL,Classic,NA,0,https://tbc.wowhead.com/item=19378,NA,28,14,NULL,NULL,NULL,NA,NA,NA
-NA,15,Veil of Eclipse,Veil of Eclipse,Epic,28.62,NULL,Naxxramas,Instructor Razuvious,1,https://tbc.wowhead.com/item=23017,NA,28,10,NULL,NULL,NULL,NA,NA,NA
-NA,NA,Chest,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Frozen Shadoweave Robe (Shadow/Frost),Frozen Shadoweave Robe (Shadow/Frost),Epic,91.24,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21871,NA,72,20,NULL,NULL,NULL,Yellow,Blue,NA
-NA,2,Shroud of the Incarnate,Shroud of the Incarnate,Epic,89.9364,76.86,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29056,NA,46,25,17,NULL,NULL,Red,Blue,Blue
-NA,3,Robe of the Crimson Order,Robe of the Crimson Order,Rare,74.502,51.426,NA,NA,1,https://tbc.wowhead.com/item=31297,NA,50,23,30,NULL,NULL,NA,NA,NA
-NA,4,Auchenai Anchorite's Robe,Auchenai Anchorite's Robe,Rare,74.1796,56.488,NA,Everything Will Be Alright,1,https://tbc.wowhead.com/item=29341,NA,28,24,23,NULL,NULL,Yellow,Yellow,Red
-NA,5,Robe of Oblivion,Robe of Oblivion,Rare,68.24,NULL,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=28232,NA,40,20,NULL,NULL,NULL,Red,Yellow,Blue
-NA,6,Warp Infused Drape,Warp Infused Drape,Rare,67.9664,58.736,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28342,NA,30,28,12,NULL,NULL,Red,Blue,Yellow
-NA,7,Incanter's Robe,Incanter's Robe,Rare,61.22,NULL,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28229,NA,29,22,NULL,8,NULL,Yellow,Yellow,Red
-NA,8,Gladiator's Satin Robe,Gladiator's Satin Robe,Epic,60.612,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27711,NA,32,26,NULL,NULL,NULL,Red,Yellow,Yellow
-NA,9,Mana-Etched Vestments,Mana-Etched Vestments,Rare,60.6015,NULL,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28191,NA,29,25,NULL,17,NULL,Red,Blue,Yellow
-NA,10,Anchorite's Robes,Anchorite's Robes,Rare,60.336,NULL,Quartermaster Endarin,NA,1,https://tbc.wowhead.com/item=29129,NA,29,38,NULL,NULL,NULL,Yellow,Blue,Yellow
-NA,11,Will of Edward the Odd,Will of Edward the Odd,Epic,60.245,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31340,NA,53,30,NULL,30,NULL,NA,NA,NA
-NA,12,Robes of the Augurer,Robes of the Augurer,Rare,57.326,NULL,The Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=24481,NA,28,18,NULL,NULL,NULL,Red,Yellow,Blue
-NA,13,Bloodfyre Robes of Annihilation,Bloodfyre Robes of Annihilation,Rare,55.674,NULL,NA,NA,1,https://tbc.wowhead.com/item=28252,NA,54,27,NULL,NULL,NULL,NA,NA,NA
-NA,14,Grand Marshal's Satin Robe,Grand Marshal's Satin Robe,Rare,54.93,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28708,NA,27,15,NULL,NULL,NULL,Red,Yellow,Yellow
-NA,15,High Warlord's Satin Robe,High Warlord's Satin Robe,Rare,54.93,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28860,NA,27,15,NULL,NULL,NULL,Red,Yellow,Yellow
-NA,NA,Wrist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Ravager's Cuffs of Wrath (Frost/Shadow),Ravager's Cuffs of Wrath (Frost/Shadow),Epic,52,NULL,Karazhan,Rokad the Ravager,NULL,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,52,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Illidari Bindings of Wrath,Illidari Bindings of Wrath,Rare,47,NULL,NA,NA,NULL,https://tbc.wowhead.com/item=31225/illidari-bindings,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,3,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,45,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,4,Bracers of Havok,Bracers of Havok,Rare,39.744,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,Yellow,NA,NA
-NA,5,Bands of Nefarious Deeds,Bands of Nefarious Deeds,Epic,33.364,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28515,NA,32,22,NULL,NULL,NULL,NA,NA,NA
-NA,6,Crimson Bracers of Gloom,Crimson Bracers of Gloom,Rare,32.3464,23.116,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27462,NA,22,18,12,NULL,NULL,NA,NA,NA
-NA,7,General's Silk Cuffs,General's Silk Cuffs,Epic,32.208,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28411,NA,20,17,NULL,12,NULL,Yellow,NA,NA
-NA,8,Marshal's Silk Cuffs,Marshal's Silk Cuffs,Epic,32.208,NULL,NA,PvP,1,https://tbc.wowhead.com/item=29002,NA,20,17,NULL,12,NULL,Yellow,NA,NA
-NA,9,General's Dreadweave Cuffs,General's Dreadweave Cuffs,Epic,31.868,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28405,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
-NA,10,Marshal's Dreadweave Cuffs,Marshal's Dreadweave Cuffs,Epic,31.868,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28981,NA,22,14,NULL,NULL,NULL,Yellow,NA,NA
-NA,11,Arcanium Signet Bands,Arcanium Signet Bands,Rare,30.93,NULL,Underbog,Hungarfen,1,https://tbc.wowhead.com/item=27746,NA,30,15,NULL,NULL,NULL,NA,NA,NA
-NA,12,Shattrath Wraps,Shattrath Wraps,Rare,30.93,NULL,NA,The Soul Devices,1,https://tbc.wowhead.com/item=28174,NA,21,15,NULL,NULL,NULL,Red,NA,NA
-NA,13,Bands of Negation,Bands of Negation,Epic,30.364,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=29240,NA,29,22,NULL,NULL,NULL,NA,NA,NA
-NA,14,Harbinger Bands,Harbinger Bands,Epic,28.842,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28477,NA,26,21,NULL,NULL,NULL,NA,NA,NA
-NA,15,Burrower Bracers,Burrower Bracers,Epic,28.806,NULL,Classic,NA,0,https://tbc.wowhead.com/item=21611,NA,28,13,NULL,NULL,NULL,NA,NA,NA
-NA,NA,Hands,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Anger-Spark Gloves,Anger-Spark Gloves,Epic,67.8715,52.4875,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30725,NA,30,NULL,20,25,NULL,Red,Red,NA
-NA,2,Handwraps of Flowing Thought,Handwraps of Flowing Thought,Epic,65.1328,54.364,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28507,NA,35,22,14,NULL,NULL,Yellow,Blue,NA
-NA,3,Soul-Eater's Handwraps,Soul-Eater's Handwraps,Epic,59.2575,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28780,NA,36,24,NULL,21,NULL,Yellow,Blue,NA
-NA,4,Manaspark Gloves,Manaspark Gloves,Rare,47.506,35.968,The Underbog,Hungarfen,1,https://tbc.wowhead.com/item=24450,NA,16,14,15,NULL,NULL,Red,Yellow,NA
-NA,5,Tempest's Touch,Tempest's Touch,Rare,46.9,NULL,NA,Return to Andormu,1,https://tbc.wowhead.com/item=29317,NA,27,20,NULL,NULL,NULL,Blue,Blue,NA
-NA,6,Gloves of the Deadwatcher,Gloves of the Deadwatcher,Rare,44.3336,30.488,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27493,NA,29,24,18,NULL,NULL,NA,NA,NA
-NA,7,Dark Storm Gauntlets,Dark Storm Gauntlets,Epic,44.0836,37.93,Classic,NA,0,https://tbc.wowhead.com/item=21585,NA,37,15,8,NULL,NULL,NA,NA,NA
-NA,8,Gloves of Oblivion,Gloves of Oblivion,Rare,42.686,27.302,Shattered Halls,Warchief Kargath Bladefist,1,https://tbc.wowhead.com/item=27537,NA,26,21,20,NULL,NULL,NA,NA,NA
-NA,9,Mana-Etched Gloves,Mana-Etched Gloves,Rare,41.926,NULL,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27465,NA,20,17,NULL,16,NULL,Red,Yellow,NA
-NA,10,Jaedenfire Gloves of Annihilation (Shadow),Jaedenfire Gloves of Annihilation (Shadow),Rare,40.55,NULL,Shadow Labyrinth,Ambassador Hellmaw,1,https://tbc.wowhead.com/item=27889,NA,39,25,NULL,NULL,NULL,NA,NA,NA
-NA,11,Gloves of the Incarnate,Gloves of the Incarnate,Epic,38.23,NULL,NA,NA,1,https://tbc.wowhead.com/item=29057,NA,30,26,NULL,24,NULL,NA,NA,NA
-NA,12,Gloves of Pandemonium,Gloves of Pandemonium,Rare,37.571,29.879,NA,World Drop,1,https://tbc.wowhead.com/item=31149,NA,25,15,10,22,NULL,NA,NA,NA
-NA,13,Grips of the Void,Grips of the Void,Uncommon,37.477,NULL,NA,Enraged Spirits of Air,1,https://tbc.wowhead.com/item=30930,NA,35,11,NULL,10,NULL,NA,NA,NA
-NA,14,Grips of the Void,Grips of the Void,Uncommon,37.477,NULL,NA,Enraged Spirits of Air,0,https://tbc.wowhead.com/item=30930,NA,35,11,NULL,10,NULL,NA,NA,NA
-NA,15,Uvuros Hide Gloves,Uvuros Hide Gloves,Uncommon,36.954,NULL,NA,"Wanted: Uvuros, Scourge of Shadowmoon",0,https://tbc.wowhead.com/item=31111,NA,35,12,NULL,NULL,NULL,NA,NA,NA
-NA,NA,Waist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Belt of Divine Inspiration,Belt of Divine Inspiration,Epic,62.612,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28799,NA,43,26,NULL,NULL,NULL,Yellow,Blue,NA
-NA,2,Girdle of Ruination,Girdle of Ruination,Epic,61.396,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24256,NA,39,13,NULL,20,NULL,Red,Yellow,NA
-NA,3,Glyph-Lined Sash,Glyph-Lined Sash,Rare,51.0415,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27843,NA,30,23,NULL,9,NULL,Yellow,Yellow,NA
-NA,4,Unyielding Girdle,Unyielding Girdle,Epic,50,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24255,NA,32,NULL,NULL,NULL,NULL,Blue,Yellow,NA
-NA,5,Belt of Depravity,Belt of Depravity,Epic,48.7504,35.674,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29241,NA,34,27,17,NULL,NULL,NA,NA,NA
-NA,6,Eyestalk Waist Cord,Eyestalk Waist Cord,Epic,44.071,NULL,Classic,NA,0,https://tbc.wowhead.com/item=22730,NA,41,9,NULL,14,NULL,NA,NA,NA
-NA,7,Mindfire Waistband,Mindfire Waistband,Rare,42.7225,NULL,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=24395,NA,21,14,NULL,11,NULL,Yellow,Blue,NA
-NA,8,Akama's Sash,Akama's Sash,Rare,42.414,NULL,NA,Akama's Promise,1,https://tbc.wowhead.com/item=30932,NA,40,7,NULL,NULL,NULL,NA,NA,NA
-NA,9,Malefic Girdle,Malefic Girdle,Epic,42.3815,NULL,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28654,NA,37,26,NULL,21,NULL,NA,NA,NA
-NA,10,Sash of Sealed Fate,Sash of Sealed Fate,Rare,40.0585,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31283,NA,35,15,NULL,23,NULL,NA,NA,NA
-NA,11,Sash of Serpentra,Sash of Serpentra,Rare,39.3784,26.302,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=27795,NA,25,21,17,NULL,NULL,NA,NA,NA
-NA,12,A'dal's Gift,A'dal's Gift,Rare,39.3195,NULL,NA,How to Break Into the Arcatraz,1,https://tbc.wowhead.com/item=31461,NA,34,25,NULL,21,NULL,NA,NA,NA
-NA,13,Nethershard Girdle,Nethershard Girdle,Epic,39.28,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28565,NA,35,30,NULL,NULL,NULL,NA,NA,NA
-NA,14,Dragonmaw Augur's Cinch,Dragonmaw Augur's Cinch,Uncommon,37.302,NULL,NA,A Job Unfinished...,0,https://tbc.wowhead.com/item=32867,NA,18,21,NULL,NULL,NULL,Blue,Red,NA
-NA,15,Dragonmaw Augur's Cinch,Dragonmaw Augur's Cinch,Uncommon,37.302,NULL,NA,A Job Unfinished...,0,https://tbc.wowhead.com/item=32867,NA,18,21,NULL,NULL,NULL,Blue,Red,NA
-NA,NA,Ring,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Ring of the Fallen God,Ring of the Fallen God,Epic,43.5256,37.372,Classic,NA,0,https://tbc.wowhead.com/item=21709,NA,37,6,8,NULL,NULL,NA,NA,NA
-NA,2,Band of the Inevitable,Band of the Inevitable,Epic,42.1536,36,Naxxramas,Noth the Plaguebringer,1,https://tbc.wowhead.com/item=23031,NA,36,NULL,8,NULL,NULL,NA,NA,NA
-NA,3,Band of Crimson Fury,Band of Crimson Fury,Epic,41.6712,29.364,Magtheridon's Lair,The Fall of Magtheridon,1,https://tbc.wowhead.com/item=28793,NA,28,22,16,NULL,NULL,NA,NA,NA
-NA,4,Ashyen's Gift,Ashyen's Gift,Epic,39.1532,23,Cenarion Expedition,Exalted,1,https://tbc.wowhead.com/item=29172,NA,23,NULL,21,NULL,NULL,NA,NA,NA
-NA,5,Seal of the Exorcist,Seal of the Exorcist,Epic,37.2304,28,Spirit Shard,PvP,1,https://tbc.wowhead.com/item=28555,NA,28,NULL,12,NULL,NULL,NA,NA,NA
-NA,6,Ring of Recurrence,Ring of Recurrence,Epic,36.3405,NULL,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28753,NA,32,15,NULL,19,NULL,NA,NA,NA
-NA,7,Seer's Signet,Seer's Signet,Epic,36.154,NULL,The Scryers,Exalted,1,https://tbc.wowhead.com/item=29126,NA,34,NULL,NULL,12,NULL,NA,NA,NA
-NA,8,Cobalt Band of Tyrigosa,Cobalt Band of Tyrigosa,Epic,36.054,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=29352,NA,35,17,NULL,NULL,NULL,NA,NA,NA
-NA,9,Violet Signet of the Archmage,Violet Signet of the Archmage,Epic,33.4775,NULL,Deadwind Pass,Eminence Among the Violet Eye,1,https://tbc.wowhead.com/item=29287,NA,29,23,NULL,17,NULL,NA,NA,NA
-NA,10,Sparking Arcanite Ring,Sparking Arcanite Ring,Rare,33.073,25.381,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28227,NA,22,14,10,14,NULL,NA,NA,NA
-NA,11,Violet Signet,Violet Signet,Epic,32.4155,NULL,Deadwind Pass,Distinguished Service,1,https://tbc.wowhead.com/item=29286,NA,28,22,NULL,17,NULL,NA,NA,NA
-NA,12,Band of Dominion,Band of Dominion,Rare,31.7695,NULL,NA,NA,1,https://tbc.wowhead.com/item=31290,NA,28,NULL,NULL,21,NULL,NA,NA,NA
-NA,13,Manastorm Band,Manastorm Band,Rare,31.725,NULL,Netherstorm,Shutting Down Manaforge Ara,1,https://tbc.wowhead.com/item=30366,NA,29,15,NULL,10,NULL,NA,NA,NA
-NA,14,Evoker's Mark of the Redemption,Evoker's Mark of the Redemption,Rare,31.725,NULL,Shadowmoon Valley,Dissension Amongst the Ranks...,1,https://tbc.wowhead.com/item=31075,NA,29,15,NULL,10,NULL,NA,NA,NA
-NA,15,Lola's Eve,Lola's Eve,Epic,31.298,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31339,NA,29,14,NULL,NULL,NULL,NA,NA,NA
-NA,NA,Legs,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Leggings of the Seventh Circle,Leggings of the Seventh Circle,Epic,96.6971,82.8515,Hellfire Peninsula,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30734,NA,50,22,18,25,NULL,Red,Yellow,Yellow
-NA,2,Spellstrike Pants,Spellstrike Pants,Epic,95.0854,78.163,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24262,NA,46,8,22,26,NULL,Blue,Yellow,Red
-NA,3,Breeches of the Occultist,Breeches of the Occultist,Epic,68.4925,NULL,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=30531,NA,36,22,NULL,23,NULL,Blue,Yellow,Yellow
-NA,4,Kirin Tor Master's Trousers,Kirin Tor Master's Trousers,Epic,67.548,NULL,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=30532,NA,36,29,NULL,NULL,NULL,Red,Yellow,Blue
-NA,5,Khadgar's Kilt of Abjuration,Khadgar's Kilt of Abjuration,Rare,66.014,NULL,Black Morass,Temporus,1,https://tbc.wowhead.com/item=28185,NA,36,22,NULL,NULL,NULL,Yellow,Blue,Blue
-NA,6,Battlecast Pants,Battlecast Pants,Epic,65.674,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24263,NA,46,27,NULL,NULL,NULL,Red,Blue,NA
-NA,7,Devil-Stitched Leggings,Devil-Stitched Leggings,Rare,57.736,NULL,Botanica,Laj,1,https://tbc.wowhead.com/item=28338,NA,29,28,NULL,NULL,NULL,Red,Yellow,Blue
-NA,8,Aran's Sorcerous Slacks,Aran's Sorcerous Slacks,Rare,55.5055,NULL,Old Hillsbrad Foothills,Lieutenant Drake,1,https://tbc.wowhead.com/item=28212,NA,23,28,NULL,21,NULL,Red,Yellow,Blue
-NA,9,Leggings of the Incarnate,Leggings of the Incarnate,Epic,52.8135,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=29059,NA,43,38,NULL,25,NULL,NA,NA,NA
-NA,10,Gladiator's Satin Leggings,Gladiator's Satin Leggings,Epic,50.86,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27709,NA,49,30,NULL,NULL,NULL,NA,NA,NA
-NA,11,Trousers of Oblivion,Trousers of Oblivion,Rare,50.2764,41.046,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27948,NA,39,33,12,NULL,NULL,NA,NA,NA
-NA,12,Princely Reign Leggings,Princely Reign Leggings,Rare,49.9016,36.056,Slave Pens,Mennu the Betrayer,1,https://tbc.wowhead.com/item=24359,NA,33,28,18,NULL,NULL,NA,NA,NA
-NA,13,Leggings of Polarity,Leggings of Polarity,Epic,49.894,NULL,Naxxramas,Thaddius,1,https://tbc.wowhead.com/item=23070,NA,44,14,NULL,28,NULL,NA,NA,NA
-NA,14,Incanter's Trousers,Incanter's Trousers,Rare,48.961,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27838,NA,42,30,NULL,18,NULL,NA,NA,NA
-NA,15,Metro's Slimming Legs,Metro's Slimming Legs,Uncommon,45.13,NULL,NA,Gauging the Resonant Frequency,0,https://tbc.wowhead.com/item=31442,NA,42,15,NULL,NULL,NULL,NA,NA,NA
-NA,NA,Feet,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Frozen Shadoweave Boots (Shadow/Frost),Frozen Shadoweave Boots (Shadow/Frost),Epic,75.558,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21870,NA,57,9,NULL,NULL,NULL,Yellow,Blue,NA
-NA,2,Ruby Slippers,Ruby Slippers,Epic,49.1052,36.798,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28585,NA,35,29,16,NULL,NULL,NA,NA,NA
-NA,3,Boots of Foretelling,Boots of Foretelling,Epic,48.8365,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,26,23,NULL,19,NULL,Red,Yellow,NA
-NA,4,Shattrath Jumpers,Shattrath Jumpers,Rare,48.054,NULL,NA,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28179,NA,29,17,NULL,NULL,NULL,Blue,Yellow,NA
-NA,5,Rocket Boots Xtreme Lite,Rocket Boots Xtreme Lite,Rare,47,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=35581,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,6,Embroidered Spellpyre Boots,Embroidered Spellpyre Boots,Rare,42.302,NULL,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=27848,NA,41,21,NULL,NULL,NULL,NA,NA,NA
-NA,7,Extravagant Boots of Malice,Extravagant Boots of Malice,Rare,42.2568,31.488,Mana-Tombs,Tavarok,1,https://tbc.wowhead.com/item=27821,NA,30,24,14,NULL,NULL,NA,NA,NA
-NA,8,Sigil-Laced Boots,Sigil-Laced Boots,Rare,42.1675,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28406,NA,20,18,NULL,17,NULL,Red,Yellow,NA
-NA,9,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,39.9945,NULL,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,18,21,NULL,15,NULL,Red,Yellow,NA
-NA,10,Boots of the Darkwalker (Shadow),Boots of the Darkwalker (Shadow),Rare,38.55,NULL,Hellfire Ramparts,Watchkeeper Gargolmar,1,https://tbc.wowhead.com/item=27451,NA,37,25,NULL,NULL,NULL,NA,NA,NA
-NA,11,Boots of the Infernal Coven,Boots of the Infernal Coven,Epic,38.204,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28670,NA,34,27,NULL,NULL,NULL,NA,NA,NA
-NA,12,Boots of Blasphemy,Boots of Blasphemy,Epic,37.798,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=29242,NA,36,29,NULL,NULL,NULL,NA,NA,NA
-NA,13,Boots of Ethereal Manipulation,Boots of Ethereal Manipulation,Epic,36.984,NULL,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=29258,NA,33,27,NULL,NULL,NULL,NA,NA,NA
-NA,14,Shimmering Azure Boots,Shimmering Azure Boots,Uncommon,36.4852,24.178,NA,Securing the Celestial Ridge,0,https://tbc.wowhead.com/item=29808,NA,23,19,16,NULL,NULL,NA,NA,NA
-NA,15,Boots of the Nexus Warden,Boots of the Nexus Warden,Uncommon,35.8996,22.054,NA,The Flesh Lies...,1,https://tbc.wowhead.com/item=30519,NA,21,17,18,NULL,NULL,NA,NA,NA
-NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,85,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Quagmirran's Eye,Quagmirran's Eye,Rare,75.4,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,38.4,NA,NA,NA
-NA,3,Eye of Magtheridon,Eye of Magtheridon,Epic,71,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,71,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,4,Icon of the Silver Crescent,Icon of the Silver Crescent,Epic,69,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29370,NA,69,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,5,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,62,NULL,Classic,NA,0,https://tbc.wowhead.com/item=23046,NA,62,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,6,Neltharion's Tear,Neltharion's Tear,Epic,56.3072,44,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,44,NULL,16,NULL,NULL,NA,NA,NA
-NA,7,Scryer's Bloodgem,Scryer's Bloodgem,Rare,49.6144,25,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,25,NULL,32,NULL,NULL,NA,NA,NA
-NA,8,Arcanist's Stone,Arcanist's Stone,Rare,48.23,29,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28223,NA,29,NULL,25,NULL,NULL,NA,NA,NA
-NA,9,Shiffar's Nexus-Horn,Shiffar's Nexus-Horn,Rare,46.385,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28418,NA,41,NULL,NULL,30,NULL,NA,NA,NA
-NA,10,Ancient Crystal Talisman,Ancient Crystal Talisman,Uncommon,43,NULL,Seer Janidi,A Spirit Ally?,1,https://tbc.wowhead.com/item=25620,NA,43,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,11,Starkiller's Bauble,Starkiller's Bauble,Uncommon,40.8292,20.83,NA,The Horrors of Pollution,0,https://tbc.wowhead.com/item=30340,NA,20.83,NULL,26,NULL,NULL,NA,NA,NA
-NA,12,Oculus of the Hidden Eye,Oculus of the Hidden Eye,Rare,33,NULL,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=26055,NA,33,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,13,Mark of Defiance,Mark of Defiance,Rare,32,NULL,Alliance Field,NA,1,https://tbc.wowhead.com/item=27922,NA,32,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,14,Mark of Defiance,Mark of Defiance,Rare,32,NULL,Horde Field,NA,1,https://tbc.wowhead.com/item=27924,NA,32,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,15,Terokkar Tablet of Vim,Terokkar Tablet of Vim,Uncommon,30.9224,14,Terokkar Forest,Torgos!,1,https://tbc.wowhead.com/item=25936,NA,14,NULL,22,NULL,NULL,NA,NA,NA
-NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Talon of the Tempest,Talon of the Tempest,Epic,222.9533,216.0305,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30723,NA,194,10,9,19,NULL,Yellow,Yellow,NA
-NA,2,Nathrezim Mindblade,Nathrezim Mindblade,Epic,208.2445,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28770,NA,203,18,NULL,23,NULL,NA,NA,NA
-NA,3,Gladiator's Spellblade,Gladiator's Spellblade,Epic,200.116,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28297,NA,199,18,NULL,NULL,NULL,NA,NA,NA
-NA,4,Gladiator's Gavel,Gladiator's Gavel,Epic,200.116,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=32450,NA,199,18,NULL,NULL,NULL,NA,NA,NA
-NA,5,Illidari-Bane Mageblade (Demon),Illidari-Bane Mageblade (Demon),Rare,189.272,NULL,Shadowmoon Valley,Quenching the Blade,1,https://tbc.wowhead.com/item=30787,NA,185,11,NULL,20,NULL,NA,NA,NA
-NA,6,Eternium Runed Blade,Eternium Runed Blade,Epic,172.9475,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23554,NA,168,19,NULL,21,NULL,NA,NA,NA
-NA,7,Gavel of Unearthed Secrets,Gavel of Unearthed Secrets,Epic,162.6845,NULL,Lower City,Exalted,1,https://tbc.wowhead.com/item=30832,NA,159,16,NULL,15,NULL,NA,NA,NA
-NA,8,Starlight Dagger,Starlight Dagger,Rare,134.2372,121.93,Slave Pens,Mennu the Betrayer,1,https://tbc.wowhead.com/item=27543,NA,121,15,16,NULL,NULL,NA,NA,NA
-NA,9,Sky Breaker,Sky Breaker,Rare,133.24,NULL,Auchenai Crypts,Avatar of the Martyred,1,https://tbc.wowhead.com/item=27937,NA,132,20,NULL,NULL,NULL,NA,NA,NA
-NA,10,High Warlord's Spellblade,High Warlord's Spellblade,Rare,131.8056,121.806,NA,PvP,1,https://tbc.wowhead.com/item=28931,NA,121,13,13,NULL,NULL,NA,NA,NA
-NA,11,Grand Marshal's Spellblade,Grand Marshal's Spellblade,Rare,131.8056,121.806,NA,PvP,1,https://tbc.wowhead.com/item=28957,NA,121,13,13,NULL,NULL,NA,NA,NA
-NA,12,Runesong Dagger,Runesong Dagger,Rare,125.272,NULL,Shattered Halls,Warbringer O'mrogg,1,https://tbc.wowhead.com/item=27868,NA,121,11,NULL,20,NULL,NA,NA,NA
-NA,13,Bleeding Hollow Warhammer,Bleeding Hollow Warhammer,Rare,124.926,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27741,NA,121,17,NULL,16,NULL,NA,NA,NA
-NA,14,Terokk's Gavel,Terokk's Gavel,Rare,121,NULL,Terokkar Forest,Terokk,1,https://tbc.wowhead.com/item=32537,NA,121,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,15,Time-Shifted Dagger,Time-Shifted Dagger,Rare,88.2635,NULL,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27431,NA,85,15,NULL,13,NULL,NA,NA,NA
-NA,NA,Off Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,2,Orb of the Soul-Eater (Shadow),Orb of the Soul-Eater (Shadow),Epic,51,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29272,NA,51,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,3,Khadgar's Knapsack,Khadgar's Knapsack,Epic,49,NULL,Badge of Justice,Weapons Vendor,1,https://tbc.wowhead.com/item=29273,NA,49,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,4,Draenei Crystal Rod of Wrath,Draenei Crystal Rod of Wrath,Uncommon,45,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=25099,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,5,Jewel of Infinite Possibilities,Jewel of Infinite Possibilities,Epic,40.2692,24.116,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28734,NA,23,18,21,NULL,NULL,NA,NA,NA
-NA,6,Karrog's Shard,Karrog's Shard,Rare,37.154,NULL,NA,NA,1,https://tbc.wowhead.com/item=32533,NA,35,NULL,NULL,12,NULL,NA,NA,NA
-NA,7,Karaborian Talisman,Karaborian Talisman,Epic,36.426,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28781,NA,35,23,NULL,NULL,NULL,NA,NA,NA
-NA,8,Crystal Orb of Enlightenment,Crystal Orb of Enlightenment,Epic,33.992,NULL,Jho'nass,NA,1,https://tbc.wowhead.com/item=32651,NA,33,16,NULL,NULL,NULL,NA,NA,NA
-NA,9,Lamp of Peaceful Radiance,Lamp of Peaceful Radiance,Rare,33.4319,24.2015,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28412,NA,21,14,12,13,NULL,NA,NA,NA
-NA,10,Star-Heart Lamp,Star-Heart Lamp,Rare,32.3464,23.116,Black Morass,Temporus,1,https://tbc.wowhead.com/item=28187,NA,22,18,12,NULL,NULL,NA,NA,NA
-NA,11,Talisman of Nightbane,Talisman of Nightbane,Epic,32.2295,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28603,NA,28,19,NULL,17,NULL,NA,NA,NA
-NA,12,The Saga of Terokk,The Saga of Terokk,Rare,29.426,NULL,NA,Terokk's Legacy,1,https://tbc.wowhead.com/item=29330,NA,28,23,NULL,NULL,NULL,NA,NA,NA
-NA,13,Sapphiron's Left Eye,Sapphiron's Left Eye,Epic,29.009,NULL,Naxxramas,Sapphiron,1,https://tbc.wowhead.com/item=23049,NA,26,8,NULL,14,NULL,NA,NA,NA
-NA,14,Master Dragonslayer's Orb,Master Dragonslayer's Orb,Epic,28.868,NULL,Classic,NA,0,https://tbc.wowhead.com/item=19366,NA,28,14,NULL,NULL,NULL,NA,NA,NA
-NA,15,Imbued Draenethyst Crystal,Imbued Draenethyst Crystal,Uncommon,27.118,NULL,NA,Teleport This!,0,https://tbc.wowhead.com/item=31699,NA,25,11,NULL,8,NULL,NA,NA,NA
-NA,1,Gem of Nerubis,Gem of Nerubis,Epic,25.62,NULL,Naxxramas,Anub'Rekhan,1,https://tbc.wowhead.com/item=22937,NA,25,10,NULL,NULL,NULL,NA,NA,NA
-NA,NA,Two Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,3,Gladiator's War Staff,Gladiator's War Staff,Epic,223.7852,207.632,Season 1,PvP,1,https://tbc.wowhead.com/item=24557,NA,199,35,21,36,NULL,NA,NA,NA
-NA,4,Staff of Infinite Mysteries,Staff of Infinite Mysteries,Epic,205.8536,188.162,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28633,NA,185,51,23,NULL,NULL,NA,NA,NA
-NA,5,Frostscythe of Lord Ahune,Frostscythe of Lord Ahune,Epic,184.0935,NULL,NA,NA,1,https://tbc.wowhead.com/item=35514,NA,176,35,NULL,33,NULL,NA,NA,NA
-NA,6,Terokk's Shadowstaff,Terokk's Shadowstaff,Epic,177.2455,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=29355,NA,168,42,NULL,37,NULL,NA,NA,NA
-NA,7,Hammer of Righteous Might,Hammer of Righteous Might,Epic,170.294,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=32854,NA,168,37,NULL,NULL,NULL,NA,NA,NA
-NA,8,High Warlord's War Staff,High Warlord's War Staff,Rare,143.629,128.245,NA,PvP,1,https://tbc.wowhead.com/item=28935,NA,121,30,20,30,NULL,NA,NA,NA
-NA,9,Grand Marshal's War Staff,Grand Marshal's War Staff,Rare,143.629,128.245,NA,PvP,1,https://tbc.wowhead.com/item=28959,NA,121,30,20,30,NULL,NA,NA,NA
-NA,10,Auchenai Staff,Auchenai Staff,Rare,143.1338,128.519,Quartermaster Endarin,NA,1,https://tbc.wowhead.com/item=29130,NA,121,46,19,26,NULL,NA,NA,NA
-NA,11,Warpstaff of Arcanum,Warpstaff of Arcanum,Rare,140.3302,128.023,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28341,NA,121,38,16,26,NULL,NA,NA,NA
-NA,12,Grand Scepter of the Nexus-Kings,Grand Scepter of the Nexus-Kings,Rare,138.2808,123.666,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27842,NA,121,43,19,NULL,NULL,NA,NA,NA
-NA,13,Soulseeker,Soulseeker,Epic,132.948,NULL,Naxxramas,Kel'Thuzad,0,https://tbc.wowhead.com/item=22799,NA,126,31,NULL,28,NULL,NA,NA,NA
-NA,14,The Bringer of Death,The Bringer of Death,Rare,130.461,NULL,NA,NA,1,https://tbc.wowhead.com/item=31308,NA,121,31,NULL,42,NULL,NA,NA,NA
-NA,15,Bloodfire Greatstaff,Bloodfire Greatstaff,Rare,128.63,NULL,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28188,NA,121,42,NULL,28,NULL,NA,NA,NA
-NA,NA,Flaming Quartz Staff,Flaming Quartz Staff,Rare,128.519,NULL,Apex Crystal,Crafted,1,https://tbc.wowhead.com/item=32662,NA,121,46,NULL,26,NULL,NA,NA,NA
-NA,NA,Brimstone Staff,Brimstone Staff,Epic,127.1672,114.86,Naxxramas,Loatheb,1,https://tbc.wowhead.com/item=22800,NA,113,30,16,NULL,NULL,NA,NA,NA
-NA,NA,Ranged,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Flawless Wand of Wrath,Flawless Wand of Wrath,Uncommon,25,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=25295,NA,25,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Tirisfal Wand of Ascendancy,Tirisfal Wand of Ascendancy,Epic,24.0192,15.558,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28673,NA,15,9,11,NULL,NULL,NA,NA,NA
-NA,3,Illidari Rod of Discipline,Illidari Rod of Discipline,Uncommon,22,NULL,NA,Subdue the Subduer,0,https://tbc.wowhead.com/item=32872,NA,13,NULL,NULL,NULL,NULL,Blue,NA,NA
-NA,4,The Black Stalk,The Black Stalk,Epic,21.9745,NULL,Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=29350,NA,20,NULL,NULL,11,NULL,NA,NA,NA
-NA,5,Nether Core's Control Rod,Nether Core's Control Rod,Rare,19.7736,13.62,Arcatraz,Dalliah the Doomsayer,1,https://tbc.wowhead.com/item=28386,NA,13,10,8,NULL,NULL,NA,NA,NA
-NA,6,Eredar Wand of Obliteration,Eredar Wand of Obliteration,Epic,19.195,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28783,NA,16,11,NULL,14,NULL,NA,NA,NA
-NA,7,Wand of the Seer,Wand of the Seer,Rare,19.046,NULL,Terokkar Forest,Turning Point,1,https://tbc.wowhead.com/item=30859,NA,18,8,NULL,NULL,NULL,NA,NA,NA
-NA,8,Wand of Fates,Wand of Fates,Epic,18.5876,12.434,Naxxramas,Patchwerk,1,https://tbc.wowhead.com/item=22820,NA,12,7,8,NULL,NULL,NA,NA,NA
-NA,9,Doomfinger,Doomfinger,Epic,18.513,NULL,Naxxramas,Kel'Thuzad,1,https://tbc.wowhead.com/item=22821,NA,16,NULL,NULL,14,NULL,NA,NA,NA
-NA,10,Voidfire Wand,Voidfire Wand,Rare,16.9424,11.558,Mana-Tombs,Pandemonius,1,https://tbc.wowhead.com/item=25939,NA,11,9,7,NULL,NULL,NA,NA,NA
-NA,11,Nesingwary Safari Stick,Nesingwary Safari Stick,Rare,16.154,NULL,NA,The Ultimate Bloodsport,1,https://tbc.wowhead.com/item=25640,NA,14,NULL,NULL,12,NULL,NA,NA,NA
-NA,12,Wand of the Netherwing,Wand of the Netherwing,Rare,16,NULL,Shadow Labyrinth,Blackheart the Inciter,1,https://tbc.wowhead.com/item=27890,NA,16,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,13,Wand of the Ancestors,Wand of the Ancestors,Uncommon,15.31,NULL,NA,The Thunderspike,0,https://tbc.wowhead.com/item=31474,NA,15,5,NULL,NULL,NULL,NA,NA,NA
-NA,14,Arakkoa Divining Rod,Arakkoa Divining Rod,Uncommon,15.248,NULL,NA,A Personal Favor,0,https://tbc.wowhead.com/item=31724,NA,15,4,NULL,NULL,NULL,NA,NA,NA
-NA,15,Talonbranch Wand,Talonbranch Wand,Uncommon,15.248,NULL,NA,Veil Rhaze: Unliving Evil,0,https://tbc.wowhead.com/item=31761,NA,15,4,NULL,NULL,NULL,NA,NA,NA
+Capped",Location,NA,Phase,NA,NA,Stats,NA,NA,NA,NA,NA
+NA,NA,Head,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Neck,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Shoulders,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Back,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Chest,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Wrist,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Hands,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Waist,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Ring,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Legs,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Feet,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Trinket,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,One Hand,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Off Hand,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Two Hand,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Ranged,NA,NA,NA,NA,NA,NA,NA,NA,NA,sp,int,hit,crit,haste,socket
+NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
