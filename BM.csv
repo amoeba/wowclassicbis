@@ -196,19 +196,19 @@ NA,15,Jom Gabbar,Jom Gabbar,Epic,31.02,NULL,Classic,NA,0,https://tbc.wowhead.com
 NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Illidari-Bane Broadsword (Demon),Illidari-Bane Broadsword (Demon),Rare,48.081,NULL,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=30788,NA,93,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Illidari-Bane Dagger (Demon),Illidari-Bane Dagger (Demon),Rare,48.081,NULL,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=31745,NA,93,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,3,Fool's Bane,Fool's Bane,Epic,43.158,NULL,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28657,NA,30,NULL,NULL,24,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
-NA,4,Claw of the Netherwing Flight,Claw of the Netherwing Flight,Rare,42.255,31.35,NA,Ally of the Netherwing,1,https://tbc.wowhead.com/item=31492,NA,30,15,15,NULL,NULL,NULL,15,NA,NA,NA,NA,NA
-NA,5,Blade of the Unrequited,Blade of the Unrequited,Epic,41.85,NULL,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28572,NA,18,NULL,NULL,9,NULL,NULL,NULL,Red,Yellow,Blue,NA,NA
-NA,6,Guile of Khoraazi,Guile of Khoraazi,Epic,39.71,NULL,NA,NA,1,https://tbc.wowhead.com/item=29121,NA,38,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,7,Black Planar Edge,Black Planar Edge,Epic,39.548,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28432,NA,44,NULL,NULL,21,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,8,Claw of the Watcher,Claw of the Watcher,Rare,38.904,NULL,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27846,NA,24,NULL,NULL,12,NULL,NULL,NULL,Blue,Red,NA,NA,NA
-NA,9,Emerald Ripper,Emerald Ripper,Epic,38.676,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28524,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,10,Direbrew's Shanker,Direbrew's Shanker,Epic,38.676,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=37597,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,11,Spiteblade,Spiteblade,Epic,38.566,NULL,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28729,NA,46,14,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,The Planar Edge,The Planar Edge,Epic,37.714,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28431,NA,42,NULL,NULL,20,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,Talon of Anzu,Talon of Anzu,Rare,37.62,NULL,Sethekk Halls,Anzu,1,https://tbc.wowhead.com/item=32781,NA,36,10,NULL,NULL,NULL,NULL,NULL,Red,NA,NA,NA,NA
-NA,14,Borak's Reminder,Borak's Reminder,Rare,37.385,32.296,NA,The Cipher of Damnation,1,https://tbc.wowhead.com/item=31073,NA,40,11,7,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,Malchazeen,Malchazeen,Epic,36.755,25.85,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28768,NA,50,NULL,15,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,3,Claw of the Netherwing Flight,Claw of the Netherwing Flight,Rare,42.255,31.35,NA,Ally of the Netherwing,1,https://tbc.wowhead.com/item=31492,NA,30,15,15,NULL,NULL,NULL,15,NA,NA,NA,NA,NA
+NA,4,Blade of the Unrequited,Blade of the Unrequited,Epic,41.85,NULL,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28572,NA,18,NULL,NULL,9,NULL,NULL,NULL,Red,Yellow,Blue,NA,NA
+NA,5,Guile of Khoraazi,Guile of Khoraazi,Epic,39.71,NULL,NA,NA,1,https://tbc.wowhead.com/item=29121,NA,38,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,6,Black Planar Edge,Black Planar Edge,Epic,39.548,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28432,NA,44,NULL,NULL,21,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,7,Claw of the Watcher,Claw of the Watcher,Rare,38.904,NULL,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27846,NA,24,NULL,NULL,12,NULL,NULL,NULL,Blue,Red,NA,NA,NA
+NA,8,Emerald Ripper,Emerald Ripper,Epic,38.676,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28524,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,9,Direbrew's Shanker,Direbrew's Shanker,Epic,38.676,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=37597,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,10,Spiteblade,Spiteblade,Epic,38.566,NULL,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28729,NA,46,14,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,11,The Planar Edge,The Planar Edge,Epic,37.714,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28431,NA,42,NULL,NULL,20,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,Talon of Anzu,Talon of Anzu,Rare,37.62,NULL,Sethekk Halls,Anzu,1,https://tbc.wowhead.com/item=32781,NA,36,10,NULL,NULL,NULL,NULL,NULL,Red,NA,NA,NA,NA
+NA,13,Borak's Reminder,Borak's Reminder,Rare,37.385,32.296,NA,The Cipher of Damnation,1,https://tbc.wowhead.com/item=31073,NA,40,11,7,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,Malchazeen,Malchazeen,Epic,36.755,25.85,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28768,NA,50,NULL,15,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,Dirge,Dirge,Epic,36.68,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23555,NA,40,NULL,NULL,20,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Two Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Illidari-Bane Claymore (Demon),Illidari-Bane Claymore (Demon),Rare,107.15,NULL,Shadowmoon Valley,Quenching the Blade,1,https://tbc.wowhead.com/item=30789,NA,150,NULL,NULL,37,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Mooncleaver,Mooncleaver,Epic,96.402,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28435,NA,106,NULL,NULL,52,NULL,NULL,NULL,NA,NA,NA,NA,NA
@@ -221,10 +221,10 @@ NA,8,Felsteel Reaper,Felsteel Reaper,Epic,81.904,NULL,Blacksmithing,Crafted,1,ht
 NA,9,Quantum Blade,Quantum Blade,Epic,76.734,NULL,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=29356,NA,102,NULL,NULL,30,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,10,Gladiator's Decapitator,Gladiator's Decapitator,Epic,75.628,61.088,Season 1,PvP,1,https://tbc.wowhead.com/item=28298,NA,64,NULL,20,35,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,11,Hellscream's Will,Hellscream's Will,Rare,73.962,43.428,The Mag'har,Exalted,1,https://tbc.wowhead.com/item=29137,NA,84,NULL,42,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,Arechron's Gift,Arechron's Gift,Rare,73.962,43.428,Kurenai,Exalted,1,https://tbc.wowhead.com/item=29138,NA,84,NULL,42,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,Skyforged Great Axe,Skyforged Great Axe,Rare,69.36,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=30088,NA,80,NULL,NULL,35,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,14,Axe of the Nexus-Kings,Axe of the Nexus-Kings,Rare,65.224,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27829,NA,72,NULL,NULL,35,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,High Warlord's Decapitator,High Warlord's Decapitator,Rare,64.438,51.352,NA,PvP,1,https://tbc.wowhead.com/item=28918,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,Skyforged Great Axe,Skyforged Great Axe,Rare,69.36,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=30088,NA,80,NULL,NULL,35,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,13,Axe of the Nexus-Kings,Axe of the Nexus-Kings,Rare,65.224,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27829,NA,72,NULL,NULL,35,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,High Warlord's Decapitator,High Warlord's Decapitator,Rare,64.438,51.352,NA,PvP,1,https://tbc.wowhead.com/item=28918,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,High Warlord's Painsaw,High Warlord's Painsaw,Rare,64.438,51.352,NA,PvP,0,https://tbc.wowhead.com/item=28923,NA,56,NULL,18,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Ranged,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,type,dps,speed,ap,agi,hit,crit,haste,arp,exp,socket,NA
 NA,1,Sunfury Bow of the Phoenix,Sunfury Bow of the Phoenix,Epic,454.142,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28772,NA,Bow,83.3,2.9,34,19,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Barrel-Blade Longrifle,Barrel-Blade Longrifle,Epic,439.792,NULL,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30724,NA,Gun,81.2,2.6,NULL,16,NULL,NULL,NA,NA,NA,Red,Red
