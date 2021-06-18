@@ -20,19 +20,19 @@ NA,15,Grand Marshal's Scaled Helm,Grand Marshal's Scaled Helm,Rare,70.3379,NULL,
 NA,NA,Neck,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NULL,NA,NA,NA
 NA,1,Braided Eternium Chain (GROUP BUFF),Braided Eternium Chain (GROUP BUFF),Rare,57.8714,30.3404,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24114,NA,40,NULL,NULL,21,28,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,2,Choker of Vile Intent,Choker of Vile Intent,Epic,48.931,25.333,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29381,NA,42,NULL,20,18,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,3,Amulet of Bitter Hatred,Amulet of Bitter Hatred,Epic,48.931,25.333,Slave Pens,Ahune,1,https://tbc.wowhead.com/item=35507,NA,42,NULL,20,18,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,4,Worgen Claw Necklace,Worgen Claw Necklace,Epic,47.62,25.333,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28509,NA,42,NULL,20,17,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,5,Necklace of Trophies,Necklace of Trophies,Rare,43.8864,25.5324,NA,World Drop,1,https://tbc.wowhead.com/item=31275,NA,NULL,22,15,14,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,6,Bone Chain Necklace,Bone Chain Necklace,Rare,39.9374,22.8944,Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=27779,NA,36,NULL,19,13,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,7,Talon Lord's Collar,Talon Lord's Collar,Rare,38.95,11.419,Terokkar Forest,Brother Against Brother,1,https://tbc.wowhead.com/item=29335,NA,38,NULL,NULL,21,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,8,Traitor's Noose,Traitor's Noose,Rare,38.9284,23.1964,Slave Pens,Mennu the Betrayer,1,https://tbc.wowhead.com/item=27546,NA,38,NULL,NULL,12,18,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,9,Natasha's Choker,Natasha's Choker,Rare,37.9495,24.8395,Blade's Edge Mountains,The Hound-Master,1,https://tbc.wowhead.com/item=31695,NA,50,NULL,NULL,10,15,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,10,Earthen Mark of Razing,Earthen Mark of Razing,Rare,37.6718,20.6288,Nagrand,Gurok the Usurper,1,https://tbc.wowhead.com/item=25562,NA,20,NULL,23,13,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,11,Insignia of the Mag'hari Hero,Insignia of the Mag'hari Hero,Rare,37.1835,18.8295,Durotar,Hero of the Mag'har,0,https://tbc.wowhead.com/item=28168,NA,30,NULL,NULL,14,15,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,12,Prestor's Talisman of Connivery,Prestor's Talisman of Connivery,Epic,35.611,22.501,Classic,NA,0,https://tbc.wowhead.com/item=19377,NA,22,NULL,25,10,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,13,Haramad's Bargain,Haramad's Bargain,Epic,34.7972,NULL,The Consortium,Exalted,1,https://tbc.wowhead.com/item=29119,NA,NULL,26,25,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,14,Skeletal Necklace of Battlerage,Skeletal Necklace of Battlerage,Rare,34.6392,18.9072,Slave Pens,Rokmar the Crackler,1,https://tbc.wowhead.com/item=27551,NA,NULL,26,NULL,12,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,15,Mithril Chain of Heroism,Mithril Chain of Heroism,Epic,34.3448,NULL,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28745,NA,NULL,28,22,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,3,Worgen Claw Necklace,Worgen Claw Necklace,Epic,47.62,25.333,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28509,NA,42,NULL,20,17,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,4,Necklace of Trophies,Necklace of Trophies,Rare,43.8864,25.5324,NA,World Drop,1,https://tbc.wowhead.com/item=31275,NA,NULL,22,15,14,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,5,Bone Chain Necklace,Bone Chain Necklace,Rare,39.9374,22.8944,Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=27779,NA,36,NULL,19,13,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,6,Talon Lord's Collar,Talon Lord's Collar,Rare,38.95,11.419,Terokkar Forest,Brother Against Brother,1,https://tbc.wowhead.com/item=29335,NA,38,NULL,NULL,21,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,7,Traitor's Noose,Traitor's Noose,Rare,38.9284,23.1964,Slave Pens,Mennu the Betrayer,1,https://tbc.wowhead.com/item=27546,NA,38,NULL,NULL,12,18,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,8,Natasha's Choker,Natasha's Choker,Rare,37.9495,24.8395,Blade's Edge Mountains,The Hound-Master,1,https://tbc.wowhead.com/item=31695,NA,50,NULL,NULL,10,15,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,9,Earthen Mark of Razing,Earthen Mark of Razing,Rare,37.6718,20.6288,Nagrand,Gurok the Usurper,1,https://tbc.wowhead.com/item=25562,NA,20,NULL,23,13,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,10,Insignia of the Mag'hari Hero,Insignia of the Mag'hari Hero,Rare,37.1835,18.8295,Durotar,Hero of the Mag'har,0,https://tbc.wowhead.com/item=28168,NA,30,NULL,NULL,14,15,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,11,Prestor's Talisman of Connivery,Prestor's Talisman of Connivery,Epic,35.611,22.501,Classic,NA,0,https://tbc.wowhead.com/item=19377,NA,22,NULL,25,10,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,12,Haramad's Bargain,Haramad's Bargain,Epic,34.7972,NULL,The Consortium,Exalted,1,https://tbc.wowhead.com/item=29119,NA,NULL,26,25,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,13,Skeletal Necklace of Battlerage,Skeletal Necklace of Battlerage,Rare,34.6392,18.9072,Slave Pens,Rokmar the Crackler,1,https://tbc.wowhead.com/item=27551,NA,NULL,26,NULL,12,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,14,Mithril Chain of Heroism,Mithril Chain of Heroism,Epic,34.3448,NULL,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28745,NA,NULL,28,22,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,15,Adamantine Chain of the Unbroken,Adamantine Chain of the Unbroken,Epic,29.846,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=29349,NA,34,NULL,NULL,NULL,30,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,NA,Shoulders,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NULL,NA,NA,NA
 NA,1,Ripfiend Shoulderplates,Ripfiend Shoulderplates,Epic,73.5584,56.5154,Hellfire Peninsula,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30740,NA,NULL,39,NULL,13,22,NULL,NULL,NULL,Yellow,Yellow,NULL,NA,NA,NA
 NA,2,Justicar Shoulderplates,Justicar Shoulderplates,Epic,70.364,49.388,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=29075,NA,NULL,36,13,16,NULL,NULL,NULL,NULL,Yellow,Red,NULL,NA,NA,NA
@@ -62,9 +62,9 @@ NA,9,Delicate Green Poncho,Delicate Green Poncho,Rare,35.6664,17.3124,Nagrand,Br
 NA,10,Cloak of the Pit Stalker,Cloak of the Pit Stalker,Epic,32.5312,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28777,NA,56,NULL,NULL,NULL,24,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,11,Dawnstrike's Cloak,Dawnstrike's Cloak,Uncommon,32.0472,20.2482,NA,Down With Daellis,0,https://tbc.wowhead.com/item=29792,NA,42,NULL,12,9,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,12,Blood Knight War Cloak,Blood Knight War Cloak,Epic,29.0428,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29382,NA,48,NULL,23,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,13,The Frost Lord's War Cloak,The Frost Lord's War Cloak,Epic,29.0428,NULL,Slave Pens,Ahune,1,https://tbc.wowhead.com/item=35495,NA,48,NULL,23,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,14,Netherfury Cape,Netherfury Cape,Rare,27.5571,NULL,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28371,NA,NULL,19,NULL,NULL,21,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,15,Capacitus' Cloak of Calibration,Capacitus' Cloak of Calibration,Rare,27.4392,NULL,The Mechanar,NA,1,https://tbc.wowhead.com/item=28249,NA,NULL,22,18,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,13,Netherfury Cape,Netherfury Cape,Rare,27.5571,NULL,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28371,NA,NULL,19,NULL,NULL,21,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,14,Capacitus' Cloak of Calibration,Capacitus' Cloak of Calibration,Rare,27.4392,NULL,The Mechanar,NA,1,https://tbc.wowhead.com/item=28249,NA,NULL,22,18,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,15,Terokk's Might,Terokk's Might,Epic,26.9976,NULL,Terokkar Forest,Terokk,1,https://tbc.wowhead.com/item=32540,NA,56,NULL,16,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,NA,Chest,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NULL,NA,NA,NA
 NA,1,Bulwark of Kings,Bulwark of Kings,Epic,98.8541,68.7011,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28484,NA,NULL,35,NULL,23,37,NULL,NULL,NULL,Blue,Yellow,Yellow,NA,NA,NA
 NA,2,Terrorweave Tunic,Terrorweave Tunic,Epic,94.4965,66.9655,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30730,NA,96,NULL,NULL,21,25,NULL,NULL,NULL,Red,Yellow,Yellow,NA,NA,NA

@@ -27,11 +27,11 @@ NA,7,Natasha's Guardian Cord,Natasha's Guardian Cord,Rare,23.3,NA,The Hound-Mast
 NA,8,Swampstone Necklace,Swampstone Necklace,Rare,23,Underbog,Swamplord Musel'ek,1,https://tbc.wowhead.com/item=27766,NA,40,15,18,NA,NULL,NULL,NA,NA,NA
 NA,9,Sethekk Oracle's Focus,Sethekk Oracle's Focus,Rare,22.8,Terokkar Forest,Brother Against Brother,1,https://tbc.wowhead.com/item=29334,NA,35,19,NULL,NA,NULL,8,NA,NA,NA
 NA,10,Necklace of Resplendent Hope,Necklace of Resplendent Hope,Rare,22.78,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28233,NA,53,NULL,NULL,NA,NULL,9,NA,NA,NA
-NA,11,Amulet of Glacial Tranquility,Amulet of Glacial Tranquility,Epic,22.78,Slave Pens,Ahune,1,https://tbc.wowhead.com/item=35509,NA,48,21,NULL,NA,NULL,4,NA,NA,NA
-NA,12,Choker of Fluid Thought,Choker of Fluid Thought,Rare,21.85,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28419,NA,35,17,17,NA,NULL,NULL,NA,NA,NA
-NA,13,Necklace of Necropsy,Necklace of Necropsy,Epic,21.58,Naxxramas,Heigan the Unclean,1,https://tbc.wowhead.com/item=23036,NA,53,11,10,NA,NULL,NULL,NA,NA,NA
-NA,14,Diamond Prism of Recurrence,Diamond Prism of Recurrence,Rare,21.16,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27440,NA,26,18,20,NA,NULL,NULL,NA,NA,NA
-NA,15,Amulet of the Fallen God,Amulet of the Fallen God,Epic,20.82,Classic,NA,0,https://tbc.wowhead.com/item=21712,NA,57,NULL,NULL,NA,NULL,6,NA,NA,NA
+NA,11,Choker of Fluid Thought,Choker of Fluid Thought,Rare,21.85,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28419,NA,35,17,17,NA,NULL,NULL,NA,NA,NA
+NA,12,Necklace of Necropsy,Necklace of Necropsy,Epic,21.58,Naxxramas,Heigan the Unclean,1,https://tbc.wowhead.com/item=23036,NA,53,11,10,NA,NULL,NULL,NA,NA,NA
+NA,13,Diamond Prism of Recurrence,Diamond Prism of Recurrence,Rare,21.16,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27440,NA,26,18,20,NA,NULL,NULL,NA,NA,NA
+NA,14,Amulet of the Fallen God,Amulet of the Fallen God,Epic,20.82,Classic,NA,0,https://tbc.wowhead.com/item=21712,NA,57,NULL,NULL,NA,NULL,6,NA,NA,NA
+NA,15,Pendant of Forgotten Names,Pendant of Forgotten Names,Epic,20.5,Naxxramas,Maexxna,1,https://tbc.wowhead.com/item=22947,NA,NULL,18,18,NA,NULL,7,NA,NA,NA
 NA,NA,Shoulders,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Shoulderguards of Malorne,Shoulderguards of Malorne,Epic,49.57,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=29089,NA,68,23,19,NA,NULL,5,Blue,Blue,NA
 NA,2,Pauldrons of the Solace-Giver,Pauldrons of the Solace-Giver,Epic,43.12,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28612,NA,57,28,22,NA,NULL,10,NA,NA,NA
@@ -56,14 +56,14 @@ NA,4,Red Riding Hood's Cloak,Red Riding Hood's Cloak,Epic,26.08,Karazhan,The Big
 NA,5,Lifegiving Cloak,Lifegiving Cloak,Epic,25.54,NA,World Drop,1,https://tbc.wowhead.com/item=31329,NA,64,13,NULL,NA,NULL,5,NA,NA,NA
 NA,6,Shadowvine Cloak of Infusion,Shadowvine Cloak of Infusion,Epic,25.2,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28653,NA,NULL,21,22,NA,NULL,9,NA,NA,NA
 NA,7,Cloak of Clarity,Cloak of Clarity,Epic,25.15,Classic,NA,0,https://tbc.wowhead.com/item=21583,NA,40,12,7,NA,NULL,8,NA,NA,NA
-NA,8,Shroud of Winter's Chill,Shroud of Winter's Chill,Epic,25.06,Slave Pens,Ahune,1,https://tbc.wowhead.com/item=35494,NA,46,17,NULL,NA,NULL,8,NA,NA,NA
-NA,9,Cloak of Scintillating Auras,Cloak of Scintillating Auras,Rare,23.82,Arcatraz,Zereketh the Unbound,1,https://tbc.wowhead.com/item=28373,NA,42,16,18,NA,NULL,NULL,NA,NA,NA
-NA,10,Manaweave Cloak,Manaweave Cloak,Epic,23.45,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24260,NA,NULL,20,21,NA,NULL,8,NA,NA,NA
-NA,11,Mantle of Vivification,Mantle of Vivification,Rare,22.8,Hellfire Peninsula,Turning the Tide,1,https://tbc.wowhead.com/item=25805,NA,40,18,NULL,NA,NULL,7,NA,NA,NA
-NA,12,Vicar's Cloak,Vicar's Cloak,Rare,22.8,Hellfire Peninsula,The Will of the Warchief,1,https://tbc.wowhead.com/item=25810,NA,40,18,NULL,NA,NULL,7,NA,NA,NA
-NA,13,Cloak of the Everliving,Cloak of the Everliving,Rare,22.78,Hellfire Ramparts,Watchkeeper Gargolmar,1,https://tbc.wowhead.com/item=27448,NA,53,NULL,NULL,NA,NULL,9,NA,NA,NA
-NA,14,White Remedy Cape,White Remedy Cape,Rare,22.34,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24254,NA,59,NULL,NULL,NA,NULL,7,NA,NA,NA
-NA,15,Light-Touched Stole of Altruism,Light-Touched Stole of Altruism,Epic,20.6,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=29354,NA,55,21,NULL,NA,NULL,NULL,NA,NA,NA
+NA,8,Cloak of Scintillating Auras,Cloak of Scintillating Auras,Rare,23.82,Arcatraz,Zereketh the Unbound,1,https://tbc.wowhead.com/item=28373,NA,42,16,18,NA,NULL,NULL,NA,NA,NA
+NA,9,Manaweave Cloak,Manaweave Cloak,Epic,23.45,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24260,NA,NULL,20,21,NA,NULL,8,NA,NA,NA
+NA,10,Mantle of Vivification,Mantle of Vivification,Rare,22.8,Hellfire Peninsula,Turning the Tide,1,https://tbc.wowhead.com/item=25805,NA,40,18,NULL,NA,NULL,7,NA,NA,NA
+NA,11,Vicar's Cloak,Vicar's Cloak,Rare,22.8,Hellfire Peninsula,The Will of the Warchief,1,https://tbc.wowhead.com/item=25810,NA,40,18,NULL,NA,NULL,7,NA,NA,NA
+NA,12,Cloak of the Everliving,Cloak of the Everliving,Rare,22.78,Hellfire Ramparts,Watchkeeper Gargolmar,1,https://tbc.wowhead.com/item=27448,NA,53,NULL,NULL,NA,NULL,9,NA,NA,NA
+NA,13,White Remedy Cape,White Remedy Cape,Rare,22.34,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24254,NA,59,NULL,NULL,NA,NULL,7,NA,NA,NA
+NA,14,Light-Touched Stole of Altruism,Light-Touched Stole of Altruism,Epic,20.6,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=29354,NA,55,21,NULL,NA,NULL,NULL,NA,NA,NA
+NA,15,Cloak of Healing Rays,Cloak of Healing Rays,Rare,19.23,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=24459,NA,33,13,15,NA,NULL,NULL,NA,NA,NA
 NA,NA,Chest,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Primal Mooncloth Robe,Primal Mooncloth Robe,Epic,67.9,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21875,NA,121,20,20,NA,NULL,10,Yellow,Blue,NA
 NA,2,Chestguard of Malorne,Chestguard of Malorne,Epic,59.99,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29087,NA,88,29,25,NA,NULL,NULL,Yellow,Blue,Blue

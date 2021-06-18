@@ -228,19 +228,19 @@ NA,1,Gem of Nerubis,Gem of Nerubis,Epic,25.62,NULL,Naxxramas,Anub'Rekhan,1,https
 NA,NA,Two Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,3,Gladiator's War Staff,Gladiator's War Staff,Epic,223.7852,207.632,Season 1,PvP,1,https://tbc.wowhead.com/item=24557,NA,199,35,21,36,NULL,NA,NA,NA
 NA,4,Staff of Infinite Mysteries,Staff of Infinite Mysteries,Epic,205.8536,188.162,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28633,NA,185,51,23,NULL,NULL,NA,NA,NA
-NA,5,Frostscythe of Lord Ahune,Frostscythe of Lord Ahune,Epic,184.0935,NULL,NA,NA,1,https://tbc.wowhead.com/item=35514,NA,176,35,NULL,33,NULL,NA,NA,NA
-NA,6,Terokk's Shadowstaff,Terokk's Shadowstaff,Epic,177.2455,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=29355,NA,168,42,NULL,37,NULL,NA,NA,NA
-NA,7,Hammer of Righteous Might,Hammer of Righteous Might,Epic,170.294,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=32854,NA,168,37,NULL,NULL,NULL,NA,NA,NA
-NA,8,High Warlord's War Staff,High Warlord's War Staff,Rare,143.629,128.245,NA,PvP,1,https://tbc.wowhead.com/item=28935,NA,121,30,20,30,NULL,NA,NA,NA
-NA,9,Grand Marshal's War Staff,Grand Marshal's War Staff,Rare,143.629,128.245,NA,PvP,1,https://tbc.wowhead.com/item=28959,NA,121,30,20,30,NULL,NA,NA,NA
-NA,10,Auchenai Staff,Auchenai Staff,Rare,143.1338,128.519,Quartermaster Endarin,NA,1,https://tbc.wowhead.com/item=29130,NA,121,46,19,26,NULL,NA,NA,NA
-NA,11,Warpstaff of Arcanum,Warpstaff of Arcanum,Rare,140.3302,128.023,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28341,NA,121,38,16,26,NULL,NA,NA,NA
-NA,12,Grand Scepter of the Nexus-Kings,Grand Scepter of the Nexus-Kings,Rare,138.2808,123.666,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27842,NA,121,43,19,NULL,NULL,NA,NA,NA
-NA,13,Soulseeker,Soulseeker,Epic,132.948,NULL,Naxxramas,Kel'Thuzad,0,https://tbc.wowhead.com/item=22799,NA,126,31,NULL,28,NULL,NA,NA,NA
-NA,14,The Bringer of Death,The Bringer of Death,Rare,130.461,NULL,NA,NA,1,https://tbc.wowhead.com/item=31308,NA,121,31,NULL,42,NULL,NA,NA,NA
-NA,15,Bloodfire Greatstaff,Bloodfire Greatstaff,Rare,128.63,NULL,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28188,NA,121,42,NULL,28,NULL,NA,NA,NA
-NA,NA,Flaming Quartz Staff,Flaming Quartz Staff,Rare,128.519,NULL,Apex Crystal,Crafted,1,https://tbc.wowhead.com/item=32662,NA,121,46,NULL,26,NULL,NA,NA,NA
-NA,NA,Brimstone Staff,Brimstone Staff,Epic,127.1672,114.86,Naxxramas,Loatheb,1,https://tbc.wowhead.com/item=22800,NA,113,30,16,NULL,NULL,NA,NA,NA
+NA,5,Terokk's Shadowstaff,Terokk's Shadowstaff,Epic,177.2455,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=29355,NA,168,42,NULL,37,NULL,NA,NA,NA
+NA,6,High Warlord's War Staff,High Warlord's War Staff,Rare,143.629,128.245,NA,PvP,1,https://tbc.wowhead.com/item=28935,NA,121,30,20,30,NULL,NA,NA,NA
+NA,7,Grand Marshal's War Staff,Grand Marshal's War Staff,Rare,143.629,128.245,NA,PvP,1,https://tbc.wowhead.com/item=28959,NA,121,30,20,30,NULL,NA,NA,NA
+NA,8,Auchenai Staff,Auchenai Staff,Rare,143.1338,128.519,Quartermaster Endarin,NA,1,https://tbc.wowhead.com/item=29130,NA,121,46,19,26,NULL,NA,NA,NA
+NA,9,Warpstaff of Arcanum,Warpstaff of Arcanum,Rare,140.3302,128.023,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28341,NA,121,38,16,26,NULL,NA,NA,NA
+NA,10,Grand Scepter of the Nexus-Kings,Grand Scepter of the Nexus-Kings,Rare,138.2808,123.666,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27842,NA,121,43,19,NULL,NULL,NA,NA,NA
+NA,11,Soulseeker,Soulseeker,Epic,132.948,NULL,Naxxramas,Kel'Thuzad,0,https://tbc.wowhead.com/item=22799,NA,126,31,NULL,28,NULL,NA,NA,NA
+NA,12,The Bringer of Death,The Bringer of Death,Rare,130.461,NULL,NA,NA,1,https://tbc.wowhead.com/item=31308,NA,121,31,NULL,42,NULL,NA,NA,NA
+NA,13,Bloodfire Greatstaff,Bloodfire Greatstaff,Rare,128.63,NULL,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28188,NA,121,42,NULL,28,NULL,NA,NA,NA
+NA,14,Flaming Quartz Staff,Flaming Quartz Staff,Rare,128.519,NULL,Apex Crystal,Crafted,1,https://tbc.wowhead.com/item=32662,NA,121,46,NULL,26,NULL,NA,NA,NA
+NA,15,Brimstone Staff,Brimstone Staff,Epic,127.1672,114.86,Naxxramas,Loatheb,1,https://tbc.wowhead.com/item=22800,NA,113,30,16,NULL,NULL,NA,NA,NA
+NA,NA,Ameer's Impulse Taser,Ameer's Impulse Taser,Rare,125.4569,112.3805,NA,Nexus-King Salhadaar,1,https://tbc.wowhead.com/item=30011,NA,103,27,17,27,NULL,NA,NA,NA
+NA,NA,"Atiesh, Greatstaff of the Guardian","Atiesh, Greatstaff of the Guardian",Legendary,124.706,NULL,Classic,NA,0,https://tbc.wowhead.com/item=22631,NA,120,28,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Ranged,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,1,Flawless Wand of Wrath,Flawless Wand of Wrath,Uncommon,25,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=25295,NA,25,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,2,Tirisfal Wand of Ascendancy,Tirisfal Wand of Ascendancy,Epic,24.0192,15.558,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28673,NA,15,9,11,NULL,NULL,NA,NA,NA

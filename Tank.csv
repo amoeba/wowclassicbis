@@ -56,15 +56,15 @@ NA,3,Sergeant's Heavy Cape,Sergeant's Heavy Cape,Epic,54.3,NULL,NA,PvP,1,https:/
 NA,4,Farstrider Defender's Cloak,Farstrider Defender's Cloak,Epic,51.75,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29385,NA,267,30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
 NA,5,Devilshark Cape,Devilshark Cape,Rare,51.2,NULL,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=27804,NA,78,22,20,18,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
 NA,6,Thoriumweave Cloak,Thoriumweave Cloak,Rare,51,NULL,Mechanar,Mechano-Lord Capacitus,1,https://tbc.wowhead.com/item=28256,NA,390,35,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,7,Icebound Cloak,Icebound Cloak,Epic,50.35,NULL,Slave Pens,Ahune,1,https://tbc.wowhead.com/item=35496,NA,267,30,25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,8,Shadow-Cloak of Dalaran,Shadow-Cloak of Dalaran,Epic,48.95,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28570,NA,97,19,NULL,NULL,NULL,NULL,36,18,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,9,Ruby Drape of the Mysticant,Ruby Drape of the Mysticant,Epic,48.15,48.15,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28766,NA,105,22,NULL,NULL,NULL,NULL,30,21,NULL,NULL,18,NULL,NULL,NA,NA
-NA,10,Ironscale War Cloak,Ironscale War Cloak,Rare,47.97,NULL,Slave Pens,Rokmar the Crackler,1,https://tbc.wowhead.com/item=27550,NA,78,26,NULL,NULL,NULL,19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,11,Cloak of Eternity,Cloak of Eternity,Rare,45.4,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24253,NA,76,36,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,12,Terokk's Wisdom,Terokk's Wisdom,Epic,45.35,NULL,Terokkar Forest,Terokk,1,https://tbc.wowhead.com/item=32541,NA,89,18,NULL,NULL,NULL,NULL,33,16,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,13,Resolute Cape,Resolute Cape,Epic,44.45,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24258,NA,349,30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,14,Burnoose of Shifting Ages,Burnoose of Shifting Ages,Rare,43.4,NULL,Black Morass,Chrono Lord Deja,1,https://tbc.wowhead.com/item=27988,NA,216,15,26,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,15,Brute Cloak of the Ogre-Magi,Brute Cloak of the Ogre-Magi,Epic,43.05,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28797,NA,105,18,NULL,NULL,NULL,NULL,28,20,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,7,Shadow-Cloak of Dalaran,Shadow-Cloak of Dalaran,Epic,48.95,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28570,NA,97,19,NULL,NULL,NULL,NULL,36,18,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,8,Ruby Drape of the Mysticant,Ruby Drape of the Mysticant,Epic,48.15,48.15,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28766,NA,105,22,NULL,NULL,NULL,NULL,30,21,NULL,NULL,18,NULL,NULL,NA,NA
+NA,9,Ironscale War Cloak,Ironscale War Cloak,Rare,47.97,NULL,Slave Pens,Rokmar the Crackler,1,https://tbc.wowhead.com/item=27550,NA,78,26,NULL,NULL,NULL,19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,10,Cloak of Eternity,Cloak of Eternity,Rare,45.4,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24253,NA,76,36,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,11,Terokk's Wisdom,Terokk's Wisdom,Epic,45.35,NULL,Terokkar Forest,Terokk,1,https://tbc.wowhead.com/item=32541,NA,89,18,NULL,NULL,NULL,NULL,33,16,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,12,Resolute Cape,Resolute Cape,Epic,44.45,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24258,NA,349,30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,13,Burnoose of Shifting Ages,Burnoose of Shifting Ages,Rare,43.4,NULL,Black Morass,Chrono Lord Deja,1,https://tbc.wowhead.com/item=27988,NA,216,15,26,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,14,Brute Cloak of the Ogre-Magi,Brute Cloak of the Ogre-Magi,Epic,43.05,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28797,NA,105,18,NULL,NULL,NULL,NULL,28,20,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,15,Farstrider Wildercloak,Farstrider Wildercloak,Epic,41.85,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28764,NA,105,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
 NA,NA,Chest,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket,NA,NA
 NA,1,Justicar Chestguard,Justicar Chestguard,Epic,188.59,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29066,NA,1510,48,23,NULL,NULL,23,27,30,NULL,NULL,NULL,NULL,Red,Blue,Yellow
 NA,2,Panzar'Thar Breastplate,Panzar'Thar Breastplate,Epic,179.92,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28597,NA,1450,51,26,NULL,NULL,24,NULL,NULL,NULL,NULL,NULL,NULL,Yellow,Blue,Blue

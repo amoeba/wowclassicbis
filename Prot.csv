@@ -56,15 +56,15 @@ NA,3,Ironscale War Cloak,Ironscale War Cloak,Rare,39.18,NULL,Slave Pens,Rokmar t
 NA,4,Burnoose of Shifting Ages,Burnoose of Shifting Ages,Rare,37.56,NULL,Black Morass,Chrono Lord Deja,1,https://tbc.wowhead.com/item=27988,NA,216,15,26,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
 NA,5,Cloak of Eternity,Cloak of Eternity,Rare,35.16,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24253,NA,76,36,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
 NA,6,Gilded Thorium Cloak,Gilded Thorium Cloak,Epic,34.45,NULL,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28660,NA,385,30,24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
-NA,7,Icebound Cloak,Icebound Cloak,Epic,33.67,NULL,Slave Pens,Ahune,1,https://tbc.wowhead.com/item=35496,NA,267,30,25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
-NA,8,Royal Cloak of Arathi Kings,Royal Cloak of Arathi Kings,Epic,31.27,20.39,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28529,NA,97,31,NULL,NULL,NULL,NULL,NULL,26,NULL,16,NULL,NULL,NULL,NA,NA,NA,NA
-NA,9,Drape of the Dark Reavers,Drape of the Dark Reavers,Epic,30.825,19.265,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28672,NA,97,21,NULL,NULL,NULL,NULL,34,NULL,24,17,NULL,NULL,NULL,NA,NA,NA,NA
-NA,10,Farstrider Wildercloak,Farstrider Wildercloak,Epic,29.75,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28764,NA,105,36,NULL,NULL,NULL,NULL,70,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
-NA,11,Thoriumweave Cloak,Thoriumweave Cloak,Rare,28.4,NULL,Mechanar,Mechano-Lord Capacitus,1,https://tbc.wowhead.com/item=28256,NA,390,35,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
-NA,12,Cloak of Enduring Swiftness,Cloak of Enduring Swiftness,Rare,25.93,NULL,Underbog,Swamplord Musel'ek,1,https://tbc.wowhead.com/item=24454,NA,64,13,NULL,23,NULL,NULL,NULL,NULL,12,NULL,NULL,NULL,NULL,NA,NA,NA,NA
-NA,13,Cloak of the Pit Stalker,Cloak of the Pit Stalker,Epic,25.85,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28777,NA,105,28,NULL,NULL,NULL,NULL,56,NULL,NULL,NULL,24,NULL,NULL,NA,NA,NA,NA
-NA,14,Nomad's Woven Cloak,Nomad's Woven Cloak,Rare,25.765,16.925,Nagrand,Bring Me The Egg!,1,https://tbc.wowhead.com/item=28031,NA,66,21,NULL,NULL,NULL,NULL,NULL,14,14,13,NULL,NULL,NULL,NA,NA,NA,NA
-NA,15,Blood Knight War Cloak,Blood Knight War Cloak,Epic,25.515,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29382,NA,93,22,NULL,NULL,NULL,NULL,48,NULL,23,NULL,NULL,NULL,NULL,NA,NA,NA,NA
+NA,7,Royal Cloak of Arathi Kings,Royal Cloak of Arathi Kings,Epic,31.27,20.39,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28529,NA,97,31,NULL,NULL,NULL,NULL,NULL,26,NULL,16,NULL,NULL,NULL,NA,NA,NA,NA
+NA,8,Drape of the Dark Reavers,Drape of the Dark Reavers,Epic,30.825,19.265,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28672,NA,97,21,NULL,NULL,NULL,NULL,34,NULL,24,17,NULL,NULL,NULL,NA,NA,NA,NA
+NA,9,Farstrider Wildercloak,Farstrider Wildercloak,Epic,29.75,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28764,NA,105,36,NULL,NULL,NULL,NULL,70,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
+NA,10,Thoriumweave Cloak,Thoriumweave Cloak,Rare,28.4,NULL,Mechanar,Mechano-Lord Capacitus,1,https://tbc.wowhead.com/item=28256,NA,390,35,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
+NA,11,Cloak of Enduring Swiftness,Cloak of Enduring Swiftness,Rare,25.93,NULL,Underbog,Swamplord Musel'ek,1,https://tbc.wowhead.com/item=24454,NA,64,13,NULL,23,NULL,NULL,NULL,NULL,12,NULL,NULL,NULL,NULL,NA,NA,NA,NA
+NA,12,Cloak of the Pit Stalker,Cloak of the Pit Stalker,Epic,25.85,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28777,NA,105,28,NULL,NULL,NULL,NULL,56,NULL,NULL,NULL,24,NULL,NULL,NA,NA,NA,NA
+NA,13,Nomad's Woven Cloak,Nomad's Woven Cloak,Rare,25.765,16.925,Nagrand,Bring Me The Egg!,1,https://tbc.wowhead.com/item=28031,NA,66,21,NULL,NULL,NULL,NULL,NULL,14,14,13,NULL,NULL,NULL,NA,NA,NA,NA
+NA,14,Blood Knight War Cloak,Blood Knight War Cloak,Epic,25.515,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29382,NA,93,22,NULL,NULL,NULL,NULL,48,NULL,23,NULL,NULL,NULL,NULL,NA,NA,NA,NA
+NA,15,Delicate Green Poncho,Delicate Green Poncho,Rare,24.74,15.22,Nagrand,Bring Me The Egg!,1,https://tbc.wowhead.com/item=28032,NA,66,19,NULL,NULL,NULL,NULL,28,NULL,14,14,NULL,NULL,NULL,NA,NA,NA,NA
 NA,NA,Chest,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NA
 NA,1,Warbringer Chestguard,Warbringer Chestguard,Epic,118.715,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29012,NA,1510,48,22,NULL,NULL,23,NULL,16,17,NULL,NULL,NULL,NULL,NA,Yellow,Yellow,Red
 NA,2,Panzar'Thar Breastplate,Panzar'Thar Breastplate,Epic,112.5,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28597,NA,1450,51,26,NULL,NULL,24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,Yellow,Blue,Blue
