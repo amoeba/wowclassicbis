@@ -68,9 +68,9 @@ NA,15,Delicate Green Poncho,Delicate Green Poncho,Rare,24.74,15.22,Nagrand,Bring
 NA,NA,Chest,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NA
 NA,1,Warbringer Chestguard,Warbringer Chestguard,Epic,118.715,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29012,NA,1510,48,22,NULL,NULL,23,NULL,16,17,NULL,NULL,NULL,NULL,NA,Yellow,Yellow,Red
 NA,2,Panzar'Thar Breastplate,Panzar'Thar Breastplate,Epic,112.5,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28597,NA,1450,51,26,NULL,NULL,24,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,Yellow,Blue,Blue
-NA,3,Bulwark of Kings,Bulwark of Kings,Epic,95.475,79.835,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28484,NA,1595,55,NULL,NULL,NULL,NULL,NULL,35,NULL,23,37,NULL,NULL,NA,Blue,Yellow,Yellow
-NA,4,Gladiator's Plate Chestpiece,Gladiator's Plate Chestpiece,Epic,84.77,76.61,Season 1,PvP,1,https://tbc.wowhead.com/item=24544,NA,1547,49,NULL,NULL,NULL,NULL,NULL,23,NULL,12,30,NULL,NULL,NA,Red,Red,Yellow
-NA,5,Breastplate of Kings,Breastplate of Kings,Epic,84.63,71.03,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28483,NA,1353,46,NULL,NULL,NULL,NULL,NULL,31,NULL,20,31,NULL,NULL,NA,Blue,Yellow,Yellow
+NA,3,Bulwark of Kings,Bulwark of Kings,Epic,95.475,9.3,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28484,NA,1595,55,NULL,NULL,NULL,NULL,NULL,35,NULL,23,37,NULL,NULL,NA,Blue,Yellow,Yellow
+NA,4,Gladiator's Plate Chestpiece,Gladiator's Plate Chestpiece,Epic,84.77,15.72,Season 1,PvP,1,https://tbc.wowhead.com/item=24544,NA,1547,49,NULL,NULL,NULL,NULL,NULL,23,NULL,12,30,NULL,NULL,NA,Red,Red,Yellow
+NA,5,Breastplate of Kings,Breastplate of Kings,Epic,84.63,11.34,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28483,NA,1353,46,NULL,NULL,NULL,NULL,NULL,31,NULL,20,31,NULL,NULL,NA,Blue,Yellow,Yellow
 NA,6,Breastplate of the Bold,Breastplate of the Bold,Rare,76.035,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28205,NA,1164,33,19,NULL,NULL,NULL,NULL,23,21,NULL,NULL,NULL,NULL,NA,Red,Red,Blue
 NA,7,Warbringer Breastplate,Warbringer Breastplate,Epic,74.6,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29019,NA,1510,39,NULL,NULL,NULL,NULL,NULL,44,NULL,NULL,26,NULL,NULL,NA,Yellow,Blue,Blue
 NA,8,Twisting Nether Chain Shirt,Twisting Nether Chain Shirt,Epic,74.43,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23564,NA,893,48,NULL,NULL,NULL,NULL,68,NULL,NULL,NULL,33,NULL,NULL,NA,Red,Yellow,Blue
