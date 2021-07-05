@@ -85,18 +85,18 @@ NA,NA,Wrist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socke
 NA,1,Nightfall Wristguards,Nightfall Wristguards,Epic,49.126,NULL,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=29246,NA,46,24,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Primalstrike Bracers,Primalstrike Bracers,Epic,48.928,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29527,NA,64,15,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,3,Felstalker Bracers,Felstalker Bracers,Rare,47.102,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=25697,NA,38,18,NULL,NULL,NULL,NULL,NULL,Blue,NA,NA,NA,NA
-NA,4,Veteran's Chain Bracers,Veteran's Chain Bracers,Epic,45.274,NULL,Mail Armor,NA,1,https://tbc.wowhead.com/item=32809,NA,18,20,NULL,8,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
-NA,5,Stalker's War Bands,Stalker's War Bands,Epic,44.924,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28454,NA,44,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,6,Cryptstalker Wristguards,Cryptstalker Wristguards,Epic,43.856,36.586,Classic,NA,0,https://tbc.wowhead.com/item=22443,NA,34,18,10,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,7,Bracers of Maliciousness,Bracers of Maliciousness,Epic,43.45,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28514,NA,50,NULL,NULL,22,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,8,General's Leather Bracers,General's Leather Bracers,Epic,42.384,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28424,NA,16,19,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
-NA,9,Marshal's Leather Bracers,Marshal's Leather Bracers,Epic,42.384,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28988,NA,16,19,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
-NA,10,Shackles of Quagmirran,Shackles of Quagmirran,Rare,41.8,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27712,NA,40,20,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,11,Ebon Netherscale Bracers,Ebon Netherscale Bracers,Epic,41.694,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29517,NA,38,NULL,NULL,17,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
-NA,12,General's Chain Bracers,General's Chain Bracers,Epic,41.328,NULL,NA,NA,1,https://tbc.wowhead.com/item=28451,NA,16,18,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
-NA,13,Marshal's Chain Bracers,Marshal's Chain Bracers,Epic,41.328,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28973,NA,16,18,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
-NA,14,Nightstalker's Wristguards,Nightstalker's Wristguards,Uncommon,40.929,34.386,NA,Down With Daellis,0,https://tbc.wowhead.com/item=30399,NA,42,12,9,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,Windrager's Coils,Windrager's Coils,Rare,40.62,NULL,NA,NA,1,https://tbc.wowhead.com/item=32532,NA,60,NULL,NULL,12,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,4,Ravager's Wrist-Wraps of the Bandit,Ravager's Wrist-Wraps of the Bandit,Epic,45.463,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30685/ravagers-wrist-wraps,NA,43,22,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,5,Veteran's Chain Bracers,Veteran's Chain Bracers,Epic,45.274,NULL,Mail Armor,NA,1,https://tbc.wowhead.com/item=32809,NA,18,20,NULL,8,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
+NA,6,Stalker's War Bands,Stalker's War Bands,Epic,44.924,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28454,NA,44,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,7,Cryptstalker Wristguards,Cryptstalker Wristguards,Epic,43.856,36.586,Classic,NA,0,https://tbc.wowhead.com/item=22443,NA,34,18,10,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,8,Bracers of Maliciousness,Bracers of Maliciousness,Epic,43.45,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28514,NA,50,NULL,NULL,22,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,9,General's Leather Bracers,General's Leather Bracers,Epic,42.384,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28424,NA,16,19,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
+NA,10,Marshal's Leather Bracers,Marshal's Leather Bracers,Epic,42.384,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28988,NA,16,19,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
+NA,11,Shackles of Quagmirran,Shackles of Quagmirran,Rare,41.8,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27712,NA,40,20,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,Ebon Netherscale Bracers,Ebon Netherscale Bracers,Epic,41.694,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29517,NA,38,NULL,NULL,17,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
+NA,13,General's Chain Bracers,General's Chain Bracers,Epic,41.328,NULL,NA,NA,1,https://tbc.wowhead.com/item=28451,NA,16,18,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
+NA,14,Marshal's Chain Bracers,Marshal's Chain Bracers,Epic,41.328,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28973,NA,16,18,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
+NA,15,Nightstalker's Wristguards,Nightstalker's Wristguards,Uncommon,40.929,34.386,NA,Down With Daellis,0,https://tbc.wowhead.com/item=30399,NA,42,12,9,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Hands,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Gloves of Dexterous Manipulation,Gloves of Dexterous Manipulation,Epic,75.57,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28506,NA,42,35,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NA,NA
 NA,2,Liar's Tongue Gloves,Liar's Tongue Gloves,Epic,74.92,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28776,NA,72,NULL,NULL,26,NULL,NULL,NULL,Blue,Blue,NA,NA,NA
@@ -124,11 +124,11 @@ NA,7,Socrethar's Girdle,Socrethar's Girdle,Rare,63.644,49.104,NA,Turning Point,1
 NA,8,Girdle of the Prowler,Girdle of the Prowler,Epic,63.575,51.216,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28656,NA,48,25,17,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,9,Girdle of Ferocity,Girdle of Ferocity,Epic,62.494,52.316,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=29261,NA,44,28,14,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,10,Felstalker Belt,Felstalker Belt,Rare,61.754,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=25695,NA,50,18,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NA,NA
-NA,11,Naaru Belt of Precision,Naaru Belt of Precision,Rare,60.053,49.148,NA,How to Break Into the Arcatraz,1,https://tbc.wowhead.com/item=31464,NA,44,25,15,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,Epoch's Whispering Cinch,Epoch's Whispering Cinch,Rare,59.439,47.08,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27911,NA,40,25,17,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,Ebon Netherscale Belt,Ebon Netherscale Belt,Epic,59.312,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29516,NA,48,NULL,NULL,22,NULL,NULL,NULL,Blue,Yellow,NA,NA,NA
-NA,14,Blessed Scale Girdle,Blessed Scale Girdle,Rare,57.31,NULL,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29180,NA,70,20,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,Terror Pit Girdle,Terror Pit Girdle,Epic,56.444,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28778,NA,44,NULL,NULL,21,NULL,NULL,NULL,Blue,Red,NA,NA,NA
+NA,11,Lurker's Grasp of the Bandit,Lurker's Grasp of the Bandit,Epic,60.61,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,58,29,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,Naaru Belt of Precision,Naaru Belt of Precision,Rare,60.053,49.148,NA,How to Break Into the Arcatraz,1,https://tbc.wowhead.com/item=31464,NA,44,25,15,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,13,Epoch's Whispering Cinch,Epoch's Whispering Cinch,Rare,59.439,47.08,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27911,NA,40,25,17,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,Ebon Netherscale Belt,Ebon Netherscale Belt,Epic,59.312,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29516,NA,48,NULL,NULL,22,NULL,NULL,NULL,Blue,Yellow,NA,NA,NA
+NA,15,Blessed Scale Girdle,Blessed Scale Girdle,Rare,57.31,NULL,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29180,NA,70,20,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Ring,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Ring of Reciprocity,Ring of Reciprocity,Epic,58.159,47.254,Hellfire Peninsula,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30738,NA,62,NULL,15,19,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Ring of a Thousand Marks,Ring of a Thousand Marks,Epic,54.961,41.148,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28757,NA,44,NULL,19,23,NULL,NULL,NULL,NA,NA,NA,NA,NA

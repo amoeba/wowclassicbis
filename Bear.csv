@@ -92,11 +92,11 @@ NA,7,Nightfall Wristguards,Nightfall Wristguards,Epic,60.761525,NULL,Old Hillsbr
 NA,8,Primalstrike Bracers,Primalstrike Bracers,Epic,57.793975,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29527,NA,159,21,64,15,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,9,Spymistress's Wristguards,Spymistress's Wristguards,Rare,55.005925,47.21905,Shadow Labyrinth,The Soul Devices,1,https://tbc.wowhead.com/item=28171,NA,128,15,NULL,18,15,NULL,NULL,Red,NA,NULL,NA,NA,NA
 NA,10,Bracers of Maliciousness,Bracers of Maliciousness,Epic,54.963675,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28514,NA,159,25,50,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,11,Shackles of Quagmirran,Shackles of Quagmirran,Rare,50.8881,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27712,NA,128,18,40,20,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,12,Ferocious Bands,Ferocious Bands,Uncommon,47.789625,42.598375,NA,NA,0,https://tbc.wowhead.com/item=30332,NA,115,15,NULL,15,10,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,13,Qiraji Execution Bracers,Qiraji Execution Bracers,Epic,47.7098,42.51855,Classic,NA,0,https://tbc.wowhead.com/item=21602,NA,118,14,NULL,16,10,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,14,Armwraps of Disdain,Armwraps of Disdain,Rare,43.4156,NULL,Underbog,Swamplord Musel'ek,1,https://tbc.wowhead.com/item=27765,NA,128,18,38,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,15,General's Wyrmhide Bracers,General's Wyrmhide Bracers,Epic,42.765275,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28448,NA,187,22,NULL,NULL,NULL,NULL,NULL,Red,NA,NULL,NA,NA,NA
+NA,11,Ravager's Wrist-Wraps of the Tiger,Ravager's Wrist-Wraps of the Tiger,Epic,53.552925,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30685/ravagers-wrist-wraps,NA,159,NULL,NULL,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,12,Shackles of Quagmirran,Shackles of Quagmirran,Rare,50.8881,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27712,NA,128,18,40,20,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,13,Ravager's Wrist-Wraps of the Bandit,Ravager's Wrist-Wraps of the Bandit,Epic,49.3969,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30685/ravagers-wrist-wraps,NA,159,32,43,22,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,14,Ferocious Bands,Ferocious Bands,Uncommon,47.789625,42.598375,NA,NA,0,https://tbc.wowhead.com/item=30332,NA,115,15,NULL,15,10,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,15,Qiraji Execution Bracers,Qiraji Execution Bracers,Epic,47.7098,42.51855,Classic,NA,0,https://tbc.wowhead.com/item=21602,NA,118,14,NULL,16,10,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,NA,Hands,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,ap,agi,hit,def,dodge,socket,NA,NULL,NA,NA,NA
 NA,1,Gauntlets of Malorne,Gauntlets of Malorne,Epic,103.567275,NULL,Karazhan,The Curator,1,https://tbc.wowhead.com/item=29097,NA,475,28,NULL,24,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,2,Liar's Tongue Gloves,Liar's Tongue Gloves,Epic,100.522075,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28776,NA,247,31,72,NULL,NULL,NULL,NULL,Blue,Blue,NULL,NA,NA,NA
@@ -118,17 +118,17 @@ NA,1,Girdle of Treachery,Girdle of Treachery,Epic,93.437575,NULL,Karazhan,Chess 
 NA,2,Tree-Mender's Belt,Tree-Mender's Belt,Epic,92.4412,NULL,Hellfire Ramparts,NA,1,https://tbc.wowhead.com/item=29264,NA,406,22,NULL,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,3,Gronn-Stitched Girdle,Gronn-Stitched Girdle,Epic,90.959925,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28828,NA,222,27,72,NULL,NULL,NULL,NULL,Blue,Yellow,NULL,NA,NA,NA
 NA,4,Belt of the Raven Lord,Belt of the Raven Lord,Rare,88.4183,NULL,Sethekk Halls,Anzu,1,https://tbc.wowhead.com/item=32769,NA,234,22,NULL,17,NULL,NULL,NULL,Red,Blue,NULL,NA,NA,NA
-NA,5,Girdle of the Deathdealer,Girdle of the Deathdealer,Epic,85.1054,74.7229,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=29247,NA,196,28,56,28,20,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,6,General's Leather Belt,General's Leather Belt,Epic,83.90265,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28423,NA,219,39,30,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,7,Marshal's Leather Belt,Marshal's Leather Belt,Epic,83.90265,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28986,NA,219,39,30,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,8,General's Dragonhide Belt,General's Dragonhide Belt,Epic,80.544225,NULL,NA,NA,1,https://tbc.wowhead.com/item=28443,NA,259,33,NULL,24,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,9,Marshal's Dragonhide Belt,Marshal's Dragonhide Belt,Epic,80.544225,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28976,NA,259,33,NULL,24,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,10,Dunewind Sash,Dunewind Sash,Rare,79.18735,NULL,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27760,NA,164,16,50,21,NULL,NULL,NULL,Red,Blue,NULL,NA,NA,NA
-NA,11,Primalstrike Belt,Primalstrike Belt,Epic,78.582925,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29526,NA,205,32,84,20,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,12,Manimal's Cinch,Manimal's Cinch,Uncommon,73.2476,NULL,NA,Enraged Spirits of Air,0,https://tbc.wowhead.com/item=30942,NA,348,24,NULL,12,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,13,Epoch's Whispering Cinch,Epoch's Whispering Cinch,Rare,71.297175,62.47205,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27911,NA,164,24,40,25,17,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,14,Socrethar's Girdle,Socrethar's Girdle,Rare,70.4796,60.0971,NA,Turning Point,1,https://tbc.wowhead.com/item=30372,NA,156,21,48,23,20,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,15,Liar's Cord,Liar's Cord,Rare,67.54265,NULL,Slave Pens,Rokmar the Crackler,1,https://tbc.wowhead.com/item=28124,NA,164,24,34,NULL,NULL,NULL,NULL,Red,Yellow,NULL,NA,NA,NA
+NA,5,Lurker's Grasp of the Bandit,Lurker's Grasp of the Bandit,Epic,86.554525,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,205,43,58,29,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,6,Girdle of the Deathdealer,Girdle of the Deathdealer,Epic,85.1054,74.7229,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=29247,NA,196,28,56,28,20,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,7,General's Leather Belt,General's Leather Belt,Epic,83.90265,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28423,NA,219,39,30,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,8,Marshal's Leather Belt,Marshal's Leather Belt,Epic,83.90265,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28986,NA,219,39,30,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,9,General's Dragonhide Belt,General's Dragonhide Belt,Epic,80.544225,NULL,NA,NA,1,https://tbc.wowhead.com/item=28443,NA,259,33,NULL,24,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,10,Marshal's Dragonhide Belt,Marshal's Dragonhide Belt,Epic,80.544225,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28976,NA,259,33,NULL,24,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,11,Dunewind Sash,Dunewind Sash,Rare,79.18735,NULL,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27760,NA,164,16,50,21,NULL,NULL,NULL,Red,Blue,NULL,NA,NA,NA
+NA,12,Primalstrike Belt,Primalstrike Belt,Epic,78.582925,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29526,NA,205,32,84,20,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,13,Manimal's Cinch,Manimal's Cinch,Uncommon,73.2476,NULL,NA,Enraged Spirits of Air,0,https://tbc.wowhead.com/item=30942,NA,348,24,NULL,12,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,14,Lurkers Grasp of the Tiger,Lurkers Grasp of the Tiger,Epic,72.092975,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,205,NULL,NULL,37,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,15,Epoch's Whispering Cinch,Epoch's Whispering Cinch,Rare,71.297175,62.47205,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27911,NA,164,24,40,25,17,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,NA,Ring,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,ap,agi,hit,def,dodge,socket,NA,NULL,NA,NA,NA
 NA,1,Shapeshifter's Signet,Shapeshifter's Signet,Epic,53.41045,NULL,Lower City,Exalted,1,https://tbc.wowhead.com/item=30834,NA,NULL,18,NULL,25,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,2,Garona's Signet Ring,Garona's Signet Ring,Epic,51.859,42.51475,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28649,NA,NULL,25,40,20,18,NULL,NULL,NA,NA,NULL,NA,NA,NA

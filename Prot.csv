@@ -125,10 +125,10 @@ NA,8,Girdle of Gallantry,Girdle of Gallantry,Rare,45.58,NULL,Underbog,Ghaz'an,1,
 NA,9,Deathforge Girdle,Deathforge Girdle,Rare,45.05,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27985,NA,655,25,NULL,NULL,NULL,NULL,NULL,22,NULL,NULL,20,NULL,NULL,NA,Red,Blue,NA
 NA,10,Dreadnaught Waistguard,Dreadnaught Waistguard,Epic,44.62,NULL,Classic,NA,0,https://tbc.wowhead.com/item=22422,NA,632,26,13,NULL,NULL,13,NULL,20,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
 NA,11,Gronn-Stitched Girdle,Gronn-Stitched Girdle,Epic,44.02,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28828,NA,222,27,NULL,NULL,NULL,NULL,72,NULL,NULL,NULL,25,NULL,NULL,NA,Blue,Yellow,NA
-NA,12,General's Chain Girdle,General's Chain Girdle,Epic,43.035,NULL,NA,NA,1,https://tbc.wowhead.com/item=28450,NA,487,39,NULL,NULL,NULL,NULL,30,NULL,27,NULL,14,NULL,NULL,NA,NA,NA,NA
-NA,13,Marshal's Chain Girdle,Marshal's Chain Girdle,Epic,43.035,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28974,NA,487,39,NULL,NULL,NULL,NULL,30,NULL,27,NULL,14,NULL,NULL,NA,NA,NA,NA
-NA,14,Girdle of the Lost Vindicator,Girdle of the Lost Vindicator,Uncommon,42.2,NULL,NA,Aldor No More,0,https://tbc.wowhead.com/item=30380,NA,590,39,18,NULL,NULL,NULL,NULL,18,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
-NA,15,General's Plate Belt,General's Plate Belt,Epic,42.1,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28385,NA,870,40,NULL,NULL,NULL,NULL,NULL,27,NULL,NULL,27,NULL,NULL,NA,NA,NA,NA
+NA,12,Lurker's Grasp of the Bandit,Lurker's Grasp of the Bandit,Epic,43.605,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,205,43,NULL,NULL,NULL,NULL,58,NULL,29,NULL,NULL,NULL,NULL,NA,NA,NA,NA
+NA,13,General's Chain Girdle,General's Chain Girdle,Epic,43.035,NULL,NA,NA,1,https://tbc.wowhead.com/item=28450,NA,487,39,NULL,NULL,NULL,NULL,30,NULL,27,NULL,14,NULL,NULL,NA,NA,NA,NA
+NA,14,Marshal's Chain Girdle,Marshal's Chain Girdle,Epic,43.035,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28974,NA,487,39,NULL,NULL,NULL,NULL,30,NULL,27,NULL,14,NULL,NULL,NA,NA,NA,NA
+NA,15,Girdle of the Lost Vindicator,Girdle of the Lost Vindicator,Uncommon,42.2,NULL,NA,Aldor No More,0,https://tbc.wowhead.com/item=30380,NA,590,39,18,NULL,NULL,NULL,NULL,18,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
 NA,NA,Ring,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NA
 NA,1,Violet Signet of the Great Protector,Violet Signet of the Great Protector,Epic,37.42,NULL,Deadwind Pass,Eminence Among the Violet Eye,1,https://tbc.wowhead.com/item=29279,NA,392,37,19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA
 NA,2,Shermanar Great-Ring,Shermanar Great-Ring,Epic,36.63,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28675,NA,223,36,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA

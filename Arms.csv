@@ -84,19 +84,19 @@ NA,15,The Exarch's Protector,The Exarch's Protector,Rare,70.56,NULL,Terokkar For
 NA,NA,Wrist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA,NA
 NA,1,Bladespire Warbands,Bladespire Warbands,Epic,58.08,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28795,NA,NULL,20,NULL,NULL,24,NULL,NULL,NULL,Blue,Red,NA,NA,NA,NA
 NA,2,Black Felsteel Bracers,Black Felsteel Bracers,Epic,46.24,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23537,NA,NULL,26,NULL,NULL,22,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,3,Veteran's Linked Bracers,Veteran's Linked Bracers,Epic,44.64,NULL,Mail Armor,NA,1,https://tbc.wowhead.com/item=32816,NA,NULL,21,NULL,NULL,17,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
-NA,4,Bracers of Maliciousness,Bracers of Maliciousness,Epic,42.965,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28514,NA,50,NULL,NULL,NULL,22,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,5,Ebon Netherscale Bracers,Ebon Netherscale Bracers,Epic,40.911,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29517,NA,38,NULL,NULL,NULL,17,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
-NA,6,General's Linked Bracers,General's Linked Bracers,Epic,40.8,NULL,NA,NA,1,https://tbc.wowhead.com/item=28605,NA,NULL,19,NULL,NULL,15,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
-NA,7,Marshal's Linked Bracers,Marshal's Linked Bracers,Epic,40.8,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28989,NA,NULL,19,NULL,NULL,15,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
-NA,8,General's Scaled Bracers,General's Scaled Bracers,Epic,40.44,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28646,NA,NULL,26,NULL,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
-NA,9,Marshal's Scaled Bracers,Marshal's Scaled Bracers,Epic,40.44,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28999,NA,NULL,26,NULL,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
-NA,10,General's Plate Bracers,General's Plate Bracers,Epic,39.88,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28381,NA,NULL,19,NULL,NULL,14,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
-NA,11,Marshal's Plate Bracers,Marshal's Plate Bracers,Epic,39.88,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28996,NA,NULL,19,NULL,NULL,14,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
-NA,12,Primalstrike Bracers,Primalstrike Bracers,Epic,39.243,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29527,NA,64,NULL,15,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,13,Windrager's Coils,Windrager's Coils,Rare,38.31,NULL,NA,NA,1,https://tbc.wowhead.com/item=32532,NA,60,NULL,NULL,NULL,12,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,14,Felstalker Bracers,Felstalker Bracers,Rare,37.457,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=25697,NA,38,NULL,18,NULL,NULL,NULL,NULL,NULL,Blue,NA,NA,NA,NA,NA
-NA,15,Nightfall Wristguards,Nightfall Wristguards,Epic,37.155,NULL,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=29246,NA,46,NULL,24,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,3,Ravager's Wrist-Wraps of the Tiger,Ravager's Wrist-Wraps of the Tiger,Epic,45.279,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30685/ravagers-wrist-wraps,NA,NULL,27,27,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,4,Veteran's Linked Bracers,Veteran's Linked Bracers,Epic,44.64,NULL,Mail Armor,NA,1,https://tbc.wowhead.com/item=32816,NA,NULL,21,NULL,NULL,17,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
+NA,5,Bracers of Maliciousness,Bracers of Maliciousness,Epic,42.965,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28514,NA,50,NULL,NULL,NULL,22,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,6,Ebon Netherscale Bracers,Ebon Netherscale Bracers,Epic,40.911,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29517,NA,38,NULL,NULL,NULL,17,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
+NA,7,General's Linked Bracers,General's Linked Bracers,Epic,40.8,NULL,NA,NA,1,https://tbc.wowhead.com/item=28605,NA,NULL,19,NULL,NULL,15,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
+NA,8,Marshal's Linked Bracers,Marshal's Linked Bracers,Epic,40.8,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28989,NA,NULL,19,NULL,NULL,15,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
+NA,9,General's Scaled Bracers,General's Scaled Bracers,Epic,40.44,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28646,NA,NULL,26,NULL,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
+NA,10,Marshal's Scaled Bracers,Marshal's Scaled Bracers,Epic,40.44,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28999,NA,NULL,26,NULL,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
+NA,11,General's Plate Bracers,General's Plate Bracers,Epic,39.88,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28381,NA,NULL,19,NULL,NULL,14,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
+NA,12,Marshal's Plate Bracers,Marshal's Plate Bracers,Epic,39.88,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28996,NA,NULL,19,NULL,NULL,14,NULL,NULL,NULL,Yellow,NA,NA,NA,NA,NA
+NA,13,Primalstrike Bracers,Primalstrike Bracers,Epic,39.243,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29527,NA,64,NULL,15,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,14,Windrager's Coils,Windrager's Coils,Rare,38.31,NULL,NA,NA,1,https://tbc.wowhead.com/item=32532,NA,60,NULL,NULL,NULL,12,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,15,Felstalker Bracers,Felstalker Bracers,Rare,37.457,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=25697,NA,38,NULL,18,NULL,NULL,NULL,NULL,NULL,Blue,NA,NA,NA,NA,NA
 NA,NA,Hands,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA,NA
 NA,1,Gauntlets of Martial Perfection,Gauntlets of Martial Perfection,Epic,73.16,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28824,NA,NULL,36,NULL,NULL,23,NULL,NULL,NULL,Blue,Yellow,NA,NA,NA,NA
 NA,2,Liar's Tongue Gloves,Liar's Tongue Gloves,Epic,72.644,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28776,NA,72,NULL,NULL,NULL,26,NULL,NULL,NULL,Blue,Blue,NA,NA,NA,NA
@@ -116,19 +116,19 @@ NA,15,Gauntlets of Annihilation,Gauntlets of Annihilation,Epic,54.68,50.93,Class
 NA,NA,Waist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA,NA
 NA,1,Girdle of the Endless Pit,Girdle of the Endless Pit,Epic,75.76,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28779,NA,NULL,34,NULL,NULL,28,NULL,NULL,NULL,Red,Blue,NA,NA,NA,NA
 NA,2,Gronn-Stitched Girdle,Gronn-Stitched Girdle,Epic,71.724,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28828,NA,72,NULL,NULL,NULL,25,NULL,NULL,NULL,Blue,Yellow,NA,NA,NA,NA
-NA,3,Ebon Netherscale Belt,Ebon Netherscale Belt,Epic,58.056,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29516,NA,48,NULL,NULL,NULL,22,NULL,NULL,NULL,Blue,Yellow,NA,NA,NA,NA
-NA,4,Girdle of the Deathdealer,Girdle of the Deathdealer,Epic,58.008,50.508,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=29247,NA,56,NULL,28,20,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,5,Deathforge Girdle,Deathforge Girdle,Rare,56.4,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27985,NA,NULL,22,NULL,NULL,20,NULL,NULL,NULL,Red,Blue,NA,NA,NA,NA
-NA,6,Rune-Engraved Belt,Rune-Engraved Belt,Rare,55.97,46.97,NA,Fel Embers,1,https://tbc.wowhead.com/item=25789,NA,50,NULL,25,24,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,7,Terror Pit Girdle,Terror Pit Girdle,Epic,55.318,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28778,NA,44,NULL,NULL,NULL,21,NULL,NULL,NULL,Blue,Red,NA,NA,NA,NA
-NA,8,Girdle of Treachery,Girdle of Treachery,Epic,54.547,NULL,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28750,NA,58,NULL,18,NULL,NULL,NULL,NULL,NULL,Red,Red,NA,NA,NA,NA
-NA,9,Girdle of the Mentor,Girdle of the Mentor,Epic,54.22,50.47,Naxxramas,Instructor Razuvious,1,https://tbc.wowhead.com/item=23219,NA,NULL,21,20,10,14,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,10,Dunewind Sash,Dunewind Sash,Rare,52.942,NULL,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27760,NA,50,NULL,21,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NA,NA,NA
-NA,11,Belt of the Raven Lord,Belt of the Raven Lord,Rare,52.509,NULL,Sethekk Halls,Anzu,1,https://tbc.wowhead.com/item=32769,NA,NULL,25,17,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NA,NA,NA
-NA,12,Girdle of Gallantry,Girdle of Gallantry,Rare,52.478,NULL,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27755,NA,NULL,27,14,NULL,NULL,NULL,NULL,NULL,Red,Yellow,NA,NA,NA,NA
-NA,13,Shattrath's Champion Belt,Shattrath's Champion Belt,Rare,52.245,46.62,NA,How to Break Into the Arcatraz,1,https://tbc.wowhead.com/item=31462,NA,50,NULL,NULL,15,21,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,14,General's Plate Belt,General's Plate Belt,Epic,51.84,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28385,NA,NULL,27,NULL,NULL,27,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
-NA,15,General's Linked Girdle,General's Linked Girdle,Epic,51.84,NULL,NA,NA,1,https://tbc.wowhead.com/item=28629,NA,NULL,27,NULL,NULL,27,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,3,Lurkers Grasp of the Tiger,Lurkers Grasp of the Tiger,Epic,62.049,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,4,Ebon Netherscale Belt,Ebon Netherscale Belt,Epic,58.056,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29516,NA,48,NULL,NULL,NULL,22,NULL,NULL,NULL,Blue,Yellow,NA,NA,NA,NA
+NA,5,Girdle of the Deathdealer,Girdle of the Deathdealer,Epic,58.008,50.508,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=29247,NA,56,NULL,28,20,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,6,Deathforge Girdle,Deathforge Girdle,Rare,56.4,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27985,NA,NULL,22,NULL,NULL,20,NULL,NULL,NULL,Red,Blue,NA,NA,NA,NA
+NA,7,Rune-Engraved Belt,Rune-Engraved Belt,Rare,55.97,46.97,NA,Fel Embers,1,https://tbc.wowhead.com/item=25789,NA,50,NULL,25,24,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,8,Terror Pit Girdle,Terror Pit Girdle,Epic,55.318,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28778,NA,44,NULL,NULL,NULL,21,NULL,NULL,NULL,Blue,Red,NA,NA,NA,NA
+NA,9,Girdle of Treachery,Girdle of Treachery,Epic,54.547,NULL,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28750,NA,58,NULL,18,NULL,NULL,NULL,NULL,NULL,Red,Red,NA,NA,NA,NA
+NA,10,Girdle of the Mentor,Girdle of the Mentor,Epic,54.22,50.47,Naxxramas,Instructor Razuvious,1,https://tbc.wowhead.com/item=23219,NA,NULL,21,20,10,14,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,11,Dunewind Sash,Dunewind Sash,Rare,52.942,NULL,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27760,NA,50,NULL,21,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NA,NA,NA
+NA,12,Belt of the Raven Lord,Belt of the Raven Lord,Rare,52.509,NULL,Sethekk Halls,Anzu,1,https://tbc.wowhead.com/item=32769,NA,NULL,25,17,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NA,NA,NA
+NA,13,Girdle of Gallantry,Girdle of Gallantry,Rare,52.478,NULL,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27755,NA,NULL,27,14,NULL,NULL,NULL,NULL,NULL,Red,Yellow,NA,NA,NA,NA
+NA,14,Shattrath's Champion Belt,Shattrath's Champion Belt,Rare,52.245,46.62,NA,How to Break Into the Arcatraz,1,https://tbc.wowhead.com/item=31462,NA,50,NULL,NULL,15,21,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
+NA,15,General's Plate Belt,General's Plate Belt,Epic,51.84,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28385,NA,NULL,27,NULL,NULL,27,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
 NA,NA,Ring,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA,NA
 NA,1,Ring of Reciprocity,Ring of Reciprocity,Epic,55.859,50.234,Hellfire Peninsula,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30738,NA,62,NULL,NULL,15,19,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA
 NA,2,Ring of a Thousand Marks,Ring of a Thousand Marks,Epic,54.078,46.953,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28757,NA,44,NULL,NULL,19,23,NULL,NULL,NULL,NA,NA,NA,NA,NA,NA

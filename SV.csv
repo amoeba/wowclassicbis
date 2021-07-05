@@ -92,11 +92,11 @@ NA,7,Marshal's Leather Bracers,Marshal's Leather Bracers,Epic,36.672,NULL,NA,PvP
 NA,8,General's Chain Bracers,General's Chain Bracers,Epic,35.738,NULL,NA,NA,1,https://tbc.wowhead.com/item=28451,NA,16,18,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
 NA,9,Marshal's Chain Bracers,Marshal's Chain Bracers,Epic,35.738,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28973,NA,16,18,NULL,7,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
 NA,10,Primalstrike Bracers,Primalstrike Bracers,Epic,34.042,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29527,NA,64,15,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,11,Stalker's War Bands,Stalker's War Bands,Epic,33.386,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28454,NA,44,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,Nightstalker's Wristguards,Nightstalker's Wristguards,Uncommon,33.354,24.354,NA,Down With Daellis,0,https://tbc.wowhead.com/item=30399,NA,42,12,9,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,Ebon Netherscale Bracers,Ebon Netherscale Bracers,Epic,32.352,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29517,NA,38,NULL,NULL,17,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
-NA,14,Shackles of Quagmirran,Shackles of Quagmirran,Rare,31.2,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27712,NA,40,20,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,Bracers of Maliciousness,Bracers of Maliciousness,Epic,30.038,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28514,NA,50,NULL,NULL,22,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,11,Ravager's Wrist-Wraps of the Bandit,Ravager's Wrist-Wraps of the Bandit,Epic,34.007,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30685/ravagers-wrist-wraps,NA,43,22,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,Stalker's War Bands,Stalker's War Bands,Epic,33.386,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28454,NA,44,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,13,Nightstalker's Wristguards,Nightstalker's Wristguards,Uncommon,33.354,24.354,NA,Down With Daellis,0,https://tbc.wowhead.com/item=30399,NA,42,12,9,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,Ebon Netherscale Bracers,Ebon Netherscale Bracers,Epic,32.352,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29517,NA,38,NULL,NULL,17,NULL,NULL,NULL,Yellow,NA,NA,NA,NA
+NA,15,Shackles of Quagmirran,Shackles of Quagmirran,Rare,31.2,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27712,NA,40,20,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Hands,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Gloves of Dexterous Manipulation,Gloves of Dexterous Manipulation,Epic,64.516,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28506,NA,42,35,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NA,NA
 NA,2,Fel Leather Gloves,Fel Leather Gloves,Rare,62.644,45.644,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=25685,NA,36,NULL,17,24,NULL,NULL,NULL,Yellow,Red,NA,NA,NA
@@ -128,7 +128,7 @@ NA,11,Felstalker Belt,Felstalker Belt,Rare,51.142,NULL,Leatherworking,Crafted,1,
 NA,12,Ebon Netherscale Belt,Ebon Netherscale Belt,Epic,48.092,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29516,NA,48,NULL,NULL,22,NULL,NULL,NULL,Blue,Yellow,NA,NA,NA
 NA,13,Sash of Silent Blades,Sash of Silent Blades,Rare,46.542,35.542,NA,World Drop,1,https://tbc.wowhead.com/item=31131,NA,30,28,11,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,14,Terror Pit Girdle,Terror Pit Girdle,Epic,46.186,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28778,NA,44,NULL,NULL,21,NULL,NULL,NULL,Blue,Red,NA,NA,NA
-NA,15,Primalstrike Belt,Primalstrike Belt,Epic,44.972,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29526,NA,84,20,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,Lurker's Grasp of the Bandit,Lurker's Grasp of the Bandit,Epic,45.24,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,58,29,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Ring,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Garona's Signet Ring,Garona's Signet Ring,Epic,49.2,31.2,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28649,NA,40,20,18,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Ring of a Thousand Marks,Ring of a Thousand Marks,Epic,47.814,28.814,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28757,NA,44,NULL,19,23,NULL,NULL,NULL,NA,NA,NA,NA,NA

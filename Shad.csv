@@ -82,8 +82,8 @@ NA,13,Bloodfyre Robes of Annihilation,Bloodfyre Robes of Annihilation,Rare,55.67
 NA,14,Grand Marshal's Satin Robe,Grand Marshal's Satin Robe,Rare,54.93,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28708,NA,27,15,NULL,NULL,NULL,Red,Yellow,Yellow
 NA,15,High Warlord's Satin Robe,High Warlord's Satin Robe,Rare,54.93,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28860,NA,27,15,NULL,NULL,NULL,Red,Yellow,Yellow
 NA,NA,Wrist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Ravager's Cuffs of Wrath (Frost/Shadow),Ravager's Cuffs of Wrath (Frost/Shadow),Epic,52,NULL,Karazhan,Rokad the Ravager,NULL,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,52,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Illidari Bindings of Wrath,Illidari Bindings of Wrath,Rare,47,NULL,NA,NA,NULL,https://tbc.wowhead.com/item=31225/illidari-bindings,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,1,Ravager's Cuffs of Wrath,Ravager's Cuffs of Wrath,Epic,59,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,59,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,2,Illidari Bindings of Wrath,Illidari Bindings of Wrath,Rare,47,NULL,Shadowmoon Valley,Ambassador Jerrikar,1,https://tbc.wowhead.com/item=31225/illidari-bindings,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,3,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,45,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,4,Bracers of Havok,Bracers of Havok,Rare,39.744,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,Yellow,NA,NA
 NA,5,Bands of Nefarious Deeds,Bands of Nefarious Deeds,Epic,33.364,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28515,NA,32,22,NULL,NULL,NULL,NA,NA,NA
@@ -95,8 +95,8 @@ NA,10,Marshal's Dreadweave Cuffs,Marshal's Dreadweave Cuffs,Epic,31.868,NULL,NA,
 NA,11,Arcanium Signet Bands,Arcanium Signet Bands,Rare,30.93,NULL,Underbog,Hungarfen,1,https://tbc.wowhead.com/item=27746,NA,30,15,NULL,NULL,NULL,NA,NA,NA
 NA,12,Shattrath Wraps,Shattrath Wraps,Rare,30.93,NULL,NA,The Soul Devices,1,https://tbc.wowhead.com/item=28174,NA,21,15,NULL,NULL,NULL,Red,NA,NA
 NA,13,Bands of Negation,Bands of Negation,Epic,30.364,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=29240,NA,29,22,NULL,NULL,NULL,NA,NA,NA
-NA,14,Harbinger Bands,Harbinger Bands,Epic,28.842,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28477,NA,26,21,NULL,NULL,NULL,NA,NA,NA
-NA,15,Burrower Bracers,Burrower Bracers,Epic,28.806,NULL,Classic,NA,0,https://tbc.wowhead.com/item=21611,NA,28,13,NULL,NULL,NULL,NA,NA,NA
+NA,14,Ravager's Cuffs of the Invoker,Ravager's Cuffs of the Invoker,Epic,30.313,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,25,22,NULL,22,NULL,NA,NA,NA
+NA,15,Harbinger Bands,Harbinger Bands,Epic,28.842,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28477,NA,26,21,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Hands,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,1,Anger-Spark Gloves,Anger-Spark Gloves,Epic,67.8715,52.4875,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30725,NA,30,NULL,20,25,NULL,Red,Red,NA
 NA,2,Handwraps of Flowing Thought,Handwraps of Flowing Thought,Epic,65.1328,54.364,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28507,NA,35,22,14,NULL,NULL,Yellow,Blue,NA
@@ -114,21 +114,21 @@ NA,13,Grips of the Void,Grips of the Void,Uncommon,37.477,NULL,NA,Enraged Spirit
 NA,14,Grips of the Void,Grips of the Void,Uncommon,37.477,NULL,NA,Enraged Spirits of Air,0,https://tbc.wowhead.com/item=30930,NA,35,11,NULL,10,NULL,NA,NA,NA
 NA,15,Uvuros Hide Gloves,Uvuros Hide Gloves,Uncommon,36.954,NULL,NA,"Wanted: Uvuros, Scourge of Shadowmoon",0,https://tbc.wowhead.com/item=31111,NA,35,12,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Waist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Belt of Divine Inspiration,Belt of Divine Inspiration,Epic,62.612,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28799,NA,43,26,NULL,NULL,NULL,Yellow,Blue,NA
-NA,2,Girdle of Ruination,Girdle of Ruination,Epic,61.396,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24256,NA,39,13,NULL,20,NULL,Red,Yellow,NA
-NA,3,Glyph-Lined Sash,Glyph-Lined Sash,Rare,51.0415,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27843,NA,30,23,NULL,9,NULL,Yellow,Yellow,NA
-NA,4,Unyielding Girdle,Unyielding Girdle,Epic,50,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24255,NA,32,NULL,NULL,NULL,NULL,Blue,Yellow,NA
-NA,5,Belt of Depravity,Belt of Depravity,Epic,48.7504,35.674,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29241,NA,34,27,17,NULL,NULL,NA,NA,NA
-NA,6,Eyestalk Waist Cord,Eyestalk Waist Cord,Epic,44.071,NULL,Classic,NA,0,https://tbc.wowhead.com/item=22730,NA,41,9,NULL,14,NULL,NA,NA,NA
-NA,7,Mindfire Waistband,Mindfire Waistband,Rare,42.7225,NULL,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=24395,NA,21,14,NULL,11,NULL,Yellow,Blue,NA
-NA,8,Akama's Sash,Akama's Sash,Rare,42.414,NULL,NA,Akama's Promise,1,https://tbc.wowhead.com/item=30932,NA,40,7,NULL,NULL,NULL,NA,NA,NA
-NA,9,Malefic Girdle,Malefic Girdle,Epic,42.3815,NULL,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28654,NA,37,26,NULL,21,NULL,NA,NA,NA
-NA,10,Sash of Sealed Fate,Sash of Sealed Fate,Rare,40.0585,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31283,NA,35,15,NULL,23,NULL,NA,NA,NA
-NA,11,Sash of Serpentra,Sash of Serpentra,Rare,39.3784,26.302,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=27795,NA,25,21,17,NULL,NULL,NA,NA,NA
-NA,12,A'dal's Gift,A'dal's Gift,Rare,39.3195,NULL,NA,How to Break Into the Arcatraz,1,https://tbc.wowhead.com/item=31461,NA,34,25,NULL,21,NULL,NA,NA,NA
-NA,13,Nethershard Girdle,Nethershard Girdle,Epic,39.28,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28565,NA,35,30,NULL,NULL,NULL,NA,NA,NA
-NA,14,Dragonmaw Augur's Cinch,Dragonmaw Augur's Cinch,Uncommon,37.302,NULL,NA,A Job Unfinished...,0,https://tbc.wowhead.com/item=32867,NA,18,21,NULL,NULL,NULL,Blue,Red,NA
-NA,15,Dragonmaw Augur's Cinch,Dragonmaw Augur's Cinch,Uncommon,37.302,NULL,NA,A Job Unfinished...,0,https://tbc.wowhead.com/item=32867,NA,18,21,NULL,NULL,NULL,Blue,Red,NA
+NA,1,Lurker's Cord of the Wrath,Lurker's Cord of the Wrath,Epic,79,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30675/lurkers-cord,NA,79,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,2,Belt of Divine Inspiration,Belt of Divine Inspiration,Epic,62.612,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28799,NA,43,26,NULL,NULL,NULL,Yellow,Blue,NA
+NA,3,Girdle of Ruination,Girdle of Ruination,Epic,61.396,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24256,NA,39,13,NULL,20,NULL,Red,Yellow,NA
+NA,4,Glyph-Lined Sash,Glyph-Lined Sash,Rare,51.0415,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27843,NA,30,23,NULL,9,NULL,Yellow,Yellow,NA
+NA,5,Unyielding Girdle,Unyielding Girdle,Epic,50,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24255,NA,32,NULL,NULL,NULL,NULL,Blue,Yellow,NA
+NA,6,Belt of Depravity,Belt of Depravity,Epic,48.7504,35.674,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29241,NA,34,27,17,NULL,NULL,NA,NA,NA
+NA,7,Eyestalk Waist Cord,Eyestalk Waist Cord,Epic,44.071,NULL,Classic,NA,0,https://tbc.wowhead.com/item=22730,NA,41,9,NULL,14,NULL,NA,NA,NA
+NA,8,Mindfire Waistband,Mindfire Waistband,Rare,42.7225,NULL,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=24395,NA,21,14,NULL,11,NULL,Yellow,Blue,NA
+NA,9,Akama's Sash,Akama's Sash,Rare,42.414,NULL,NA,Akama's Promise,1,https://tbc.wowhead.com/item=30932,NA,40,7,NULL,NULL,NULL,NA,NA,NA
+NA,10,Malefic Girdle,Malefic Girdle,Epic,42.3815,NULL,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28654,NA,37,26,NULL,21,NULL,NA,NA,NA
+NA,11,Lurker's Cord of Invoker,Lurker's Cord of Invoker,Epic,41.0035,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30675/lurkers-cord,NA,34,29,NULL,29,NULL,NA,NA,NA
+NA,12,Sash of Sealed Fate,Sash of Sealed Fate,Rare,40.0585,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31283,NA,35,15,NULL,23,NULL,NA,NA,NA
+NA,13,Sash of Serpentra,Sash of Serpentra,Rare,39.3784,26.302,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=27795,NA,25,21,17,NULL,NULL,NA,NA,NA
+NA,14,A'dal's Gift,A'dal's Gift,Rare,39.3195,NULL,NA,How to Break Into the Arcatraz,1,https://tbc.wowhead.com/item=31461,NA,34,25,NULL,21,NULL,NA,NA,NA
+NA,15,Nethershard Girdle,Nethershard Girdle,Epic,39.28,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28565,NA,35,30,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Ring,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,1,Ring of the Fallen God,Ring of the Fallen God,Epic,43.5256,37.372,Classic,NA,0,https://tbc.wowhead.com/item=21709,NA,37,6,8,NULL,NULL,NA,NA,NA
 NA,2,Band of the Inevitable,Band of the Inevitable,Epic,42.1536,36,Naxxramas,Noth the Plaguebringer,1,https://tbc.wowhead.com/item=23031,NA,36,NULL,8,NULL,NULL,NA,NA,NA
