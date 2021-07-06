@@ -162,20 +162,20 @@ NA,14,Hallowed Trousers,Hallowed Trousers,Rare,91.8,Sethekk Halls,Talon King Iki
 NA,15,Pants of the Naaru,Pants of the Naaru,Rare,91.1,Netherstorm,Special Delivery to Shattrath City,1,https://tbc.wowhead.com/item=30256,NA,77,22,25,NA,NULL,NULL,NA,NA,NA
 NA,NA,Feet,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Gold-Leaf Wildboots,Gold-Leaf Wildboots,Epic,133.1,Hellfire Peninsula,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30737,NA,86,19,18,NA,NULL,NULL,Yellow,Blue,NA
-NA,2,Forestlord Striders,Forestlord Striders,Epic,103.9,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28752,NA,55,27,16,NA,NULL,NULL,Blue,Blue,NA
-NA,3,Slippers of Serenity,Slippers of Serenity,Rare,82.1,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27411,NA,35,22,15,NA,NULL,NULL,Red,Blue,NA
-NA,4,Boots of the Pious,Boots of the Pious,Epic,76.7,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=29251,NA,62,26,23,NA,NULL,NULL,NA,NA,NA
-NA,5,Boots of the Incorrupt,Boots of the Incorrupt,Epic,75.1,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28663,NA,57,24,23,NA,NULL,8,NA,NA,NA
-NA,6,General's Kodohide Boots,General's Kodohide Boots,Epic,72.4,Season 1,PvP,1,https://tbc.wowhead.com/item=31595,NA,62,23,NULL,NA,NULL,7,NA,NA,NA
-NA,7,Marshal's Kodohide Boots,Marshal's Kodohide Boots,Epic,72.4,NA,PvP,1,https://tbc.wowhead.com/item=31597,NA,62,23,NULL,NA,NULL,7,NA,NA,NA
-NA,8,Curate's Boots,Curate's Boots,Rare,68,NA,Fel Embers,1,https://tbc.wowhead.com/item=25792,NA,53,25,25,NA,NULL,NULL,NA,NA,NA
-NA,9,Boots of the Glade-Keeper,Boots of the Glade-Keeper,Rare,66.2,NA,NA,1,https://tbc.wowhead.com/item=28251,NA,53,24,20,NA,NULL,NULL,NA,NA,NA
-NA,10,Jeweled Boots of Sanctification,Jeweled Boots of Sanctification,Rare,65.5,Shattered Halls,Warbringer O'mrogg,1,https://tbc.wowhead.com/item=27525,NA,55,25,NULL,NA,NULL,6,NA,NA,NA
-NA,11,Dreamwalker Boots,Dreamwalker Boots,Epic,58.7,Classic,NA,0,https://tbc.wowhead.com/item=22492,NA,46,20,14,NA,NULL,5,NA,NA,NA
-NA,12,Light-Woven Slippers,Light-Woven Slippers,Rare,45.1,Sethekk Halls,Darkweaver Syth,1,https://tbc.wowhead.com/item=27919,NA,29,24,13,NA,NULL,10,NA,NA,NA
-NA,13,Boots of Foretelling,Boots of Foretelling,Epic,42.9,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,NULL,23,NULL,NA,NULL,NULL,Red,Yellow,NA
-NA,14,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,42.3,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,NULL,21,NULL,NA,NULL,NULL,Red,Yellow,NA
-NA,15,General's Dragonhide Boots,General's Dragonhide Boots,Epic,41.5,Season 1,PvP,1,https://tbc.wowhead.com/item=28444,NA,37,15,NULL,NA,NULL,NULL,NA,NA,NA
+NA,2,Glider's Foot-Wraps of Healing,Glider's Foot-Wraps of Healing,Epic,121,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,121,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,3,Forestlord Striders,Forestlord Striders,Epic,103.9,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28752,NA,55,27,16,NA,NULL,NULL,Blue,Blue,NA
+NA,4,Slippers of Serenity,Slippers of Serenity,Rare,82.1,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27411,NA,35,22,15,NA,NULL,NULL,Red,Blue,NA
+NA,5,Glider's Foot-Wraps of the Prophet,Glider's Foot-Wraps of the Prophet,Epic,81.4,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,64,29,29,NA,NULL,NULL,NA,NA,NA
+NA,6,Boots of the Pious,Boots of the Pious,Epic,76.7,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=29251,NA,62,26,23,NA,NULL,NULL,NA,NA,NA
+NA,7,Boots of the Incorrupt,Boots of the Incorrupt,Epic,75.1,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28663,NA,57,24,23,NA,NULL,8,NA,NA,NA
+NA,8,General's Kodohide Boots,General's Kodohide Boots,Epic,72.4,Season 1,PvP,1,https://tbc.wowhead.com/item=31595,NA,62,23,NULL,NA,NULL,7,NA,NA,NA
+NA,9,Marshal's Kodohide Boots,Marshal's Kodohide Boots,Epic,72.4,NA,PvP,1,https://tbc.wowhead.com/item=31597,NA,62,23,NULL,NA,NULL,7,NA,NA,NA
+NA,10,Curate's Boots,Curate's Boots,Rare,68,NA,Fel Embers,1,https://tbc.wowhead.com/item=25792,NA,53,25,25,NA,NULL,NULL,NA,NA,NA
+NA,11,Boots of the Glade-Keeper,Boots of the Glade-Keeper,Rare,66.2,NA,NA,1,https://tbc.wowhead.com/item=28251,NA,53,24,20,NA,NULL,NULL,NA,NA,NA
+NA,12,Jeweled Boots of Sanctification,Jeweled Boots of Sanctification,Rare,65.5,Shattered Halls,Warbringer O'mrogg,1,https://tbc.wowhead.com/item=27525,NA,55,25,NULL,NA,NULL,6,NA,NA,NA
+NA,13,Dreamwalker Boots,Dreamwalker Boots,Epic,58.7,Classic,NA,0,https://tbc.wowhead.com/item=22492,NA,46,20,14,NA,NULL,5,NA,NA,NA
+NA,14,Light-Woven Slippers,Light-Woven Slippers,Rare,45.1,Sethekk Halls,Darkweaver Syth,1,https://tbc.wowhead.com/item=27919,NA,29,24,13,NA,NULL,10,NA,NA,NA
+NA,15,Boots of Foretelling,Boots of Foretelling,Epic,42.9,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,NULL,23,NULL,NA,NULL,NULL,Red,Yellow,NA
 NA,NA,Trinket,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Essence of the Martyr,Essence of the Martyr,Epic,114,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29376,NA,114,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,2,Eye of the Dead,Eye of the Dead,Epic,90,Classic,NA,0,https://tbc.wowhead.com/item=23047,NA,90,NULL,NULL,NA,NULL,NULL,NA,NA,NA

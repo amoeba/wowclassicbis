@@ -169,14 +169,14 @@ NA,4,The Master's Treads,The Master's Treads,Rare,61.792,50.16,NA,NA,1,https://t
 NA,5,Rapscallion Boots,Rapscallion Boots,Epic,61.594,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28669,NA,82,NULL,NULL,24,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,6,Felboar Hide Shoes,Felboar Hide Shoes,Rare,60.707,54.164,NA,The Cipher of Damnation - The Third Fragment Recovered,1,https://tbc.wowhead.com/item=30939,NA,68,18,9,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,7,Shadowstep Striders,Shadowstep Striders,Epic,60.654,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29248,NA,54,31,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,8,Ferocious Swift-Kickers,Ferocious Swift-Kickers,Epic,59.682,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28610,NA,58,NULL,NULL,16,NULL,NULL,NULL,Yellow,Blue,NA,NA,NA
-NA,9,Farahlite Studded Boots,Farahlite Studded Boots,Uncommon,58.648,NULL,NA,A Fate Worse Than Death,0,https://tbc.wowhead.com/item=30401,NA,56,16,NULL,16,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,10,Boots of the Unjust,Boots of the Unjust,Rare,57.739,48.288,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27867,NA,64,NULL,13,19,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,11,General's Leather Boots,General's Leather Boots,Epic,56.022,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28422,NA,30,27,NULL,15,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,Marshal's Leather Boots,Marshal's Leather Boots,Epic,56.022,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28987,NA,30,27,NULL,15,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,General's Chain Sabatons,General's Chain Sabatons,Epic,55.222,NULL,NA,NA,1,https://tbc.wowhead.com/item=28449,NA,30,27,NULL,14,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,14,Marshal's Chain Sabatons,Marshal's Chain Sabatons,Epic,55.222,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28975,NA,30,27,NULL,14,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,Silent-Strider Kneeboots,Silent-Strider Kneeboots,Rare,54.362,NULL,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27467,NA,50,27,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,8,Glider's Boots of the Bandit,Glider's Boots of the Bandit,Epic,60.61,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30681/gliders-boots,NA,58,29,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,9,Ferocious Swift-Kickers,Ferocious Swift-Kickers,Epic,59.682,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28610,NA,58,NULL,NULL,16,NULL,NULL,NULL,Yellow,Blue,NA,NA,NA
+NA,10,Farahlite Studded Boots,Farahlite Studded Boots,Uncommon,58.648,NULL,NA,A Fate Worse Than Death,0,https://tbc.wowhead.com/item=30401,NA,56,16,NULL,16,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,11,Boots of the Unjust,Boots of the Unjust,Rare,57.739,48.288,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27867,NA,64,NULL,13,19,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,General's Leather Boots,General's Leather Boots,Epic,56.022,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28422,NA,30,27,NULL,15,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,13,Marshal's Leather Boots,Marshal's Leather Boots,Epic,56.022,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28987,NA,30,27,NULL,15,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,General's Chain Sabatons,General's Chain Sabatons,Epic,55.222,NULL,NA,NA,1,https://tbc.wowhead.com/item=28449,NA,30,27,NULL,14,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,Marshal's Chain Sabatons,Marshal's Chain Sabatons,Epic,55.222,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28975,NA,30,27,NULL,14,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Dragonspine Trophy,Dragonspine Trophy,Epic,117.79,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28830,NA,40,NULL,NULL,NULL,130,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,77.55,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23206,NA,150,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA

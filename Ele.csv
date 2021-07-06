@@ -162,21 +162,21 @@ NA,13,Battlecast Pants,Battlecast Pants,Epic,64.86,NULL,Tailoring,Crafted,1,http
 NA,14,Leggings of Polarity,Leggings of Polarity,Epic,64.72,NULL,Naxxramas,Thaddius,1,https://tbc.wowhead.com/item=23070,NA,44,14,NULL,28,NULL,NA,NA,NA
 NA,15,Kirin Tor Master's Trousers,Kirin Tor Master's Trousers,Epic,64.45,NULL,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=30532,NA,36,29,NULL,NULL,NULL,Red,Yellow,Blue
 NA,NA,Feet,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Boots of Foretelling,Boots of Foretelling,Epic,60.72,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,26,23,NULL,19,NULL,Red,Yellow,NA
-NA,2,Windshear Boots,Windshear Boots,Epic,53.76,44.76,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28810,NA,39,32,18,NULL,NULL,NA,NA,NA
-NA,3,Sigil-Laced Boots,Sigil-Laced Boots,Rare,52.52,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28406,NA,20,18,NULL,17,NULL,Red,Yellow,NA
-NA,4,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,49.76,NULL,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,18,21,NULL,15,NULL,Red,Yellow,NA
-NA,5,Ruby Slippers,Ruby Slippers,Epic,48.22,40.22,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28585,NA,35,29,16,NULL,NULL,NA,NA,NA
-NA,6,General's Silk Footguards,General's Silk Footguards,Epic,47.74,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28410,NA,28,23,NULL,24,NULL,NA,NA,NA
-NA,7,General's Mail Sabatons,General's Mail Sabatons,Epic,47.74,NULL,NA,NA,1,https://tbc.wowhead.com/item=28640,NA,28,23,NULL,24,NULL,NA,NA,NA
-NA,8,Marshal's Mail Sabatons,Marshal's Mail Sabatons,Epic,47.74,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28994,NA,28,23,NULL,24,NULL,NA,NA,NA
-NA,9,Marshal's Silk Footguards,Marshal's Silk Footguards,Epic,47.74,NULL,NA,PvP,1,https://tbc.wowhead.com/item=29003,NA,28,23,NULL,24,NULL,NA,NA,NA
-NA,10,Blackened Chain Greaves,Blackened Chain Greaves,Uncommon,47.56,NULL,NA,Reclaiming Holy Grounds,0,https://tbc.wowhead.com/item=30958,NA,35,12,NULL,16,NULL,NA,NA,NA
-NA,11,Rocket Boots Xtreme Lite,Rocket Boots Xtreme Lite,Rare,47,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=35581,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,12,Landing Boots,Landing Boots,Uncommon,46.84,NULL,NA,Dealing with the Overmaster,0,https://tbc.wowhead.com/item=30004,NA,35,8,NULL,16,NULL,NA,NA,NA
-NA,13,Shattrath Jumpers,Shattrath Jumpers,Rare,46.29,NULL,NA,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28179,NA,29,17,NULL,NULL,NULL,Blue,Yellow,NA
-NA,14,Embroidered Spellpyre Boots,Embroidered Spellpyre Boots,Rare,44.78,NULL,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=27848,NA,41,21,NULL,NULL,NULL,NA,NA,NA
-NA,15,Abyss Walker's Boots,Abyss Walker's Boots,Rare,44.3,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31230,NA,30,NULL,NULL,22,NULL,NA,NA,NA
+NA,1,Glider's Foot-Wraps of Wrath,Glider's Foot-Wraps of Wrath,Epic,79,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,79,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,2,Boots of Foretelling,Boots of Foretelling,Epic,60.72,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,26,23,NULL,19,NULL,Red,Yellow,NA
+NA,3,Glider's Foot-Wraps of the Invoker,Glider's Foot-Wraps of the Invoker,Epic,58.07,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,34,29,NULL,29,NULL,NA,NA,NA
+NA,4,Windshear Boots,Windshear Boots,Epic,53.76,44.76,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28810,NA,39,32,18,NULL,NULL,NA,NA,NA
+NA,5,Sigil-Laced Boots,Sigil-Laced Boots,Rare,52.52,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28406,NA,20,18,NULL,17,NULL,Red,Yellow,NA
+NA,6,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,49.76,NULL,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,18,21,NULL,15,NULL,Red,Yellow,NA
+NA,7,Ruby Slippers,Ruby Slippers,Epic,48.22,40.22,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28585,NA,35,29,16,NULL,NULL,NA,NA,NA
+NA,8,General's Silk Footguards,General's Silk Footguards,Epic,47.74,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28410,NA,28,23,NULL,24,NULL,NA,NA,NA
+NA,9,General's Mail Sabatons,General's Mail Sabatons,Epic,47.74,NULL,NA,NA,1,https://tbc.wowhead.com/item=28640,NA,28,23,NULL,24,NULL,NA,NA,NA
+NA,10,Marshal's Mail Sabatons,Marshal's Mail Sabatons,Epic,47.74,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28994,NA,28,23,NULL,24,NULL,NA,NA,NA
+NA,11,Marshal's Silk Footguards,Marshal's Silk Footguards,Epic,47.74,NULL,NA,PvP,1,https://tbc.wowhead.com/item=29003,NA,28,23,NULL,24,NULL,NA,NA,NA
+NA,12,Blackened Chain Greaves,Blackened Chain Greaves,Uncommon,47.56,NULL,NA,Reclaiming Holy Grounds,0,https://tbc.wowhead.com/item=30958,NA,35,12,NULL,16,NULL,NA,NA,NA
+NA,13,Rocket Boots Xtreme Lite,Rocket Boots Xtreme Lite,Rare,47,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=35581,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,14,Landing Boots,Landing Boots,Uncommon,46.84,NULL,NA,Dealing with the Overmaster,0,https://tbc.wowhead.com/item=30004,NA,35,8,NULL,16,NULL,NA,NA,NA
+NA,15,Shattrath Jumpers,Shattrath Jumpers,Rare,46.29,NULL,NA,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28179,NA,29,17,NULL,NULL,NULL,Blue,Yellow,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,85,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,2,Quagmirran's Eye,Quagmirran's Eye,Rare,83.464,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,38.4,NA,NA,NA

@@ -119,7 +119,7 @@ NA,2,Girdle of the Deathdealer,Girdle of the Deathdealer,Epic,60.8448,34.6248,Bl
 NA,3,Girdle of the Endless Pit,Girdle of the Endless Pit,Epic,56.3252,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28779,NA,NULL,34,NULL,NULL,28,NULL,NULL,NULL,Red,Blue,NULL,NA,NA,NA
 NA,4,Socrethar's Girdle,Socrethar's Girdle,Rare,55.2628,29.0428,NA,Turning Point,1,https://tbc.wowhead.com/item=30372,NA,48,NULL,23,20,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,5,Girdle of the Prowler,Girdle of the Prowler,Epic,52.6978,30.4108,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28656,NA,48,NULL,25,17,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,6,Lurkers Grasp of the Tiger,Lurkers Grasp of the Tiger,Epic,50.4236,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,6,Lurker's Grasp of the Tiger,Lurker's Grasp of the Tiger,Epic,50.4236,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,7,Girdle of the Mentor,Girdle of the Mentor,Epic,50.2534,37.1434,Naxxramas,Instructor Razuvious,1,https://tbc.wowhead.com/item=23219,NA,NULL,21,20,10,14,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,8,Epoch's Whispering Cinch,Epoch's Whispering Cinch,Rare,50.197,27.91,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27911,NA,40,NULL,25,17,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,9,Gronn-Stitched Girdle,Gronn-Stitched Girdle,Epic,50.1535,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28828,NA,72,NULL,NULL,NULL,25,NULL,NULL,NULL,Blue,Yellow,NULL,NA,NA,NA
@@ -167,16 +167,16 @@ NA,2,Edgewalker Longboots,Edgewalker Longboots,Epic,63.5774,46.5344,Karazhan,Mor
 NA,3,Fiend Slayer Boots,Fiend Slayer Boots,Epic,62.38,40.093,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28746,NA,34,NULL,26,17,NULL,NULL,NULL,NULL,Red,Blue,NULL,NA,NA,NA
 NA,4,Ironstriders of Urgency,Ironstriders of Urgency,Epic,51.5896,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28608,NA,NULL,33,20,NULL,NULL,NULL,NULL,NULL,Red,Yellow,NULL,NA,NA,NA
 NA,5,The Master's Treads,The Master's Treads,Rare,50.6544,29.6784,NA,NA,1,https://tbc.wowhead.com/item=31288,NA,48,NULL,24,16,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,6,Boots of the Unjust,Boots of the Unjust,Rare,48.7067,31.6637,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27867,NA,64,NULL,NULL,13,19,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,7,Bloodsworn Warboots,Bloodsworn Warboots,Rare,44.8302,22.5432,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=27788,NA,NULL,31,NULL,17,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,8,Sha'tari Wrought Greaves,Sha'tari Wrought Greaves,Rare,44.0804,NULL,Shadow Labyrinth,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28176,NA,NULL,24,21,NULL,NULL,NULL,NULL,NULL,Red,Blue,NULL,NA,NA,NA
-NA,9,Kirin'Var Defender's Greaves,Kirin'Var Defender's Greaves,Uncommon,43.7948,25.4408,NA,Building a Perimeter,0,https://tbc.wowhead.com/item=29786,NA,NULL,21,16,14,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,10,Felboar Hide Shoes,Felboar Hide Shoes,Rare,43.6738,31.8748,NA,The Cipher of Damnation - The Third Fragment Recovered,1,https://tbc.wowhead.com/item=30939,NA,68,NULL,18,9,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,11,Clocktock's Jumpers,Clocktock's Jumpers,Uncommon,42.9951,28.5741,NA,"What Came First, the Drake or the Egg?",0,https://tbc.wowhead.com/item=31441,NA,NULL,15,NULL,11,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,12,Zierhut's Lost Treads,Zierhut's Lost Treads,Epic,42.5216,NULL,Karazhan,Trash,1,https://tbc.wowhead.com/item=30674,NA,NULL,34,28,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,13,Wild Stalker Boots,Wild Stalker Boots,Rare,41.5938,19.3068,Hellfire Ramparts,Watchkeeper Gargolmar,1,https://tbc.wowhead.com/item=27450,NA,64,NULL,NULL,17,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,14,Rapscallion Boots,Rapscallion Boots,Epic,40.3442,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28669,NA,82,NULL,NULL,NULL,24,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,15,Ferocious Swift-Kickers,Ferocious Swift-Kickers,Epic,40.1502,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28610,NA,58,NULL,NULL,NULL,16,NULL,NULL,NULL,Yellow,Blue,NULL,NA,NA,NA
+NA,6,Glider's Boots of the Tiger,Glider's Boots of the Tiger,Epic,50.4236,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30681/gliders-boots,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,7,Boots of the Unjust,Boots of the Unjust,Rare,48.7067,31.6637,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27867,NA,64,NULL,NULL,13,19,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,8,Bloodsworn Warboots,Bloodsworn Warboots,Rare,44.8302,22.5432,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=27788,NA,NULL,31,NULL,17,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,9,Sha'tari Wrought Greaves,Sha'tari Wrought Greaves,Rare,44.0804,NULL,Shadow Labyrinth,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28176,NA,NULL,24,21,NULL,NULL,NULL,NULL,NULL,Red,Blue,NULL,NA,NA,NA
+NA,10,Kirin'Var Defender's Greaves,Kirin'Var Defender's Greaves,Uncommon,43.7948,25.4408,NA,Building a Perimeter,0,https://tbc.wowhead.com/item=29786,NA,NULL,21,16,14,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,11,Felboar Hide Shoes,Felboar Hide Shoes,Rare,43.6738,31.8748,NA,The Cipher of Damnation - The Third Fragment Recovered,1,https://tbc.wowhead.com/item=30939,NA,68,NULL,18,9,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,12,Clocktock's Jumpers,Clocktock's Jumpers,Uncommon,42.9951,28.5741,NA,"What Came First, the Drake or the Egg?",0,https://tbc.wowhead.com/item=31441,NA,NULL,15,NULL,11,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,13,Zierhut's Lost Treads,Zierhut's Lost Treads,Epic,42.5216,NULL,Karazhan,Trash,1,https://tbc.wowhead.com/item=30674,NA,NULL,34,28,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,14,Wild Stalker Boots,Wild Stalker Boots,Rare,41.5938,19.3068,Hellfire Ramparts,Watchkeeper Gargolmar,1,https://tbc.wowhead.com/item=27450,NA,64,NULL,NULL,17,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,15,Rapscallion Boots,Rapscallion Boots,Epic,40.3442,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28669,NA,82,NULL,NULL,NULL,24,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NA,NULL,NA,NA,NA
 NA,1,Dragonspine Trophy,Dragonspine Trophy,Epic,106.179,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28830,NA,40,NULL,NULL,NULL,NULL,130,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,2,Icon of Unyielding Courage,Icon of Unyielding Courage,Rare,48.2,8.87,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=28121,NA,NULL,NULL,NULL,30,NULL,NULL,100,NULL,NA,NA,NULL,NA,NA,NA

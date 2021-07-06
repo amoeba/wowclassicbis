@@ -162,21 +162,21 @@ NA,13,Gladiator's Silk Trousers,Gladiator's Silk Trousers,Epic,54.111,NULL,Seaso
 NA,14,Devil-Stitched Leggings,Devil-Stitched Leggings,Rare,53.732,NULL,Botanica,Laj,1,https://tbc.wowhead.com/item=28338,NA,29,28,NULL,NULL,NULL,NULL,Red,Yellow,Blue
 NA,15,Stormreaver Shadow-Kilt,Stormreaver Shadow-Kilt,Rare,52.118,NULL,Old Hillsbrad Foothills,Lieutenant Drake,1,https://tbc.wowhead.com/item=27418,NA,30,26,14,NULL,25,NULL,NA,NA,NA
 NA,NA,Feet,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,SP,int,spi,hit,crit,haste,socket,NA,NA
-NA,1,Boots of Foretelling,Boots of Foretelling,Epic,50.567,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,26,23,NULL,NULL,19,NULL,Red,Yellow,NA
-NA,2,Boots of the Infernal Coven,Boots of the Infernal Coven,Epic,49.38,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28670,NA,34,27,23,NULL,NULL,NULL,NA,NA,NA
-NA,3,Boots of Ethereal Manipulation,Boots of Ethereal Manipulation,Epic,47.781,NULL,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=29258,NA,33,27,21,NULL,NULL,NULL,NA,NA,NA
-NA,4,Ruby Slippers,Ruby Slippers,Epic,43.616,40.448,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28585,NA,35,29,NULL,16,NULL,NULL,NA,NA,NA
-NA,5,Sigil-Laced Boots,Sigil-Laced Boots,Rare,42.8,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28406,NA,20,18,NULL,NULL,17,NULL,Red,Yellow,NA
-NA,6,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,42.453,NULL,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,18,21,NULL,NULL,15,NULL,Red,Yellow,NA
-NA,7,General's Silk Footguards,General's Silk Footguards,Epic,42.031,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28410,NA,28,23,NULL,NULL,24,NULL,NA,NA,NA
-NA,8,Marshal's Silk Footguards,Marshal's Silk Footguards,Epic,42.031,NULL,NA,PvP,1,https://tbc.wowhead.com/item=29003,NA,28,23,NULL,NULL,24,NULL,NA,NA,NA
-NA,9,Silent Slippers of Meditation,Silent Slippers of Meditation,Rare,41.96,NULL,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=27902,NA,26,25,21,NULL,NULL,NULL,NA,NA,NA
-NA,10,Slippers of the High Priestess,Slippers of the High Priestess,Rare,41.619,NULL,NA,Deathblow to the Legion,1,https://tbc.wowhead.com/item=30368,NA,28,23,20,NULL,NULL,NULL,NA,NA,NA
-NA,11,Shattrath Jumpers,Shattrath Jumpers,Rare,41.216,NULL,NA,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28179,NA,29,17,NULL,NULL,NULL,NULL,Blue,Yellow,NA
-NA,12,Boots of Blasphemy,Boots of Blasphemy,Epic,41.109,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=29242,NA,36,29,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,13,Ethereal Boots of the Skystrider,Ethereal Boots of the Skystrider,Rare,41.093,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=25957,NA,26,19,12,NULL,17,NULL,NA,NA,NA
-NA,14,Embroidered Spellpyre Boots,Embroidered Spellpyre Boots,Rare,39.638,NULL,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=27848,NA,41,21,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,15,General's Dreadweave Stalkers,General's Dreadweave Stalkers,Epic,37.271,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28402,NA,32,27,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,1,Glider's Foot-Wraps of Wrath,Glider's Foot-Wraps of Wrath,Epic,52.219,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,79,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,2,Glider's Foot-Wraps of the Invoker,Glider's Foot-Wraps of the Invoker,Epic,51.619,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,34,29,NULL,NULL,29,NULL,NA,NA,NA
+NA,3,Boots of Foretelling,Boots of Foretelling,Epic,50.567,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,26,23,NULL,NULL,19,NULL,Red,Yellow,NA
+NA,4,Boots of the Infernal Coven,Boots of the Infernal Coven,Epic,49.38,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28670,NA,34,27,23,NULL,NULL,NULL,NA,NA,NA
+NA,5,Boots of Ethereal Manipulation,Boots of Ethereal Manipulation,Epic,47.781,NULL,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=29258,NA,33,27,21,NULL,NULL,NULL,NA,NA,NA
+NA,6,Ruby Slippers,Ruby Slippers,Epic,43.616,40.448,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28585,NA,35,29,NULL,16,NULL,NULL,NA,NA,NA
+NA,7,Sigil-Laced Boots,Sigil-Laced Boots,Rare,42.8,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28406,NA,20,18,NULL,NULL,17,NULL,Red,Yellow,NA
+NA,8,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,42.453,NULL,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,18,21,NULL,NULL,15,NULL,Red,Yellow,NA
+NA,9,General's Silk Footguards,General's Silk Footguards,Epic,42.031,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28410,NA,28,23,NULL,NULL,24,NULL,NA,NA,NA
+NA,10,Marshal's Silk Footguards,Marshal's Silk Footguards,Epic,42.031,NULL,NA,PvP,1,https://tbc.wowhead.com/item=29003,NA,28,23,NULL,NULL,24,NULL,NA,NA,NA
+NA,11,Silent Slippers of Meditation,Silent Slippers of Meditation,Rare,41.96,NULL,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=27902,NA,26,25,21,NULL,NULL,NULL,NA,NA,NA
+NA,12,Slippers of the High Priestess,Slippers of the High Priestess,Rare,41.619,NULL,NA,Deathblow to the Legion,1,https://tbc.wowhead.com/item=30368,NA,28,23,20,NULL,NULL,NULL,NA,NA,NA
+NA,13,Shattrath Jumpers,Shattrath Jumpers,Rare,41.216,NULL,NA,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28179,NA,29,17,NULL,NULL,NULL,NULL,Blue,Yellow,NA
+NA,14,Boots of Blasphemy,Boots of Blasphemy,Epic,41.109,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=29242,NA,36,29,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,15,Ethereal Boots of the Skystrider,Ethereal Boots of the Skystrider,Rare,41.093,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=25957,NA,26,19,12,NULL,17,NULL,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,SP,int,spi,hit,crit,haste,socket,NA,NA
 NA,1,Quagmirran's Eye,Quagmirran's Eye,Rare,75.145,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,NULL,38.4,NA,NA,NA
 NA,2,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,56.185,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NULL,NA,NA,NA

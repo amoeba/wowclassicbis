@@ -162,20 +162,20 @@ NA,14,Kirin Tor Master's Trousers,Kirin Tor Master's Trousers,Epic,83.1705,Shado
 NA,15,Leggings of the Incarnate,Leggings of the Incarnate,Epic,72.714,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=29059,NA,NULL,38,27,NA,NULL,NULL,NA,NA,NA
 NA,NA,Feet,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Boots of the Incorrupt,Boots of the Incorrupt,Epic,95.3235,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28663,NA,57,24,23,NA,NULL,8,NA,NA,NA
-NA,2,Boots of the Pious,Boots of the Pious,Epic,82.7835,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=29251,NA,62,26,23,NA,NULL,NULL,NA,NA,NA
-NA,3,Curate's Boots,Curate's Boots,Rare,77.1125,NA,Fel Embers,1,https://tbc.wowhead.com/item=25792,NA,53,25,25,NA,NULL,NULL,NA,NA,NA
-NA,4,Light-Woven Slippers,Light-Woven Slippers,Rare,74.2085,Sethekk Halls,Darkweaver Syth,1,https://tbc.wowhead.com/item=27919,NA,29,24,13,NA,NULL,10,NA,NA,NA
-NA,5,Slippers of Serenity,Slippers of Serenity,Rare,73.2855,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27411,NA,35,22,15,NA,NULL,NULL,Red,Blue,NA
-NA,6,Sandals of Faith,Sandals of Faith,Epic,71.3685,Classic,NA,0,https://tbc.wowhead.com/item=22516,NA,44,22,13,NA,NULL,6,NA,NA,NA
-NA,7,Jeweled Boots of Sanctification,Jeweled Boots of Sanctification,Rare,65.89,Shattered Halls,Warbringer O'mrogg,1,https://tbc.wowhead.com/item=27525,NA,55,25,NULL,NA,NULL,6,NA,NA,NA
-NA,8,Boots of the Infernal Coven,Boots of the Infernal Coven,Epic,53.0235,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28670,NA,NULL,27,23,NA,NULL,NULL,NA,NA,NA
-NA,9,Boots of Ethereal Manipulation,Boots of Ethereal Manipulation,Epic,50.8545,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=29258,NA,NULL,27,21,NA,NULL,NULL,NA,NA,NA
-NA,10,Silent Slippers of Meditation,Silent Slippers of Meditation,Rare,48.6745,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=27902,NA,NULL,25,21,NA,NULL,NULL,NA,NA,NA
-NA,11,Slippers of the High Priestess,Slippers of the High Priestess,Rare,45.41,NA,Deathblow to the Legion,1,https://tbc.wowhead.com/item=30368,NA,NULL,23,20,NA,NULL,NULL,NA,NA,NA
-NA,12,Boots of Foretelling,Boots of Foretelling,Epic,44.6295,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,NULL,23,NULL,NA,NULL,NULL,Red,Yellow,NA
-NA,13,Imbued Netherweave Boots,Imbued Netherweave Boots,Rare,39.66,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21860,NA,NULL,21,NULL,NA,NULL,8,NA,NA,NA
-NA,14,Darktread Boots,Darktread Boots,Uncommon,39.6215,NA,Crush the Bloodmaul Camp,0,https://tbc.wowhead.com/item=31537,NA,NULL,11,27,NA,NULL,NULL,NA,NA,NA
-NA,15,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,39.4075,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,NULL,21,NULL,NA,NULL,NULL,Red,Yellow,NA
+NA,2,Glider's Foot-Wraps of the Prophet,Glider's Foot-Wraps of the Prophet,Epic,90.7105,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,64,29,29,NA,NULL,NULL,NA,NA,NA
+NA,3,Boots of the Pious,Boots of the Pious,Epic,82.7835,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=29251,NA,62,26,23,NA,NULL,NULL,NA,NA,NA
+NA,4,Curate's Boots,Curate's Boots,Rare,77.1125,NA,Fel Embers,1,https://tbc.wowhead.com/item=25792,NA,53,25,25,NA,NULL,NULL,NA,NA,NA
+NA,5,Light-Woven Slippers,Light-Woven Slippers,Rare,74.2085,Sethekk Halls,Darkweaver Syth,1,https://tbc.wowhead.com/item=27919,NA,29,24,13,NA,NULL,10,NA,NA,NA
+NA,6,Slippers of Serenity,Slippers of Serenity,Rare,73.2855,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27411,NA,35,22,15,NA,NULL,NULL,Red,Blue,NA
+NA,7,Sandals of Faith,Sandals of Faith,Epic,71.3685,Classic,NA,0,https://tbc.wowhead.com/item=22516,NA,44,22,13,NA,NULL,6,NA,NA,NA
+NA,8,Jeweled Boots of Sanctification,Jeweled Boots of Sanctification,Rare,65.89,Shattered Halls,Warbringer O'mrogg,1,https://tbc.wowhead.com/item=27525,NA,55,25,NULL,NA,NULL,6,NA,NA,NA
+NA,9,Glider's Foot-Wraps of Healing,Glider's Foot-Wraps of Healing,Epic,60.5,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,121,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,10,Boots of the Infernal Coven,Boots of the Infernal Coven,Epic,53.0235,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28670,NA,NULL,27,23,NA,NULL,NULL,NA,NA,NA
+NA,11,Boots of Ethereal Manipulation,Boots of Ethereal Manipulation,Epic,50.8545,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=29258,NA,NULL,27,21,NA,NULL,NULL,NA,NA,NA
+NA,12,Silent Slippers of Meditation,Silent Slippers of Meditation,Rare,48.6745,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=27902,NA,NULL,25,21,NA,NULL,NULL,NA,NA,NA
+NA,13,Slippers of the High Priestess,Slippers of the High Priestess,Rare,45.41,NA,Deathblow to the Legion,1,https://tbc.wowhead.com/item=30368,NA,NULL,23,20,NA,NULL,NULL,NA,NA,NA
+NA,14,Boots of Foretelling,Boots of Foretelling,Epic,44.6295,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,NULL,23,NULL,NA,NULL,NULL,Red,Yellow,NA
+NA,15,Imbued Netherweave Boots,Imbued Netherweave Boots,Rare,39.66,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21860,NA,NULL,21,NULL,NA,NULL,8,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Bangle of Endless Blessings,Bangle of Endless Blessings,Rare,104.229,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28370,NA,NULL,NULL,22,NA,NULL,38,NA,NA,NA
 NA,2,Pendant of the Violet Eye,Pendant of the Violet Eye,Epic,86.245,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28727,NA,NULL,40,NULL,NA,NULL,23,NA,NA,NA

@@ -162,21 +162,21 @@ NA,13,Leggings of Polarity,Leggings of Polarity,Epic,49.894,NULL,Naxxramas,Thadd
 NA,14,Incanter's Trousers,Incanter's Trousers,Rare,48.961,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27838,NA,42,30,NULL,18,NULL,NA,NA,NA
 NA,15,Metro's Slimming Legs,Metro's Slimming Legs,Uncommon,45.13,NULL,NA,Gauging the Resonant Frequency,0,https://tbc.wowhead.com/item=31442,NA,42,15,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Feet,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Frozen Shadoweave Boots (Shadow/Frost),Frozen Shadoweave Boots (Shadow/Frost),Epic,75.558,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21870,NA,57,9,NULL,NULL,NULL,Yellow,Blue,NA
-NA,2,Ruby Slippers,Ruby Slippers,Epic,49.1052,36.798,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28585,NA,35,29,16,NULL,NULL,NA,NA,NA
-NA,3,Boots of Foretelling,Boots of Foretelling,Epic,48.8365,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,26,23,NULL,19,NULL,Red,Yellow,NA
-NA,4,Shattrath Jumpers,Shattrath Jumpers,Rare,48.054,NULL,NA,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28179,NA,29,17,NULL,NULL,NULL,Blue,Yellow,NA
-NA,5,Rocket Boots Xtreme Lite,Rocket Boots Xtreme Lite,Rare,47,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=35581,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,6,Embroidered Spellpyre Boots,Embroidered Spellpyre Boots,Rare,42.302,NULL,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=27848,NA,41,21,NULL,NULL,NULL,NA,NA,NA
-NA,7,Extravagant Boots of Malice,Extravagant Boots of Malice,Rare,42.2568,31.488,Mana-Tombs,Tavarok,1,https://tbc.wowhead.com/item=27821,NA,30,24,14,NULL,NULL,NA,NA,NA
-NA,8,Sigil-Laced Boots,Sigil-Laced Boots,Rare,42.1675,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28406,NA,20,18,NULL,17,NULL,Red,Yellow,NA
-NA,9,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,39.9945,NULL,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,18,21,NULL,15,NULL,Red,Yellow,NA
-NA,10,Boots of the Darkwalker (Shadow),Boots of the Darkwalker (Shadow),Rare,38.55,NULL,Hellfire Ramparts,Watchkeeper Gargolmar,1,https://tbc.wowhead.com/item=27451,NA,37,25,NULL,NULL,NULL,NA,NA,NA
-NA,11,Boots of the Infernal Coven,Boots of the Infernal Coven,Epic,38.204,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28670,NA,34,27,NULL,NULL,NULL,NA,NA,NA
-NA,12,Boots of Blasphemy,Boots of Blasphemy,Epic,37.798,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=29242,NA,36,29,NULL,NULL,NULL,NA,NA,NA
-NA,13,Boots of Ethereal Manipulation,Boots of Ethereal Manipulation,Epic,36.984,NULL,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=29258,NA,33,27,NULL,NULL,NULL,NA,NA,NA
-NA,14,Shimmering Azure Boots,Shimmering Azure Boots,Uncommon,36.4852,24.178,NA,Securing the Celestial Ridge,0,https://tbc.wowhead.com/item=29808,NA,23,19,16,NULL,NULL,NA,NA,NA
-NA,15,Boots of the Nexus Warden,Boots of the Nexus Warden,Uncommon,35.8996,22.054,NA,The Flesh Lies...,1,https://tbc.wowhead.com/item=30519,NA,21,17,18,NULL,NULL,NA,NA,NA
+NA,1,Glider's Foot-Wraps of Wrath,Glider's Foot-Wraps of Wrath,Epic,79,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,79,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,2,Frozen Shadoweave Boots (Shadow/Frost),Frozen Shadoweave Boots (Shadow/Frost),Epic,75.558,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21870,NA,57,9,NULL,NULL,NULL,Yellow,Blue,NA
+NA,3,Ruby Slippers,Ruby Slippers,Epic,49.1052,36.798,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28585,NA,35,29,16,NULL,NULL,NA,NA,NA
+NA,4,Boots of Foretelling,Boots of Foretelling,Epic,48.8365,NULL,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,26,23,NULL,19,NULL,Red,Yellow,NA
+NA,5,Shattrath Jumpers,Shattrath Jumpers,Rare,48.054,NULL,NA,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28179,NA,29,17,NULL,NULL,NULL,Blue,Yellow,NA
+NA,6,Rocket Boots Xtreme Lite,Rocket Boots Xtreme Lite,Rare,47,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=35581,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,7,Embroidered Spellpyre Boots,Embroidered Spellpyre Boots,Rare,42.302,NULL,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=27848,NA,41,21,NULL,NULL,NULL,NA,NA,NA
+NA,8,Extravagant Boots of Malice,Extravagant Boots of Malice,Rare,42.2568,31.488,Mana-Tombs,Tavarok,1,https://tbc.wowhead.com/item=27821,NA,30,24,14,NULL,NULL,NA,NA,NA
+NA,9,Sigil-Laced Boots,Sigil-Laced Boots,Rare,42.1675,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28406,NA,20,18,NULL,17,NULL,Red,Yellow,NA
+NA,10,Glider's Foot-Wraps of the Invoker,Glider's Foot-Wraps of the Invoker,Epic,41.0035,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,34,29,NULL,29,NULL,NA,NA,NA
+NA,11,Shalassi Oracle's Sandals,Shalassi Oracle's Sandals,Rare,39.9945,NULL,NA,Rescue Deirom!,1,https://tbc.wowhead.com/item=25970,NA,18,21,NULL,15,NULL,Red,Yellow,NA
+NA,12,Boots of the Darkwalker (Shadow),Boots of the Darkwalker (Shadow),Rare,38.55,NULL,Hellfire Ramparts,Watchkeeper Gargolmar,1,https://tbc.wowhead.com/item=27451,NA,37,25,NULL,NULL,NULL,NA,NA,NA
+NA,13,Boots of the Infernal Coven,Boots of the Infernal Coven,Epic,38.204,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28670,NA,34,27,NULL,NULL,NULL,NA,NA,NA
+NA,14,Boots of Blasphemy,Boots of Blasphemy,Epic,37.798,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=29242,NA,36,29,NULL,NULL,NULL,NA,NA,NA
+NA,15,Boots of Ethereal Manipulation,Boots of Ethereal Manipulation,Epic,36.984,NULL,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=29258,NA,33,27,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,85,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,2,Quagmirran's Eye,Quagmirran's Eye,Rare,75.4,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,38.4,NA,NA,NA

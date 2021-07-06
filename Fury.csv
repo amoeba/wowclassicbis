@@ -116,7 +116,7 @@ NA,15,Gauntlets of the Dragonslayer,Gauntlets of the Dragonslayer,Epic,46.76,NUL
 NA,NA,Waist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NULL,NA,NULL,NA,NA
 NA,1,Girdle of the Endless Pit,Girdle of the Endless Pit,Epic,64.44,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28779,NA,NULL,34,NULL,NULL,28,NULL,NULL,NULL,Red,Blue,NA,NULL,NA,NA
 NA,2,Gronn-Stitched Girdle,Gronn-Stitched Girdle,Epic,61.11,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28828,NA,72,NULL,NULL,NULL,25,NULL,NULL,NULL,Blue,Yellow,NA,NULL,NA,NA
-NA,3,Lurkers Grasp of the Tiger,Lurkers Grasp of the Tiger,Epic,50.32,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
+NA,3,Lurker's Grasp of the Tiger,Lurker's Grasp of the Tiger,Epic,50.32,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
 NA,4,Ebon Netherscale Belt,Ebon Netherscale Belt,Epic,50.22,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29516,NA,48,NULL,NULL,NULL,22,NULL,NULL,NULL,Blue,Yellow,NA,NULL,NA,NA
 NA,5,Deathforge Girdle,Deathforge Girdle,Rare,48.76,NULL,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27985,NA,NULL,22,NULL,NULL,20,NULL,NULL,NULL,Red,Blue,NA,NULL,NA,NA
 NA,6,Terror Pit Girdle,Terror Pit Girdle,Epic,48.01,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28778,NA,44,NULL,NULL,NULL,21,NULL,NULL,NULL,Blue,Red,NA,NULL,NA,NA
@@ -166,17 +166,17 @@ NA,1,Fel Leather Boots,Fel Leather Boots,Rare,55.76,42.01,Leatherworking,Crafted
 NA,2,Edgewalker Longboots,Edgewalker Longboots,Epic,55.39,48.24,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28545,NA,44,NULL,29,13,NULL,NULL,NULL,NULL,Red,Yellow,NA,NULL,NA,NA
 NA,3,Ironstriders of Urgency,Ironstriders of Urgency,Epic,53.14,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28608,NA,NULL,33,20,NULL,NULL,NULL,NULL,NULL,Red,Yellow,NA,NULL,NA,NA
 NA,4,Fiend Slayer Boots,Fiend Slayer Boots,Epic,52.3,42.95,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28746,NA,34,NULL,26,17,NULL,NULL,NULL,NULL,Red,Blue,NA,NULL,NA,NA
-NA,5,Ferocious Swift-Kickers,Ferocious Swift-Kickers,Epic,49.03,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28610,NA,58,NULL,NULL,NULL,16,NULL,NULL,NULL,Yellow,Blue,NA,NULL,NA,NA
-NA,6,Rapscallion Boots,Rapscallion Boots,Epic,48.07,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28669,NA,82,NULL,NULL,NULL,24,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
-NA,7,Sha'tari Wrought Greaves,Sha'tari Wrought Greaves,Rare,46.7,NULL,Shadow Labyrinth,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28176,NA,NULL,24,21,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NULL,NA,NA
-NA,8,Boots of the Shifting Sands,Boots of the Shifting Sands,Rare,45.01,NULL,Botanica,Laj,1,https://tbc.wowhead.com/item=28339,NA,40,NULL,NULL,NULL,19,NULL,NULL,NULL,Red,Yellow,NA,NULL,NA,NA
-NA,9,Boots of the Unjust,Boots of the Unjust,Rare,44.88,37.73,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27867,NA,64,NULL,NULL,13,19,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
-NA,10,Zierhut's Lost Treads,Zierhut's Lost Treads,Epic,42.76,NULL,Karazhan,Trash,1,https://tbc.wowhead.com/item=30674,NA,NULL,34,28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
-NA,11,General's Plate Greaves,General's Plate Greaves,Epic,42.39,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28383,NA,NULL,27,NULL,NULL,27,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
-NA,12,Marshal's Plate Greaves,Marshal's Plate Greaves,Epic,42.39,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28997,NA,NULL,27,NULL,NULL,27,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
-NA,13,Obsidian Clodstompers,Obsidian Clodstompers,Rare,42.32,NULL,Botanica,High Botanist Freywinn,1,https://tbc.wowhead.com/item=28318,NA,NULL,34,NULL,NULL,NULL,NULL,NULL,NULL,Yellow,Yellow,NA,NULL,NA,NA
-NA,14,Farahlite Studded Boots,Farahlite Studded Boots,Uncommon,41.8,NULL,NA,A Fate Worse Than Death,0,https://tbc.wowhead.com/item=30401,NA,56,NULL,16,NULL,16,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
-NA,15,General's Scaled Greaves,General's Scaled Greaves,Epic,40.72,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28645,NA,NULL,36,NULL,NULL,16,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
+NA,5,Glider's Boots of the Tiger,Glider's Boots of the Tiger,Epic,50.32,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30681/gliders-boots,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
+NA,6,Ferocious Swift-Kickers,Ferocious Swift-Kickers,Epic,49.03,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28610,NA,58,NULL,NULL,NULL,16,NULL,NULL,NULL,Yellow,Blue,NA,NULL,NA,NA
+NA,7,Rapscallion Boots,Rapscallion Boots,Epic,48.07,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28669,NA,82,NULL,NULL,NULL,24,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
+NA,8,Sha'tari Wrought Greaves,Sha'tari Wrought Greaves,Rare,46.7,NULL,Shadow Labyrinth,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28176,NA,NULL,24,21,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NULL,NA,NA
+NA,9,Boots of the Shifting Sands,Boots of the Shifting Sands,Rare,45.01,NULL,Botanica,Laj,1,https://tbc.wowhead.com/item=28339,NA,40,NULL,NULL,NULL,19,NULL,NULL,NULL,Red,Yellow,NA,NULL,NA,NA
+NA,10,Boots of the Unjust,Boots of the Unjust,Rare,44.88,37.73,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27867,NA,64,NULL,NULL,13,19,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
+NA,11,Zierhut's Lost Treads,Zierhut's Lost Treads,Epic,42.76,NULL,Karazhan,Trash,1,https://tbc.wowhead.com/item=30674,NA,NULL,34,28,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
+NA,12,General's Plate Greaves,General's Plate Greaves,Epic,42.39,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28383,NA,NULL,27,NULL,NULL,27,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
+NA,13,Marshal's Plate Greaves,Marshal's Plate Greaves,Epic,42.39,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28997,NA,NULL,27,NULL,NULL,27,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
+NA,14,Obsidian Clodstompers,Obsidian Clodstompers,Rare,42.32,NULL,Botanica,High Botanist Freywinn,1,https://tbc.wowhead.com/item=28318,NA,NULL,34,NULL,NULL,NULL,NULL,NULL,NULL,Yellow,Yellow,NA,NULL,NA,NA
+NA,15,Farahlite Studded Boots,Farahlite Studded Boots,Uncommon,41.8,NULL,NA,A Fate Worse Than Death,0,https://tbc.wowhead.com/item=30401,NA,56,NULL,16,NULL,16,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NULL,NA,NULL,NA,NA
 NA,1,Dragonspine Trophy,Dragonspine Trophy,Epic,120.8,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28830,NA,40,NULL,NULL,NULL,NULL,130,NULL,NULL,NULL,NULL,NA,NULL,NA,NA
 NA,2,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,53.25,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23206,NA,150,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA

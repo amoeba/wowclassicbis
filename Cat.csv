@@ -114,7 +114,7 @@ NA,13,Master Thief's Gloves,Master Thief's Gloves,Epic,127.4209,NULL,Shadow Laby
 NA,14,Gladiator's Dragonhide Gloves,Gladiator's Dragonhide Gloves,Epic,125.3277,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28126,NA,NULL,30,19,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,15,Cobrascale Gloves,Cobrascale Gloves,Epic,123.06,103.06,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29503,NA,50,NULL,NULL,20,25,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,NA,Waist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NULL,NA,NA,NA
-NA,1,Lurkers Grasp of the Tiger,Lurkers Grasp of the Tiger,Epic,195.5191,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,1,Lurker's Grasp of the Tiger,Lurker's Grasp of the Tiger,Epic,195.5191,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30676/lurkers-grasp,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,2,Gronn-Stitched Girdle,Gronn-Stitched Girdle,Epic,167.353,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28828,NA,72,NULL,NULL,NULL,25,NULL,NULL,NULL,Blue,Yellow,NA,NA,NA
 NA,3,Girdle of the Deathdealer,Girdle of the Deathdealer,Epic,166.5124,146.5124,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=29247,NA,56,NULL,28,20,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,4,Dunewind Sash,Dunewind Sash,Rare,161.6773,NULL,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27760,NA,50,NULL,21,NULL,NULL,NULL,NULL,NULL,Red,Blue,NA,NA,NA
@@ -163,20 +163,20 @@ NA,14,Warpscale Leggings,Warpscale Leggings,Rare,170.7856,156.7856,Botanica,Warp
 NA,15,Nomad's Leggings,Nomad's Leggings,Rare,165.6039,NULL,The Consortium,Revered,1,https://tbc.wowhead.com/item=29116,NA,66,NULL,33,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,NA,Feet,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NULL,NA,NA,NA
 NA,1,Edgewalker Longboots,Edgewalker Longboots,Epic,196.7237,183.7237,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28545,NA,44,NULL,29,13,NULL,NULL,NULL,NULL,Red,Yellow,NA,NA,NA
-NA,2,Zierhut's Lost Treads,Zierhut's Lost Treads,Epic,161.5564,NULL,Karazhan,Trash,1,https://tbc.wowhead.com/item=30674,NA,NULL,34,28,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,3,Fel Leather Boots,Fel Leather Boots,Rare,148.7938,123.7938,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=25686,NA,36,NULL,NULL,25,17,NULL,NULL,NULL,Yellow,Red,NA,NA,NA
-NA,4,Shadowstep Striders,Shadowstep Striders,Epic,147.5673,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29248,NA,54,NULL,31,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,5,The Master's Treads,The Master's Treads,Rare,141.2392,125.2392,NA,NA,1,https://tbc.wowhead.com/item=31288,NA,48,NULL,24,16,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,6,General's Leather Boots,General's Leather Boots,Epic,139.7301,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28422,NA,30,NULL,27,NULL,15,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,7,Marshal's Leather Boots,Marshal's Leather Boots,Epic,139.7301,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28987,NA,30,NULL,27,NULL,15,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,8,Farahlite Studded Boots,Farahlite Studded Boots,Uncommon,134.4112,NULL,NA,A Fate Worse Than Death,0,https://tbc.wowhead.com/item=30401,NA,56,NULL,16,NULL,16,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,9,Felboar Hide Shoes,Felboar Hide Shoes,Rare,134.0294,125.0294,NA,The Cipher of Damnation - The Third Fragment Recovered,1,https://tbc.wowhead.com/item=30939,NA,68,NULL,18,9,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,10,Silent-Strider Kneeboots,Silent-Strider Kneeboots,Rare,131.4941,NULL,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27467,NA,50,NULL,27,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,11,Rapscallion Boots,Rapscallion Boots,Epic,127.1776,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28669,NA,82,NULL,NULL,NULL,24,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,12,General's Dragonhide Boots,General's Dragonhide Boots,Epic,126.8232,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28444,NA,NULL,24,24,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,13,Marshal's Dragonhide Boots,Marshal's Dragonhide Boots,Epic,126.8232,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28977,NA,NULL,24,24,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,14,Barkchip Boots,Barkchip Boots,Epic,126.8232,NULL,Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=29265,NA,NULL,24,24,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,15,Boots of the Shifting Sands,Boots of the Shifting Sands,Rare,124.0586,NULL,Botanica,Laj,1,https://tbc.wowhead.com/item=28339,NA,40,NULL,NULL,NULL,19,NULL,NULL,NULL,Red,Yellow,NA,NA,NA
+NA,2,Glider's Boots of the Tiger,Glider's Boots of the Tiger,Epic,195.5191,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30681/gliders-boots,NA,NULL,37,37,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,3,Zierhut's Lost Treads,Zierhut's Lost Treads,Epic,161.5564,NULL,Karazhan,Trash,1,https://tbc.wowhead.com/item=30674,NA,NULL,34,28,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,4,Fel Leather Boots,Fel Leather Boots,Rare,148.7938,123.7938,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=25686,NA,36,NULL,NULL,25,17,NULL,NULL,NULL,Yellow,Red,NA,NA,NA
+NA,5,Shadowstep Striders,Shadowstep Striders,Epic,147.5673,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29248,NA,54,NULL,31,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,6,Glider's Boots of the Bandit,Glider's Boots of the Bandit,Epic,145.5307,NULL,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30681/gliders-boots,NA,58,NULL,29,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,7,The Master's Treads,The Master's Treads,Rare,141.2392,125.2392,NA,NA,1,https://tbc.wowhead.com/item=31288,NA,48,NULL,24,16,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,8,General's Leather Boots,General's Leather Boots,Epic,139.7301,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28422,NA,30,NULL,27,NULL,15,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,9,Marshal's Leather Boots,Marshal's Leather Boots,Epic,139.7301,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28987,NA,30,NULL,27,NULL,15,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,10,Farahlite Studded Boots,Farahlite Studded Boots,Uncommon,134.4112,NULL,NA,A Fate Worse Than Death,0,https://tbc.wowhead.com/item=30401,NA,56,NULL,16,NULL,16,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,11,Felboar Hide Shoes,Felboar Hide Shoes,Rare,134.0294,125.0294,NA,The Cipher of Damnation - The Third Fragment Recovered,1,https://tbc.wowhead.com/item=30939,NA,68,NULL,18,9,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,12,Silent-Strider Kneeboots,Silent-Strider Kneeboots,Rare,131.4941,NULL,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27467,NA,50,NULL,27,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,13,Rapscallion Boots,Rapscallion Boots,Epic,127.1776,NULL,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28669,NA,82,NULL,NULL,NULL,24,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,14,General's Dragonhide Boots,General's Dragonhide Boots,Epic,126.8232,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28444,NA,NULL,24,24,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,15,Marshal's Dragonhide Boots,Marshal's Dragonhide Boots,Epic,126.8232,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28977,NA,NULL,24,24,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,str,agi,hit,crit,haste,arp,exp,socket,NULL,NA,NA,NA
 NA,1,Dragonspine Trophy,Dragonspine Trophy,Epic,187.641,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28830,NA,40,NULL,NULL,NULL,NULL,130,NULL,NULL,NA,NULL,NA,NA,NA
 NA,2,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,150,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23206,NA,150,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
