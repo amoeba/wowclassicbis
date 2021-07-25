@@ -201,14 +201,14 @@ NA,4,King's Defender,King's Defender,Epic,207.45,205.75,Karazhan,Chess Event,1,h
 NA,5,Blazeguard,Blazeguard,Epic,202.77,201.07,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28426,NA,Sword,91.3,1.6,25,NULL,NULL,NULL,NULL,NULL,NULL,17,17,NULL,NA,NA
 NA,6,Blade of the Archmage,Blade of the Archmage,Epic,202.19,NULL,Logistics Officer,NA,1,https://tbc.wowhead.com/item=29153,NA,Sword,41.1,1.8,13,NULL,NULL,NULL,NULL,159,11,NULL,NULL,NULL,NA,NA
 NA,7,Stormcaller,Stormcaller,Epic,201.39,NULL,Quartermaster Urgronn,NA,1,https://tbc.wowhead.com/item=29155,NA,Sword,41.1,1.8,12,NULL,NULL,NULL,NULL,159,12,NULL,NULL,NULL,NA,NA
-NA,8,Gladiator's Right Ripper,Gladiator's Right Ripper,Epic,197.2,196.3,Season 1,PvP,1,https://tbc.wowhead.com/item=28313,NA,Fist,91.3,2.6,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,9,NULL,NA,NA
-NA,9,Gladiator's Slicer,Gladiator's Slicer,Epic,197.01,196.11,Season 1,PvP,1,https://tbc.wowhead.com/item=28295,NA,Sword,91.2,2.6,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,9,NULL,NA,NA
-NA,10,Gladiator's Pummeler,Gladiator's Pummeler,Epic,197.01,196.11,Season 1,PvP,1,https://tbc.wowhead.com/item=28305,NA,Mace,91.2,2.6,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,9,NULL,NA,NA
-NA,11,Gladiator's Cleaver,Gladiator's Cleaver,Epic,197.01,196.11,Season 1,PvP,1,https://tbc.wowhead.com/item=28308,NA,Axe,91.2,2.6,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,9,NULL,NA,NA
-NA,12,The Sun Eater,The Sun Eater,Epic,194.86,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=29362,NA,Sword,83.4,1.6,22,13,19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,13,Dragonmaw (melee proc),Dragonmaw (melee proc),Epic,193.91,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28438,NA,Mace,91.1,2.7,9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
-NA,14,Continuum Blade,Continuum Blade,Rare,190.89,190.89,Keepers of Time,Revered,1,https://tbc.wowhead.com/item=29185,NA,Sword,41.1,1.8,30,NULL,NULL,NULL,NULL,121,11,NULL,NULL,8,NA,NA
-NA,15,Big Bad Wolf's Paw,Big Bad Wolf's Paw,Epic,190.74,NULL,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28584,NA,Fist,87.6,2.5,18,NULL,NULL,NULL,NULL,NULL,NULL,17,NULL,NULL,NA,NA
+NA,8,Gladiator's Slicer,Gladiator's Slicer,Epic,197.01,196.11,Season 1,PvP,1,https://tbc.wowhead.com/item=28295,NA,Sword,91.2,2.6,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,9,NULL,NA,NA
+NA,9,Gladiator's Pummeler,Gladiator's Pummeler,Epic,197.01,196.11,Season 1,PvP,1,https://tbc.wowhead.com/item=28305,NA,Mace,91.2,2.6,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,9,NULL,NA,NA
+NA,10,Gladiator's Cleaver,Gladiator's Cleaver,Epic,197.01,196.11,Season 1,PvP,1,https://tbc.wowhead.com/item=28308,NA,Axe,91.2,2.6,21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,9,NULL,NA,NA
+NA,11,The Sun Eater,The Sun Eater,Epic,194.86,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=29362,NA,Sword,83.4,1.6,22,13,19,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,12,Dragonmaw (melee proc),Dragonmaw (melee proc),Epic,193.91,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28438,NA,Mace,91.1,2.7,9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
+NA,13,Continuum Blade,Continuum Blade,Rare,190.89,190.89,Keepers of Time,Revered,1,https://tbc.wowhead.com/item=29185,NA,Sword,41.1,1.8,30,NULL,NULL,NULL,NULL,121,11,NULL,NULL,8,NA,NA
+NA,14,Mana Wrath,Mana Wrath,Rare,189.69,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=27899,NA,Sword,41.1,1.8,24,NULL,NULL,NULL,NULL,126,18,NULL,NULL,NULL,NA,NA
+NA,15,Blade of Wizardry,Blade of Wizardry,Epic,189.39,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31336,NA,Sword,41.1,1.8,NULL,NULL,NULL,NULL,NULL,159,NULL,NULL,NULL,NULL,NA,NA
 NA,NA,Off Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,block,hit,socket,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
 NA,1,Aldori Legacy Defender,Aldori Legacy Defender,Epic,357.35,355.85,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28825,NA,5279,39,19,NULL,137,15,Blue,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
 NA,2,Gladiator's Shield Wall,Gladiator's Shield Wall,Epic,340.55,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28358,NA,5197,45,NULL,NULL,134,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA
