@@ -3,20 +3,20 @@ NA,NA,Item,NA,NA,EPV,"If Hit
 Capped",Location,NA,Phase,NA,NA,Stats,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
 NA,NA,Head,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket,NULL,NA
 NA,1,Crystalforge Faceguard,Crystalforge Faceguard,Epic,200.22,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30125,NA,1355,48,28,NULL,NULL,19,36,28,NULL,NULL,NULL,NULL,Red,Meta,NA
-NA,2,Justicar Faceguard,Justicar Faceguard,Epic,173.45,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29068,NA,1227,43,29,24,NULL,NULL,27,24,NULL,NULL,NULL,NULL,Yellow,Meta,NA
-NA,3,Gladiator's Lamellar Helm,Gladiator's Lamellar Helm,Epic,165.45,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27704,NA,1257,57,NULL,NULL,NULL,NULL,33,21,NULL,NULL,NULL,NULL,Meta,Red,NA
-NA,4,Faceguard of the Endless Watch,Faceguard of the Endless Watch,Epic,163.95,NULL,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30731,NA,1227,49,30,37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Blue,Yellow,Yellow
-NA,5,Faceguard of Determination,Faceguard of Determination,Epic,157.27,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32083,NA,1129,36,32,24,NULL,24,NULL,NULL,NULL,NULL,NULL,NULL,Blue,Meta,NA
-NA,6,Crystalforge War-Helm,Crystalforge War-Helm,Epic,146.094,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30131,NA,1355,46,NULL,NULL,NULL,NULL,NULL,23,24,NULL,NULL,NULL,Red,Meta,NA
-NA,7,Helm of the Stalwart Defender,Helm of the Stalwart Defender,Epic,144.1,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23535,NA,1366,47,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Red,Yellow,Blue
-NA,8,Eternium Greathelm,Eternium Greathelm,Epic,140.744,NULL,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28593,NA,1178,48,34,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Red,Yellow,Blue
-NA,9,Oathkeeper's Helm,Oathkeeper's Helm,Epic,140.7,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23536,NA,1080,40,15,NULL,NULL,NULL,26,22,NULL,NULL,NULL,NULL,Yellow,Blue,Red
-NA,10,Gladiator's Ornamented Headcover,Gladiator's Ornamented Headcover,Epic,138.75,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=31616,NA,1257,52,NULL,NULL,NULL,NULL,NULL,30,NULL,NULL,NULL,NULL,Meta,Red,NA
-NA,11,Gladiator's Scaled Helm,Gladiator's Scaled Helm,Epic,137.73,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27881,NA,1257,48,NULL,NULL,NULL,NULL,NULL,21,NULL,NULL,NULL,NULL,Meta,Red,NA
-NA,12,Crystalforge Greathelm,Crystalforge Greathelm,Epic,129.95,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30136,NA,1355,37,NULL,NULL,NULL,NULL,NULL,28,NULL,NULL,NULL,NULL,Yellow,Meta,NA
-NA,13,Justicar Crown,Justicar Crown,Epic,127.882,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29073,NA,1227,33,NULL,NULL,NULL,NULL,NULL,31,22,NULL,NULL,NULL,Red,Meta,NA
-NA,14,Grand Marshal's Lamellar Helm,Grand Marshal's Lamellar Helm,Rare,127.4,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28681,NA,946,44,NULL,NULL,NULL,NULL,19,11,NULL,NULL,NULL,NULL,Meta,Red,NA
-NA,15,High Warlord's Lamellar Helm,High Warlord's Lamellar Helm,Rare,127.4,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28833,NA,946,44,NULL,NULL,NULL,NULL,19,11,NULL,NULL,NULL,NULL,Meta,Red,NA
+NA,2,Tankatronic Goggles,Tankatronic Goggles,Epic,180.9,179.6,Engineering,Crafted,2,https://tbc.wowhead.com/item=32473,NA,1296,67,38,22,NULL,NULL,NULL,NULL,NULL,13,NULL,NULL,Meta,Yellow,NA
+NA,3,Justicar Faceguard,Justicar Faceguard,Epic,173.45,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29068,NA,1227,43,29,24,NULL,NULL,27,24,NULL,NULL,NULL,NULL,Yellow,Meta,NA
+NA,4,Gladiator's Lamellar Helm,Gladiator's Lamellar Helm,Epic,165.45,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27704,NA,1257,57,NULL,NULL,NULL,NULL,33,21,NULL,NULL,NULL,NULL,Meta,Red,NA
+NA,5,Faceguard of the Endless Watch,Faceguard of the Endless Watch,Epic,163.95,NULL,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30731,NA,1227,49,30,37,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Blue,Yellow,Yellow
+NA,6,Faceguard of Determination,Faceguard of Determination,Epic,157.27,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32083,NA,1129,36,32,24,NULL,24,NULL,NULL,NULL,NULL,NULL,NULL,Blue,Meta,NA
+NA,7,Crystalforge War-Helm,Crystalforge War-Helm,Epic,146.094,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30131,NA,1355,46,NULL,NULL,NULL,NULL,NULL,23,24,NULL,NULL,NULL,Red,Meta,NA
+NA,8,Helm of the Stalwart Defender,Helm of the Stalwart Defender,Epic,144.1,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23535,NA,1366,47,23,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Red,Yellow,Blue
+NA,9,Eternium Greathelm,Eternium Greathelm,Epic,140.744,NULL,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28593,NA,1178,48,34,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Red,Yellow,Blue
+NA,10,Oathkeeper's Helm,Oathkeeper's Helm,Epic,140.7,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23536,NA,1080,40,15,NULL,NULL,NULL,26,22,NULL,NULL,NULL,NULL,Yellow,Blue,Red
+NA,11,Gladiator's Ornamented Headcover,Gladiator's Ornamented Headcover,Epic,138.75,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=31616,NA,1257,52,NULL,NULL,NULL,NULL,NULL,30,NULL,NULL,NULL,NULL,Meta,Red,NA
+NA,12,Gladiator's Scaled Helm,Gladiator's Scaled Helm,Epic,137.73,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27881,NA,1257,48,NULL,NULL,NULL,NULL,NULL,21,NULL,NULL,NULL,NULL,Meta,Red,NA
+NA,13,Crystalforge Greathelm,Crystalforge Greathelm,Epic,129.95,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30136,NA,1355,37,NULL,NULL,NULL,NULL,NULL,28,NULL,NULL,NULL,NULL,Yellow,Meta,NA
+NA,14,Justicar Crown,Justicar Crown,Epic,127.882,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29073,NA,1227,33,NULL,NULL,NULL,NULL,NULL,31,22,NULL,NULL,NULL,Red,Meta,NA
+NA,15,Grand Marshal's Lamellar Helm,Grand Marshal's Lamellar Helm,Rare,127.4,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28681,NA,946,44,NULL,NULL,NULL,NULL,19,11,NULL,NULL,NULL,NULL,Meta,Red,NA
 NA,NA,Neck,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket,NULL,NA
 NA,1,The Darkener's Grasp,The Darkener's Grasp,Epic,69.42,NULL,Tempest Keep,Kael'thas and the Verdant Sphere,2,https://tbc.wowhead.com/item=30007,NA,NULL,40,27,23,NULL,14,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
 NA,2,Pendant of Dominance,Pendant of Dominance,Epic,55.4,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28245,NA,NULL,31,NULL,NULL,NULL,NULL,26,12,NULL,NULL,NULL,NULL,Yellow,NULL,NA
@@ -76,11 +76,11 @@ NA,7,Gladiator's Scaled Chestpiece,Gladiator's Scaled Chestpiece,Epic,149.094,NU
 NA,8,Gladiator's Ornamented Chestguard,Gladiator's Ornamented Chestguard,Epic,145.25,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=31613,NA,1547,45,NULL,NULL,NULL,NULL,NULL,31,NULL,NULL,NULL,NULL,Red,Red,Yellow
 NA,9,Krakken-Heart Breastplate,Krakken-Heart Breastplate,Epic,141.564,138.564,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30102,NA,1728,42,NULL,NULL,NULL,NULL,NULL,NULL,43,30,NULL,NULL,NA,NULL,NA
 NA,10,Breastplate of Kings,Breastplate of Kings,Epic,140.744,138.744,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28483,NA,1353,46,NULL,NULL,NULL,NULL,NULL,NULL,NULL,20,NULL,NULL,Blue,Yellow,Yellow
-NA,11,Crystalforge Chestpiece,Crystalforge Chestpiece,Epic,138.3,NULL,NA,NA,2,https://tbc.wowhead.com/item=30134,NA,1668,30,NULL,NULL,NULL,NULL,NULL,36,NULL,NULL,NULL,NULL,Blue,Yellow,Yellow
-NA,12,Chestguard of Hidden Purpose,Chestguard of Hidden Purpose,Epic,137.45,NULL,NA,NA,1,https://tbc.wowhead.com/item=33216,NA,1607,33,NULL,NULL,NULL,NULL,NULL,31,NULL,NULL,NULL,NULL,Red,Blue,Yellow
-NA,13,Breastplate of the Righteous,Breastplate of the Righteous,Rare,136.4,NULL,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=28203,NA,1164,30,20,NULL,NULL,NULL,23,28,NULL,NULL,NULL,NULL,Red,Yellow,Blue
-NA,14,Grand Marshal's Lamellar Chestpiece,Grand Marshal's Lamellar Chestpiece,Rare,133.2,NULL,NA,PvP,0,https://tbc.wowhead.com/item=28679,NA,1164,48,NULL,NULL,NULL,NULL,9,12,NULL,NULL,NULL,NULL,Red,Red,Yellow
-NA,15,High Warlord's Lamellar Chestpiece,High Warlord's Lamellar Chestpiece,Rare,133.2,NULL,NA,PvP,0,https://tbc.wowhead.com/item=28831,NA,1164,48,NULL,NULL,NULL,NULL,9,12,NULL,NULL,NULL,NULL,Red,Red,Yellow
+NA,11,Crystalforge Chestpiece,Crystalforge Chestpiece,Epic,138.3,NULL,Tempest Keep,Kael'thas Sunstrider,2,https://tbc.wowhead.com/item=30134,NA,1668,30,NULL,NULL,NULL,NULL,NULL,36,NULL,NULL,NULL,NULL,Blue,Yellow,Yellow
+NA,12,Breastplate of the Righteous,Breastplate of the Righteous,Rare,136.4,NULL,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=28203,NA,1164,30,20,NULL,NULL,NULL,23,28,NULL,NULL,NULL,NULL,Red,Yellow,Blue
+NA,13,Grand Marshal's Lamellar Chestpiece,Grand Marshal's Lamellar Chestpiece,Rare,133.2,NULL,NA,PvP,0,https://tbc.wowhead.com/item=28679,NA,1164,48,NULL,NULL,NULL,NULL,9,12,NULL,NULL,NULL,NULL,Red,Red,Yellow
+NA,14,High Warlord's Lamellar Chestpiece,High Warlord's Lamellar Chestpiece,Rare,133.2,NULL,NA,PvP,0,https://tbc.wowhead.com/item=28831,NA,1164,48,NULL,NULL,NULL,NULL,9,12,NULL,NULL,NULL,NULL,Red,Red,Yellow
+NA,15,Justicar Breastplate,Justicar Breastplate,Epic,129.458,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29071,NA,1510,24,NULL,NULL,NULL,NULL,NULL,33,NULL,NULL,NULL,NULL,Red,Red,Blue
 NA,NA,Wrist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket,NULL,NA
 NA,1,Wristguards of Determination,Wristguards of Determination,Epic,97.64,NULL,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=32515,NA,703,37,24,19,NULL,13,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
 NA,2,Vambraces of Courage,Vambraces of Courage,Epic,85.4,NULL,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28502,NA,634,33,15,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Yellow,NULL,NA
@@ -160,7 +160,7 @@ NA,11,Merciless Gladiator's Ornamented Legplates,Merciless Gladiator's Ornamente
 NA,12,Gladiator's Scaled Legguards,Gladiator's Scaled Legguards,Epic,122.802,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=27882,NA,1353,54,NULL,NULL,NULL,NULL,NULL,21,NULL,NULL,NULL,NULL,NA,NULL,NA
 NA,13,Vanquisher's Legplates,Vanquisher's Legplates,Epic,121.814,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=30533,NA,1216,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Red,Red,Blue
 NA,14,Greaves of the Shatterer,Greaves of the Shatterer,Rare,119.15,NULL,Shattered Halls,Warchief Kargath Bladefist,1,https://tbc.wowhead.com/item=27527,NA,1019,37,25,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Red,Yellow,Blue
-NA,15,Crystalforge Leggings,Crystalforge Leggings,Epic,117.95,NULL,NA,NA,2,https://tbc.wowhead.com/item=30137,NA,1459,37,NULL,NULL,NULL,NULL,NULL,36,NULL,NULL,NULL,NULL,Blue,NULL,NA
+NA,15,Crystalforge Leggings,Crystalforge Leggings,Epic,117.95,NULL,Serpentshrine Cavern,Fathom-Lord Karathress,2,https://tbc.wowhead.com/item=30137,NA,1459,37,NULL,NULL,NULL,NULL,NULL,36,NULL,NULL,NULL,NULL,Blue,NULL,NA
 NA,NA,Feet,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket,NULL,NA
 NA,1,Boots of the Resilient,Boots of the Resilient,Epic,143.1,NULL,Tempest Keep,High Astromancer Solarian,2,https://tbc.wowhead.com/item=32267,NA,1105,51,25,NULL,NULL,25,NULL,NULL,NULL,NULL,NULL,NULL,Red,Yellow,NA
 NA,2,Boots of the Protector,Boots of the Protector,Epic,140.66,NULL,Blacksmithing,Crafted,2,https://tbc.wowhead.com/item=30033,NA,1105,48,26,NULL,NULL,17,27,22,NULL,NULL,NULL,NULL,NA,NULL,NA
@@ -189,10 +189,10 @@ NA,8,Figurine - Living Ruby Serpent,Figurine - Living Ruby Serpent,Rare,39,NULL,
 NA,9,Moroes' Lucky Pocket Watch,Moroes' Lucky Pocket Watch,Epic,37.8,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28528,NA,NULL,NULL,NULL,63,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
 NA,10,Spyglass of the Hidden Fleet,Spyglass of the Hidden Fleet,Epic,36,NULL,Serpentshrine Cavern,Trash,2,https://tbc.wowhead.com/item=30620,NA,NULL,40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
 NA,11,Sextant of Unstable Currents,Sextant of Unstable Currents,Epic,33.6,NULL,Serpentshrine Cavern,Fathom-Lord Karathress,2,https://tbc.wowhead.com/item=30626,NA,NULL,NULL,NULL,NULL,NULL,NULL,48,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
-NA,12,Battlemaster's Audacity,Battlemaster's Audacity,Epic,32.9,NULL,NA,PvP,2,https://tbc.wowhead.com/item=34579,NA,NULL,NULL,NULL,NULL,NULL,NULL,47,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
-NA,13,Argussian Compass,Argussian Compass,Rare,32.4,NULL,Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=27770,NA,NULL,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
-NA,14,Violet Badge,Violet Badge,Epic,32.4,NULL,Deadwind Pass,The New Directive,1,https://tbc.wowhead.com/item=31113,NA,NULL,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
-NA,15,Neltharion's Tear,Neltharion's Tear,Epic,30.8,30.8,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,NULL,NULL,NULL,NULL,NULL,NULL,44,NULL,NULL,NULL,16,NULL,NA,NULL,NA
+NA,12,Argussian Compass,Argussian Compass,Rare,32.4,NULL,Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=27770,NA,NULL,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
+NA,13,Violet Badge,Violet Badge,Epic,32.4,NULL,Deadwind Pass,The New Directive,1,https://tbc.wowhead.com/item=31113,NA,NULL,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
+NA,14,Neltharion's Tear,Neltharion's Tear,Epic,30.8,30.8,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,NULL,NULL,NULL,NULL,NULL,NULL,44,NULL,NULL,NULL,16,NULL,NA,NULL,NA
+NA,15,Ancient Crystal Talisman,Ancient Crystal Talisman,Uncommon,30.1,NULL,Seer Janidi,A Spirit Ally?,1,https://tbc.wowhead.com/item=25620,NA,NULL,NULL,NULL,NULL,NULL,NULL,43,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA
 NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,type,dps,spd,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket
 NA,1,Fang of the Leviathan,Fang of the Leviathan,Epic,259.42,NULL,Serpentshrine Cavern,Leotheras the Blind,2,https://tbc.wowhead.com/item=30095,NA,Sword,40.8,1.8,28,NULL,NULL,NULL,NULL,221,20,NULL,NULL,NA,NULL,NA
 NA,2,Bloodmaw Magus-Blade,Bloodmaw Magus-Blade,Epic,248.82,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28802,NA,Sword,47.8,1.8,16,NULL,NULL,NULL,NULL,203,15,NULL,NULL,NA,NULL,NA

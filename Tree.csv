@@ -2,20 +2,20 @@ Tree Phase 2,...2,...3,...4,...5,Value Credit: Discord: emihir0#3963  // Druid D
 NA,NA,Item,NA,NA,EPV,Location,NA,Phase,NA,NA,Stats,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,NA,Head,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Nordrassil Headguard,Nordrassil Headguard,Epic,168.7,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30219,NA,103,28,31,NA,NULL,8,Yellow,Meta,NA
-NA,2,Whitemend Hood,Whitemend Hood,Epic,143,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24264,NA,79,15,NULL,NA,NULL,11,Blue,Yellow,Red
-NA,3,Crown of the Sun,Crown of the Sun,Epic,134.1,Tempest Keep,Kael'thas Sunstrider,2,https://tbc.wowhead.com/item=29990,NA,108,38,49,NA,NULL,NULL,NA,NA,NA
-NA,4,Crown of Malorne,Crown of Malorne,Epic,132.6,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29086,NA,68,27,25,NA,NULL,10,Red,Meta,NA
-NA,5,Gladiator's Kodohide Helm,Gladiator's Kodohide Helm,Epic,131.9,Season 1,PvP,1,https://tbc.wowhead.com/item=31376,NA,75,33,NULL,NA,NULL,6,Meta,Yellow,NA
-NA,6,Hallowed Crown,Hallowed Crown,Rare,116,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28413,NA,57,24,26,NA,NULL,NULL,Blue,Meta,NA
-NA,7,Cowl of Nature's Breath,Cowl of Nature's Breath,Epic,114.8,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28803,NA,92,42,34,NA,NULL,NULL,NA,NA,NA
-NA,8,Moonglade Cowl,Moonglade Cowl,Rare,108.4,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28348,NA,53,25,13,NA,NULL,NULL,Blue,Meta,NA
-NA,9,Headdress of the High Potentate,Headdress of the High Potentate,Epic,102,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28756,NA,81,38,32,NA,NULL,NULL,NA,NA,NA
-NA,10,Raven-Heart Headdress,Raven-Heart Headdress,Rare,100.7,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27409,NA,35,23,16,NA,NULL,NULL,Red,Blue,Blue
-NA,11,High Warlord's Kodohide Helm,High Warlord's Kodohide Helm,Rare,96.4,NA,PvP,1,https://tbc.wowhead.com/item=31585,NA,44,18,NULL,NA,NULL,6,Meta,Yellow,NA
-NA,12,Grand Marshal's Kodohide Helm,Grand Marshal's Kodohide Helm,Rare,96.4,NA,PvP,1,https://tbc.wowhead.com/item=31590,NA,44,18,NULL,NA,NULL,6,Meta,Yellow,NA
-NA,13,Kodohide Helm,Kodohide Helm,Rare,96.4,NA,Almaador,1,https://tbc.wowhead.com/item=35362,NA,44,18,NULL,NA,NULL,6,Meta,Yellow,NA
-NA,14,Gladiator's Dragonhide Helm,Gladiator's Dragonhide Helm,Epic,95.7,Season 1,PvP,1,https://tbc.wowhead.com/item=28127,NA,46,19,NULL,NA,NULL,NULL,Meta,Yellow,NA
-NA,15,Watcher's Cowl,Watcher's Cowl,Rare,94,Fedryen Swiftspear,NA,1,https://tbc.wowhead.com/item=29174,NA,79,36,14,NA,NULL,NULL,NA,NA,NA
+NA,2,Wonderheal XT40 Shades,Wonderheal XT40 Shades,Epic,168,Engineering,Crafted,2,https://tbc.wowhead.com/item=32479,NA,106,38,22,NA,NULL,NULL,Meta,Blue,NA
+NA,3,Powerheal 4000 Lens,Powerheal 4000 Lens,Epic,164.8,Engineering,Crafted,2,https://tbc.wowhead.com/item=32495,NA,101,38,28,NA,NULL,NULL,Meta,Blue,NA
+NA,4,Whitemend Hood,Whitemend Hood,Epic,143,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24264,NA,79,15,NULL,NA,NULL,11,Blue,Yellow,Red
+NA,5,Crown of the Sun,Crown of the Sun,Epic,134.1,Tempest Keep,Kael'thas Sunstrider,2,https://tbc.wowhead.com/item=29990,NA,108,38,49,NA,NULL,NULL,NA,NA,NA
+NA,6,Crown of Malorne,Crown of Malorne,Epic,132.6,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29086,NA,68,27,25,NA,NULL,10,Red,Meta,NA
+NA,7,Gladiator's Kodohide Helm,Gladiator's Kodohide Helm,Epic,131.9,Season 1,PvP,1,https://tbc.wowhead.com/item=31376,NA,75,33,NULL,NA,NULL,6,Meta,Yellow,NA
+NA,8,Hallowed Crown,Hallowed Crown,Rare,116,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28413,NA,57,24,26,NA,NULL,NULL,Blue,Meta,NA
+NA,9,Cowl of Nature's Breath,Cowl of Nature's Breath,Epic,114.8,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28803,NA,92,42,34,NA,NULL,NULL,NA,NA,NA
+NA,10,Moonglade Cowl,Moonglade Cowl,Rare,108.4,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28348,NA,53,25,13,NA,NULL,NULL,Blue,Meta,NA
+NA,11,Headdress of the High Potentate,Headdress of the High Potentate,Epic,102,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28756,NA,81,38,32,NA,NULL,NULL,NA,NA,NA
+NA,12,Raven-Heart Headdress,Raven-Heart Headdress,Rare,100.7,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27409,NA,35,23,16,NA,NULL,NULL,Red,Blue,Blue
+NA,13,High Warlord's Kodohide Helm,High Warlord's Kodohide Helm,Rare,96.4,NA,PvP,1,https://tbc.wowhead.com/item=31585,NA,44,18,NULL,NA,NULL,6,Meta,Yellow,NA
+NA,14,Grand Marshal's Kodohide Helm,Grand Marshal's Kodohide Helm,Rare,96.4,NA,PvP,1,https://tbc.wowhead.com/item=31590,NA,44,18,NULL,NA,NULL,6,Meta,Yellow,NA
+NA,15,Kodohide Helm,Kodohide Helm,Rare,96.4,NA,Almaador,1,https://tbc.wowhead.com/item=35362,NA,44,18,NULL,NA,NULL,6,Meta,Yellow,NA
 NA,NA,Neck,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Lord Sanguinar's Claim,Lord Sanguinar's Claim,Epic,88.2,Tempest Keep,Kael'thas and the Verdant Sphere,2,https://tbc.wowhead.com/item=30018,NA,79,19,NULL,NA,NULL,7,NA,NA,NA
 NA,2,Archaic Charm of Presence,Archaic Charm of Presence,Epic,81.9,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30726,NA,75,23,NULL,NA,NULL,NULL,NA,NA,NA
@@ -179,19 +179,19 @@ NA,15,Jeweled Boots of Sanctification,Jeweled Boots of Sanctification,Rare,65.5,
 NA,NA,Trinket,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Essence of the Martyr,Essence of the Martyr,Epic,114,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29376,NA,114,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,2,Eye of the Dead,Eye of the Dead,Epic,90,Classic,NA,0,https://tbc.wowhead.com/item=23047,NA,90,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,3,Battlemaster's Perseverance,Battlemaster's Perseverance,Epic,88,NA,PvP,2,https://tbc.wowhead.com/item=34580,NA,88,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,4,Lower City Prayerbook,Lower City Prayerbook,Rare,75.5,Lower City,Revered,1,https://tbc.wowhead.com/item=30841,NA,70,NULL,NULL,NA,NULL,11,NA,NA,NA
-NA,5,Ribbon of Sacrifice,Ribbon of Sacrifice,Epic,73,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28590,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,6,Living Root of the Wildheart (TREE),Living Root of the Wildheart (TREE),Epic,73,Serpentshrine Cavern,Hydross the Unstable,2,https://tbc.wowhead.com/item=30664,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,7,Scarab of the Infinite Cycle,Scarab of the Infinite Cycle,Rare,70,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28190,NA,70,NULL,NULL,NA,30,NULL,NA,NA,NA
-NA,8,Auslese's Light Channeler,Auslese's Light Channeler,Rare,59,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24390,NA,59,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,9,Warp-Scarab Brooch,Warp-Scarab Brooch,Rare,53.5,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27828,NA,47,NULL,NULL,NA,NULL,13,NA,NA,NA
-NA,10,Eye of Gruul,Eye of Gruul,Epic,53.5,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28823,NA,44,NULL,NULL,NA,NULL,19,NA,NA,NA
-NA,11,Scryer's Bloodgem,Scryer's Bloodgem,Rare,47,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,47,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,12,Xi'ri's Gift,Xi'ri's Gift,Rare,47,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,47,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,13,Heavenly Inspiration,Heavenly Inspiration,Uncommon,44.67,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NA,NULL,10,NA,NA,NA
-NA,14,Vengeance of the Illidari,Vengeance of the Illidari,Rare,37,NA,Cruel's Intentions,1,https://tbc.wowhead.com/item=28040,NA,37,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,15,Ancient Draenei Arcane Relic,Ancient Draenei Arcane Relic,Uncommon,36.67,NA,The Vengeful Harbinger,0,https://tbc.wowhead.com/item=31615,NA,36.67,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,3,Lower City Prayerbook,Lower City Prayerbook,Rare,75.5,Lower City,Revered,1,https://tbc.wowhead.com/item=30841,NA,70,NULL,NULL,NA,NULL,11,NA,NA,NA
+NA,4,Ribbon of Sacrifice,Ribbon of Sacrifice,Epic,73,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28590,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,5,Living Root of the Wildheart (TREE),Living Root of the Wildheart (TREE),Epic,73,Serpentshrine Cavern,Hydross the Unstable,2,https://tbc.wowhead.com/item=30664,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,6,Scarab of the Infinite Cycle,Scarab of the Infinite Cycle,Rare,70,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28190,NA,70,NULL,NULL,NA,30,NULL,NA,NA,NA
+NA,7,Auslese's Light Channeler,Auslese's Light Channeler,Rare,59,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24390,NA,59,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,8,Warp-Scarab Brooch,Warp-Scarab Brooch,Rare,53.5,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27828,NA,47,NULL,NULL,NA,NULL,13,NA,NA,NA
+NA,9,Eye of Gruul,Eye of Gruul,Epic,53.5,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28823,NA,44,NULL,NULL,NA,NULL,19,NA,NA,NA
+NA,10,Scryer's Bloodgem,Scryer's Bloodgem,Rare,47,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,47,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,11,Xi'ri's Gift,Xi'ri's Gift,Rare,47,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,47,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,12,Heavenly Inspiration,Heavenly Inspiration,Uncommon,44.67,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NA,NULL,10,NA,NA,NA
+NA,13,Vengeance of the Illidari,Vengeance of the Illidari,Rare,37,NA,Cruel's Intentions,1,https://tbc.wowhead.com/item=28040,NA,37,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,14,Ancient Draenei Arcane Relic,Ancient Draenei Arcane Relic,Uncommon,36.67,NA,The Vengeful Harbinger,0,https://tbc.wowhead.com/item=31615,NA,36.67,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,15,Fel Reaver's Piston,Fel Reaver's Piston,Epic,28,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=30619,NA,20,NULL,NULL,NA,NULL,16,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Lightfathom Scepter,Lightfathom Scepter,Epic,454.5,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30108,NA,443,20,NULL,NA,NULL,11,NA,NA,NA
 NA,2,Light's Justice,Light's Justice,Epic,394.3,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28771,NA,382,21,20,NA,NULL,NULL,NA,NA,NA

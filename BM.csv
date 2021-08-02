@@ -2,21 +2,21 @@ Beast Master Phase 2,...2,...3,...4,...5,BEAST LORD SET BONUS IS NOT BEING CALCU
 NA,NA,Item,NA,NA,EPV,"If Hit 
 Capped",Location,NA,Phase,NA,NA,Stats,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,Head,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
-NA,1,Rift Stalker Helm,Rift Stalker Helm,Epic,238.375,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30141,NA,82,40,NULL,NULL,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
-NA,2,Mask of the Deceiver,Mask of the Deceiver,Epic,227.975,203.975,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32087,NA,64,32,16,NULL,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
-NA,3,Helm of the Claw,Helm of the Claw,Rare,212.625,191.625,Zangarmarsh,The Warlord's Hideout,1,https://tbc.wowhead.com/item=28182,NA,66,25,14,NULL,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
-NA,4,Demon Stalker Greathelm,Demon Stalker Greathelm,Epic,212.125,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29081,NA,66,35,NULL,NULL,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
-NA,5,Gladiator's Chain Helm,Gladiator's Chain Helm,Epic,212.075,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28331,NA,36,34,NULL,20,NULL,NULL,NULL,Meta,Red,NA,NA,NA
-NA,6,Cowl of Defiance,Cowl of Defiance,Epic,205.7,169.7,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28732,NA,100,34,24,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,7,Malefic Mask of the Shadows,Malefic Mask of the Shadows,Epic,195.6,149.1,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28796,NA,84,NULL,31,42,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,8,Wastewalker Helm,Wastewalker Helm,Rare,192.475,165.475,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28224,NA,56,NULL,18,22,NULL,NULL,NULL,Blue,Meta,NA,NA,NA
-NA,9,Helm of Assassination,Helm of Assassination,Rare,179.125,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28414,NA,66,NULL,NULL,25,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
-NA,10,Cobrascale Hood,Cobrascale Hood,Epic,176.85,149.85,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29502,NA,74,37,18,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,11,Beast Lord Helm,Beast Lord Helm,Rare,176.625,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28275,NA,50,25,NULL,NULL,NULL,NULL,NULL,Red,Meta,NA,NA,NA
-NA,12,Stealther's Helmet of Second Sight,Stealther's Helmet of Second Sight,Rare,172.85,153.35,Shadowmoon Valley,"Teron Gorefiend, I am...",1,https://tbc.wowhead.com/item=31109,NA,60,24,13,NULL,NULL,NULL,NULL,Red,Blue,Yellow,NA,NA
-NA,13,Warpstalker Helm,Warpstalker Helm,Epic,172.575,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32085,NA,48,24,NULL,NULL,NULL,NULL,NULL,Red,Meta,NA,NA,NA
-NA,14,Stalker's Helmet of Second Sight,Stalker's Helmet of Second Sight,Rare,168.7,NULL,Shadowmoon Valley,"Teron Gorefiend, I am...",1,https://tbc.wowhead.com/item=31106,NA,60,31,NULL,NULL,NULL,NULL,NULL,Blue,Blue,Blue,NA,NA
-NA,15,Grand Marshal's Chain Helm,Grand Marshal's Chain Helm,Rare,166.075,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28615,NA,28,20,NULL,14,NULL,NULL,NULL,Meta,Red,NA,NA,NA
+NA,1,Deathblow X11 Goggles,Deathblow X11 Goggles,Epic,266.275,249.775,Engineering,Crafted,2,https://tbc.wowhead.com/item=32478,NA,76,48,11,NULL,NULL,NULL,NULL,Meta,Blue,NA,NA,NA
+NA,2,Surestrike Goggles v2.0,Surestrike Goggles v2.0,Epic,249.775,230.275,Engineering,Crafted,2,https://tbc.wowhead.com/item=32474,NA,96,NULL,13,38,NULL,NULL,NULL,Meta,Blue,NA,NA,NA
+NA,3,Rift Stalker Helm,Rift Stalker Helm,Epic,238.375,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30141,NA,82,40,NULL,NULL,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
+NA,4,Mask of the Deceiver,Mask of the Deceiver,Epic,227.975,203.975,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32087,NA,64,32,16,NULL,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
+NA,5,Helm of the Claw,Helm of the Claw,Rare,212.625,191.625,Zangarmarsh,The Warlord's Hideout,1,https://tbc.wowhead.com/item=28182,NA,66,25,14,NULL,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
+NA,6,Demon Stalker Greathelm,Demon Stalker Greathelm,Epic,212.125,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29081,NA,66,35,NULL,NULL,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
+NA,7,Gladiator's Chain Helm,Gladiator's Chain Helm,Epic,212.075,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28331,NA,36,34,NULL,20,NULL,NULL,NULL,Meta,Red,NA,NA,NA
+NA,8,Cowl of Defiance,Cowl of Defiance,Epic,205.7,169.7,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28732,NA,100,34,24,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,9,Malefic Mask of the Shadows,Malefic Mask of the Shadows,Epic,195.6,149.1,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28796,NA,84,NULL,31,42,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,10,Wastewalker Helm,Wastewalker Helm,Rare,192.475,165.475,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28224,NA,56,NULL,18,22,NULL,NULL,NULL,Blue,Meta,NA,NA,NA
+NA,11,Helm of Assassination,Helm of Assassination,Rare,179.125,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28414,NA,66,NULL,NULL,25,NULL,NULL,NULL,Yellow,Meta,NA,NA,NA
+NA,12,Cobrascale Hood,Cobrascale Hood,Epic,176.85,149.85,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29502,NA,74,37,18,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,13,Beast Lord Helm,Beast Lord Helm,Rare,176.625,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28275,NA,50,25,NULL,NULL,NULL,NULL,NULL,Red,Meta,NA,NA,NA
+NA,14,Stealther's Helmet of Second Sight,Stealther's Helmet of Second Sight,Rare,172.85,153.35,Shadowmoon Valley,"Teron Gorefiend, I am...",1,https://tbc.wowhead.com/item=31109,NA,60,24,13,NULL,NULL,NULL,NULL,Red,Blue,Yellow,NA,NA
+NA,15,Warpstalker Helm,Warpstalker Helm,Epic,172.575,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32085,NA,48,24,NULL,NULL,NULL,NULL,NULL,Red,Meta,NA,NA,NA
 NA,NA,Neck,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Telonicus's Pendant of Mayhem,Telonicus's Pendant of Mayhem,Epic,125.35,NULL,Tempest Keep,Kael'thas and the Verdant Sphere,2,https://tbc.wowhead.com/item=30017,NA,70,27,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Braided Eternium Chain (GROUP BUFF),Braided Eternium Chain (GROUP BUFF),Rare,114.9,83.4,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24114,NA,40,NULL,21,28,NULL,NULL,NULL,NA,NA,NA,NA,NA
@@ -188,11 +188,11 @@ NA,7,Abacus of Violent Odds,Abacus of Violent Odds,Rare,99.18125,NULL,Mechanar,P
 NA,8,Talon of Al'ar,Talon of Al'ar,Epic,87,NULL,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=30448,NA,87,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,9,Drake Fang Talisman,Drake Fang Talisman,Epic,86,56,Blackwing Lair,Ebonroc,0,https://tbc.wowhead.com/item=19406,NA,56,NULL,20,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,10,Core of Ar'kelos,Core of Ar'kelos,Uncommon,85,NULL,Archmage Vargoth,Ar'kelos the Guardian,1,https://tbc.wowhead.com/item=29776,NA,85,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,11,Battlemaster's Determination,Battlemaster's Determination,Epic,80,NULL,NA,PvP,2,https://tbc.wowhead.com/item=34578,NA,80,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,Kiss of the Spider,Kiss of the Spider,Epic,77.325,62.325,Classic,NA,0,https://tbc.wowhead.com/item=22954,NA,NULL,NULL,10,14,25,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,Icon of Unyielding Courage,Icon of Unyielding Courage,Rare,75,30,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=28121,NA,NULL,NULL,30,NULL,NULL,100,NULL,NA,NA,NA,NA,NA
-NA,14,Bladefist's Breadth,Bladefist's Breadth,Rare,73.3,NULL,Hellfire Peninsula,Overlord,1,https://tbc.wowhead.com/item=28041,NA,33,NULL,NULL,26,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,15,Figurine - Felsteel Boar,Figurine - Felsteel Boar,Rare,68,NULL,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24124,NA,68,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,11,Kiss of the Spider,Kiss of the Spider,Epic,77.325,62.325,Classic,NA,0,https://tbc.wowhead.com/item=22954,NA,NULL,NULL,10,14,25,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,Icon of Unyielding Courage,Icon of Unyielding Courage,Rare,75,30,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=28121,NA,NULL,NULL,30,NULL,NULL,100,NULL,NA,NA,NA,NA,NA
+NA,13,Bladefist's Breadth,Bladefist's Breadth,Rare,73.3,NULL,Hellfire Peninsula,Overlord,1,https://tbc.wowhead.com/item=28041,NA,33,NULL,NULL,26,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,Figurine - Felsteel Boar,Figurine - Felsteel Boar,Rare,68,NULL,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24124,NA,68,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,Ancient Draenei War Talisman,Ancient Draenei War Talisman,Uncommon,65.88,NULL,NA,The Vengeful Harbinger,0,https://tbc.wowhead.com/item=31617,NA,33.33,NULL,NULL,21,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Talon of the Phoenix,Talon of the Phoenix,Epic,103.95,81.45,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=32944,NA,52,NULL,15,19,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Talon of Azshara,Talon of Azshara,Epic,100.75,70.75,Serpentshrine Cavern,Morogrim Tidewalker,2,https://tbc.wowhead.com/item=30082,NA,40,15,20,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA

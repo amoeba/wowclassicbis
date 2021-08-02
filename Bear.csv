@@ -4,19 +4,19 @@ Capped",Location,NA,Phase,NA,NA,Stats,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,N
 NA,NA,Head,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,ap,agi,hit,def,dodge,socket,NA,NULL,NA,NA,NA
 NA,1,Nordrassil Headdress,Nordrassil Headdress,Epic,782.8271,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30228,NA,565,43,NULL,33,NULL,NULL,NULL,Red,Meta,NULL,NA,NA,NA
 NA,2,Stag-Helm of Malorne,Stag-Helm of Malorne,Epic,692.7061,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29098,NA,490,30,NULL,33,NULL,NULL,NULL,Yellow,Meta,NULL,NA,NA,NA
-NA,3,Mask of the Deceiver,Mask of the Deceiver,Epic,621.6782,574.075,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32087,NA,283,36,64,32,16,NULL,NULL,Yellow,Meta,NULL,NA,NA,NA
-NA,4,Gladiator's Dragonhide Helm,Gladiator's Dragonhide Helm,Epic,602.6462,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28127,NA,356,45,NULL,20,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
-NA,5,Cowl of Beastly Rage,Cowl of Beastly Rage,Epic,596.8725,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32088,NA,423,27,NULL,26,NULL,NULL,NULL,Yellow,Meta,NULL,NA,NA,NA
-NA,6,Malefic Mask of the Shadows,Malefic Mask of the Shadows,Epic,548.4064,456.1752,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28796,NA,321,45,84,NULL,31,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,7,Cowl of Defiance,Cowl of Defiance,Epic,544.1329,472.7281,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28732,NA,296,33,100,34,24,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,8,Cobrascale Hood,Cobrascale Hood,Epic,525.4515,471.8979,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29502,NA,271,42,74,37,18,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,9,Helm of the Claw,Helm of the Claw,Rare,524.3977,482.7449,Zangarmarsh,The Warlord's Hideout,1,https://tbc.wowhead.com/item=28182,NA,237,21,66,25,14,NULL,NULL,Yellow,Meta,NULL,NA,NA,NA
-NA,10,Wastewalker Helm,Wastewalker Helm,Rare,508.6317,455.0781,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28224,NA,237,30,56,NULL,18,NULL,NULL,Blue,Meta,NULL,NA,NA,NA
-NA,11,Grand Marshal's Dragonhide Helm,Grand Marshal's Dragonhide Helm,Rare,470.3247,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28619,NA,267,21,NULL,22,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
-NA,12,High Warlord's Dragonhide Helm,High Warlord's Dragonhide Helm,Rare,470.3247,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28812,NA,267,21,NULL,22,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
-NA,13,Dragonhide Helm,Dragonhide Helm,Rare,470.3247,NULL,NA,Nakodu,1,https://tbc.wowhead.com/item=35357,NA,267,21,NULL,22,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
-NA,14,Exorcist's Leather Helm,Exorcist's Leather Helm,Rare,456.9612,NULL,Spirit Shard,PvP,1,https://tbc.wowhead.com/item=28561,NA,208,33,20,27,NULL,NULL,NULL,Meta,NA,NULL,NA,NA,NA
-NA,15,Gladiator's Kodohide Helm,Gladiator's Kodohide Helm,Epic,455.5931,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=31376,NA,356,46,NULL,NULL,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
+NA,3,Deathblow X11 Goggles,Deathblow X11 Goggles,Epic,685.271,652.5438,Engineering,Crafted,2,https://tbc.wowhead.com/item=32478,NA,326,28,76,48,11,NULL,NULL,Meta,Blue,NULL,NA,NA,NA
+NA,4,Mask of the Deceiver,Mask of the Deceiver,Epic,621.6782,574.075,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32087,NA,283,36,64,32,16,NULL,NULL,Yellow,Meta,NULL,NA,NA,NA
+NA,5,Gladiator's Dragonhide Helm,Gladiator's Dragonhide Helm,Epic,602.6462,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28127,NA,356,45,NULL,20,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
+NA,6,Cowl of Beastly Rage,Cowl of Beastly Rage,Epic,596.8725,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32088,NA,423,27,NULL,26,NULL,NULL,NULL,Yellow,Meta,NULL,NA,NA,NA
+NA,7,Malefic Mask of the Shadows,Malefic Mask of the Shadows,Epic,548.4064,456.1752,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28796,NA,321,45,84,NULL,31,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,8,Cowl of Defiance,Cowl of Defiance,Epic,544.1329,472.7281,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28732,NA,296,33,100,34,24,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,9,Cobrascale Hood,Cobrascale Hood,Epic,525.4515,471.8979,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29502,NA,271,42,74,37,18,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,10,Helm of the Claw,Helm of the Claw,Rare,524.3977,482.7449,Zangarmarsh,The Warlord's Hideout,1,https://tbc.wowhead.com/item=28182,NA,237,21,66,25,14,NULL,NULL,Yellow,Meta,NULL,NA,NA,NA
+NA,11,Wastewalker Helm,Wastewalker Helm,Rare,508.6317,455.0781,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28224,NA,237,30,56,NULL,18,NULL,NULL,Blue,Meta,NULL,NA,NA,NA
+NA,12,Grand Marshal's Dragonhide Helm,Grand Marshal's Dragonhide Helm,Rare,470.3247,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28619,NA,267,21,NULL,22,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
+NA,13,High Warlord's Dragonhide Helm,High Warlord's Dragonhide Helm,Rare,470.3247,NULL,NA,PvP,1,https://tbc.wowhead.com/item=28812,NA,267,21,NULL,22,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
+NA,14,Dragonhide Helm,Dragonhide Helm,Rare,470.3247,NULL,NA,Nakodu,1,https://tbc.wowhead.com/item=35357,NA,267,21,NULL,22,NULL,NULL,NULL,Meta,Yellow,NULL,NA,NA,NA
+NA,15,Exorcist's Leather Helm,Exorcist's Leather Helm,Rare,456.9612,NULL,Spirit Shard,PvP,1,https://tbc.wowhead.com/item=28561,NA,208,33,20,27,NULL,NULL,NULL,Meta,NA,NULL,NA,NA,NA
 NA,NA,Neck,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,ap,agi,hit,def,dodge,socket,NA,NULL,NA,NA,NA
 NA,1,Telonicus's Pendant of Mayhem,Telonicus's Pendant of Mayhem,Epic,247.7862,NULL,Tempest Keep,Kael'thas and the Verdant Sphere,2,https://tbc.wowhead.com/item=30017,NA,NULL,26,70,27,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,2,Worgen Claw Necklace,Worgen Claw Necklace,Epic,229.3773,178.7989,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28509,NA,NULL,21,42,20,17,NULL,NULL,NA,NA,NULL,NA,NA,NA

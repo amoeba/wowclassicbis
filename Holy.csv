@@ -3,19 +3,19 @@ NA,NA,Item,NA,NA,EPV,Location,NA,Phase,NA,NA,Stats,NULL,NULL,NA,NULL,NULL,NA,NA,
 NA,NA,Head,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Cowl of the Avatar,Cowl of the Avatar,Epic,305.397,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30152,NA,103,28,31,NA,NULL,8,Meta,Yellow,NA
 NA,2,Crown of the Sun,Crown of the Sun,Epic,293.521,Tempest Keep,Kael'thas Sunstrider,2,https://tbc.wowhead.com/item=29990,NA,108,38,49,NA,NULL,NULL,NA,NA,NA
-NA,3,Light-Collar of the Incarnate,Light-Collar of the Incarnate,Epic,263.957,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29049,NA,73,34,25,NA,NULL,6,Meta,Blue,NA
-NA,4,Headdress of the High Potentate,Headdress of the High Potentate,Epic,229.248,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28756,NA,81,38,32,NA,NULL,NULL,NA,NA,NA
-NA,5,Whitemend Hood,Whitemend Hood,Epic,208.937,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24264,NA,79,15,NULL,NA,NULL,11,Blue,Yellow,Red
-NA,6,Hallowed Crown,Hallowed Crown,Rare,202.74,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28413,NA,57,24,26,NA,NULL,NULL,Blue,Meta,NA
-NA,7,Scintillating Headdress of Second Sight,Scintillating Headdress of Second Sight,Rare,197.968,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27866,NA,73,27,32,NA,NULL,NULL,NA,NA,NA
-NA,8,Circlet of Faith,Circlet of Faith,Epic,189.633,Classic,NA,0,https://tbc.wowhead.com/item=22514,NA,75,22,22,NA,NULL,5,NA,NA,NA
-NA,9,Watcher's Cowl,Watcher's Cowl,Rare,181.246,Fedryen Swiftspear,NA,1,https://tbc.wowhead.com/item=29174,NA,79,36,14,NA,NULL,NULL,NA,NA,NA
-NA,10,Collar of Command,Collar of Command,Rare,176.541,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27410,NA,66,23,29,NA,NULL,NULL,NA,NA,NA
-NA,11,Hood of the Avatar,Hood of the Avatar,Epic,166.406,NA,NA,2,https://tbc.wowhead.com/item=30161,NA,NULL,36,24,NA,NULL,NULL,Meta,Yellow,NA
-NA,12,Soul-Collar of the Incarnate,Soul-Collar of the Incarnate,Epic,164.126,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29058,NA,NULL,35,24,NA,NULL,NULL,Meta,Yellow,NA
-NA,13,Don Rigoberto's Lost Hat,Don Rigoberto's Lost Hat,Epic,159.261,Classic,NA,0,https://tbc.wowhead.com/item=21615,NA,64,24,NULL,NA,NULL,11,NA,NA,NA
-NA,14,Gladiator's Mooncloth Hood,Gladiator's Mooncloth Hood,Epic,150.51,Season 1,PvP,1,https://tbc.wowhead.com/item=31410,NA,55,22,NULL,NA,NULL,NULL,Meta,Red,NA
-NA,15,Merciless Gladiator's Mooncloth Hood,Merciless Gladiator's Mooncloth Hood,Epic,148.19,NA,PvP,2,https://tbc.wowhead.com/item=32016,NA,59,18,NULL,NA,NULL,NULL,Meta,Red,NA
+NA,3,Powerheal 4000 Lens,Powerheal 4000 Lens,Epic,277.798,Engineering,Crafted,2,https://tbc.wowhead.com/item=32495,NA,101,38,28,NA,NULL,NULL,Meta,Blue,NA
+NA,4,Light-Collar of the Incarnate,Light-Collar of the Incarnate,Epic,263.957,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29049,NA,73,34,25,NA,NULL,6,Meta,Blue,NA
+NA,5,Headdress of the High Potentate,Headdress of the High Potentate,Epic,229.248,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28756,NA,81,38,32,NA,NULL,NULL,NA,NA,NA
+NA,6,Whitemend Hood,Whitemend Hood,Epic,208.937,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24264,NA,79,15,NULL,NA,NULL,11,Blue,Yellow,Red
+NA,7,Hallowed Crown,Hallowed Crown,Rare,202.74,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28413,NA,57,24,26,NA,NULL,NULL,Blue,Meta,NA
+NA,8,Scintillating Headdress of Second Sight,Scintillating Headdress of Second Sight,Rare,197.968,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27866,NA,73,27,32,NA,NULL,NULL,NA,NA,NA
+NA,9,Circlet of Faith,Circlet of Faith,Epic,189.633,Classic,NA,0,https://tbc.wowhead.com/item=22514,NA,75,22,22,NA,NULL,5,NA,NA,NA
+NA,10,Watcher's Cowl,Watcher's Cowl,Rare,181.246,Fedryen Swiftspear,NA,1,https://tbc.wowhead.com/item=29174,NA,79,36,14,NA,NULL,NULL,NA,NA,NA
+NA,11,Collar of Command,Collar of Command,Rare,176.541,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27410,NA,66,23,29,NA,NULL,NULL,NA,NA,NA
+NA,12,Hood of the Avatar,Hood of the Avatar,Epic,166.406,NA,NA,2,https://tbc.wowhead.com/item=30161,NA,NULL,36,24,NA,NULL,NULL,Meta,Yellow,NA
+NA,13,Soul-Collar of the Incarnate,Soul-Collar of the Incarnate,Epic,164.126,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29058,NA,NULL,35,24,NA,NULL,NULL,Meta,Yellow,NA
+NA,14,Don Rigoberto's Lost Hat,Don Rigoberto's Lost Hat,Epic,159.261,Classic,NA,0,https://tbc.wowhead.com/item=21615,NA,64,24,NULL,NA,NULL,11,NA,NA,NA
+NA,15,Gladiator's Mooncloth Hood,Gladiator's Mooncloth Hood,Epic,150.51,Season 1,PvP,1,https://tbc.wowhead.com/item=31410,NA,55,22,NULL,NA,NULL,NULL,Meta,Red,NA
 NA,NA,Neck,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Teeth of Gruul,Teeth of Gruul,Epic,160.539,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28822,NA,46,21,19,NA,NULL,8,NA,NA,NA
 NA,2,Lord Sanguinar's Claim,Lord Sanguinar's Claim,Epic,149.337,Tempest Keep,Kael'thas and the Verdant Sphere,2,https://tbc.wowhead.com/item=30018,NA,79,19,NULL,NA,NULL,7,NA,NA,NA
@@ -188,10 +188,10 @@ NA,8,Essence of the Martyr,Essence of the Martyr,Epic,114,Badge of Justice,G'era
 NA,9,Warp-Scarab Brooch,Warp-Scarab Brooch,Rare,102.003,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27828,NA,47,NULL,NULL,NA,NULL,13,NA,NA,NA
 NA,10,Warmth of Forgiveness,Warmth of Forgiveness,Epic,101.544,Classic,NA,0,https://tbc.wowhead.com/item=23027,NA,NULL,NULL,NULL,NA,NULL,24,NA,NA,NA
 NA,11,Eye of the Dead,Eye of the Dead,Epic,90,Classic,NA,0,https://tbc.wowhead.com/item=23047,NA,90,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,12,Battlemaster's Perseverance,Battlemaster's Perseverance,Epic,88,NA,PvP,2,https://tbc.wowhead.com/item=34580,NA,88,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,13,Fel Reaver's Piston,Fel Reaver's Piston,Epic,87.696,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=30619,NA,20,NULL,NULL,NA,NULL,16,NA,NA,NA
-NA,14,Heavenly Inspiration,Heavenly Inspiration,Uncommon,81.98,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NA,NULL,10,NA,NA,NA
-NA,15,Battlemaster's Alacrity,Battlemaster's Alacrity,Epic,74.8,Badge of Justice,G'eras,2,https://tbc.wowhead.com/item=35326,NA,NULL,NULL,NULL,NA,40,NULL,NA,NA,NA
+NA,12,Fel Reaver's Piston,Fel Reaver's Piston,Epic,87.696,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=30619,NA,20,NULL,NULL,NA,NULL,16,NA,NA,NA
+NA,13,Heavenly Inspiration,Heavenly Inspiration,Uncommon,81.98,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NA,NULL,10,NA,NA,NA
+NA,14,Ribbon of Sacrifice,Ribbon of Sacrifice,Epic,73,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28590,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,15,Quagmirran's Eye,Quagmirran's Eye,Rare,71.808,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,NULL,NULL,NULL,NA,38.4,NULL,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Lightfathom Scepter,Lightfathom Scepter,Epic,532.741,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30108,NA,443,20,NULL,NA,NULL,11,NA,NA,NA
 NA,2,Light's Justice,Light's Justice,Epic,468.06,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28771,NA,382,21,20,NA,NULL,NULL,NA,NA,NA

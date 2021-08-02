@@ -3,20 +3,20 @@ NA,NA,Item,Item,NA,EPV,"If Hit
 Capped",Location,NA,Phase,NA,NA,Stats,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Head,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,SP,int,hit,crit,haste,Sockets,NA,NA
 NA,1,Cowl of the Grand Engineer,Cowl of the Grand Engineer,Epic,168.22,144.22,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=29986,NA,53,27,16,35,NULL,Yellow,Yellow,Blue
-NA,2,Spellstrike Hood,Spellstrike Hood,Epic,141.394,117.394,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24266,NA,46,12,16,24,NULL,Blue,Yellow,Red
-NA,3,Cowl of Tirisfal,Cowl of Tirisfal,Epic,135.224,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30206,NA,55,36,NULL,24,NULL,Meta,Yellow,NA
-NA,4,Uni-Mind Headdress,Uni-Mind Headdress,Epic,129.01,100.51,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28744,NA,46,40,19,25,NULL,NA,NA,NA
-NA,5,Collar of the Aldor,Collar of the Aldor,Epic,120.592,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29076,NA,41,35,NULL,27,NULL,Meta,Blue,NA
-NA,6,Gnomish Power Goggles,Gnomish Power Goggles,Epic,109.008,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23828,NA,59,21,NULL,28,NULL,NA,NA,NA
-NA,7,Evoker's Helmet of Second Sight,Evoker's Helmet of Second Sight,Rare,105.674,NULL,NA,"Teron Gorefiend, I am...",1,https://tbc.wowhead.com/item=31104,NA,35,15,NULL,24,NULL,Blue,Blue,Yellow
-NA,8,Wicked Witch's Hat,Wicked Witch's Hat,Epic,102.442,NULL,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28586,NA,43,38,NULL,32,NULL,NA,NA,NA
-NA,9,Collar of Cho'gall,Collar of Cho'gall,Epic,101.36,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28804,NA,68,36,NULL,NULL,NULL,NA,NA,NA
-NA,10,Mag'hari Ritualist's Horns,Mag'hari Ritualist's Horns,Rare,101.17,83.17,NA,NA,1,https://tbc.wowhead.com/item=28169,NA,50,16,12,15,NULL,NA,NA,NA
-NA,11,Mana-Binders Cowl,Mana-Binders Cowl,Epic,97.59,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32089,NA,34,29,NULL,15,NULL,Yellow,Meta,NA
-NA,12,Elementalist Skullcap of Wrath,Elementalist Skullcap of Wrath,Uncommon,96.8,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=24689,NA,80,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,13,Gladiator's Silk Cowl,Gladiator's Silk Cowl,Epic,96.638,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=25855,NA,37,15,NULL,18,NULL,Meta,Red,NA
-NA,14,Incanter's Cowl,Incanter's Cowl,Rare,94.264,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28278,NA,29,27,NULL,19,NULL,Yellow,Meta,NA
-NA,15,Hood of Oblivion,Hood of Oblivion,Rare,92.25,NULL,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28415,NA,40,32,NULL,NULL,NULL,Blue,Meta,NA
+NA,2,Destruction Holo-gogs,Destruction Holo-gogs,Epic,144.484,NULL,Engineering,Crafted,2,https://tbc.wowhead.com/item=32494,NA,64,24,NULL,29,NULL,Meta,Blue,NA
+NA,3,Spellstrike Hood,Spellstrike Hood,Epic,141.394,117.394,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24266,NA,46,12,16,24,NULL,Blue,Yellow,Red
+NA,4,Cowl of Tirisfal,Cowl of Tirisfal,Epic,135.224,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30206,NA,55,36,NULL,24,NULL,Meta,Yellow,NA
+NA,5,Uni-Mind Headdress,Uni-Mind Headdress,Epic,129.01,100.51,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28744,NA,46,40,19,25,NULL,NA,NA,NA
+NA,6,Collar of the Aldor,Collar of the Aldor,Epic,120.592,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29076,NA,41,35,NULL,27,NULL,Meta,Blue,NA
+NA,7,Gnomish Power Goggles,Gnomish Power Goggles,Epic,109.008,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23828,NA,59,21,NULL,28,NULL,NA,NA,NA
+NA,8,Evoker's Helmet of Second Sight,Evoker's Helmet of Second Sight,Rare,105.674,NULL,NA,"Teron Gorefiend, I am...",1,https://tbc.wowhead.com/item=31104,NA,35,15,NULL,24,NULL,Blue,Blue,Yellow
+NA,9,Wicked Witch's Hat,Wicked Witch's Hat,Epic,102.442,NULL,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28586,NA,43,38,NULL,32,NULL,NA,NA,NA
+NA,10,Collar of Cho'gall,Collar of Cho'gall,Epic,101.36,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28804,NA,68,36,NULL,NULL,NULL,NA,NA,NA
+NA,11,Mag'hari Ritualist's Horns,Mag'hari Ritualist's Horns,Rare,101.17,83.17,NA,NA,1,https://tbc.wowhead.com/item=28169,NA,50,16,12,15,NULL,NA,NA,NA
+NA,12,Mana-Binders Cowl,Mana-Binders Cowl,Epic,97.59,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32089,NA,34,29,NULL,15,NULL,Yellow,Meta,NA
+NA,13,Elementalist Skullcap of Wrath,Elementalist Skullcap of Wrath,Uncommon,96.8,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=24689,NA,80,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,14,Gladiator's Silk Cowl,Gladiator's Silk Cowl,Epic,96.638,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=25855,NA,37,15,NULL,18,NULL,Meta,Red,NA
+NA,15,Incanter's Cowl,Incanter's Cowl,Rare,94.264,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28278,NA,29,27,NULL,19,NULL,Yellow,Meta,NA
 NA,NA,Neck,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,SP,int,hit,crit,haste,Sockets,NA,NA
 NA,1,Eye of the Night (GROUP BUFF),Eye of the Night (GROUP BUFF),Rare,89.736,65.736,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24116,NA,34,NULL,16,26,NULL,NA,NA,NA
 NA,2,The Sun King's Talisman,The Sun King's Talisman,Epic,80.794,NULL,Tempest Keep,Kael'thas and the Verdant Sphere,2,https://tbc.wowhead.com/item=30015,NA,41,16,NULL,24,NULL,NA,NA,NA
@@ -71,7 +71,7 @@ NA,2,Spellfire Robe (Fire/Arcane),Spellfire Robe (Fire/Arcane),Epic,144.398,NULL
 NA,3,Robe of Hateful Echoes,Robe of Hateful Echoes,Epic,135.9,NULL,Serpentshrine Cavern,Hydross the Unstable,2,https://tbc.wowhead.com/item=30056,NA,50,36,NULL,25,NULL,Red,Yellow,Yellow
 NA,4,Robes of Tirisfal,Robes of Tirisfal,Epic,135.744,NULL,Tempest Keep,Kael'thas Sunstrider,2,https://tbc.wowhead.com/item=30196,NA,55,35,NULL,19,NULL,Yellow,Yellow,Blue
 NA,5,Robe of the Crimson Order,Robe of the Crimson Order,Rare,117.69,72.69,NA,NA,1,https://tbc.wowhead.com/item=31297,NA,50,23,30,NULL,NULL,NA,NA,NA
-NA,6,Auchenai Anchorite's Robe,Auchenai Anchorite's Robe,Rare,113.77,79.27,NA,Everything Will Be Alright,1,https://tbc.wowhead.com/item=29341,NA,28,24,23,NULL,NULL,Yellow,Yellow,Red
+NA,6,Auchenai Anchorite's Robe,Auchenai Anchorite's Robe,Rare,113.77,79.27,Terokkar Forest,Everything Will Be Alright,1,https://tbc.wowhead.com/item=29341,NA,28,24,23,NULL,NULL,Yellow,Yellow,Red
 NA,7,Vestments of the Aldor,Vestments of the Aldor,Epic,108.92,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29077,NA,49,32,NULL,NULL,NULL,Yellow,Blue,Blue
 NA,8,Will of Edward the Odd,Will of Edward the Odd,Epic,108.41,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31340,NA,53,30,NULL,30,NULL,NA,NA,NA
 NA,9,Gladiator's Silk Raiment,Gladiator's Silk Raiment,Epic,104.58,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=25856,NA,32,18,NULL,25,NULL,Red,Yellow,Yellow
@@ -191,8 +191,8 @@ NA,10,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Ep
 NA,11,Arcanist's Stone,Arcanist's Stone,Rare,72.59,35.09,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28223,NA,29,NULL,25,NULL,NULL,NA,NA,NA
 NA,12,Starkiller's Bauble,Starkiller's Bauble,Uncommon,64.2043,25.2043,NA,The Horrors of Pollution,0,https://tbc.wowhead.com/item=30340,NA,20.83,NULL,26,NULL,NULL,NA,NA,NA
 NA,13,Xi'ri's Gift,Xi'ri's Gift,Rare,60.522,NULL,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,25,NULL,NULL,32,NULL,NA,NA,NA
-NA,14,Battlemaster's Audacity,Battlemaster's Audacity,Epic,56.87,NULL,NA,PvP,2,https://tbc.wowhead.com/item=34579,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,15,Ancient Crystal Talisman,Ancient Crystal Talisman,Uncommon,52.03,NULL,Seer Janidi,A Spirit Ally?,1,https://tbc.wowhead.com/item=25620,NA,43,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,14,Ancient Crystal Talisman,Ancient Crystal Talisman,Uncommon,52.03,NULL,Seer Janidi,A Spirit Ally?,1,https://tbc.wowhead.com/item=25620,NA,43,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,15,Terokkar Tablet of Vim,Terokkar Tablet of Vim,Uncommon,49.94,16.94,Terokkar Forest,Torgos!,1,https://tbc.wowhead.com/item=25936,NA,14,NULL,22,NULL,NULL,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,SP,int,hit,crit,haste,Sockets,NA,NA
 NA,1,Fang of the Leviathan,Fang of the Leviathan,Epic,297.876,NULL,Serpentshrine Cavern,Leotheras the Blind,2,https://tbc.wowhead.com/item=30095,NA,221,20,NULL,21,NULL,NA,NA,NA
 NA,2,Talon of the Tempest,Talon of the Tempest,Epic,293.294,279.794,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30723,NA,194,10,9,19,NULL,Yellow,Yellow,NA
