@@ -225,21 +225,21 @@ NA,13,Faol's Signet of Cleansing,Faol's Signet of Cleansing,Rare,88.617,Hellfire
 NA,14,Unearthed Orb,Unearthed Orb,Uncommon,74.595,NA,Escaping the Tomb,0,https://tbc.wowhead.com/item=31732,NA,29,13,NULL,NA,NULL,5,NA,NA,NA
 NA,15,Digested Hand of Power,Digested Hand of Power,Epic,70.63,Naxxramas,Gluth,1,https://tbc.wowhead.com/item=22994,NA,NULL,14,NULL,NA,NULL,10,NA,NA,NA
 NA,NA,Two Hand,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
-NA,1,Exodar Life-Staff,Exodar Life-Staff,Epic,555.95,World Boss,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30732,NA,364,34,NULL,NA,NULL,18,Blue,Blue,Yellow
-NA,2,Crystalheart Pulse-Staff,Crystalheart Pulse-Staff,Epic,553.896,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28782,NA,382,50,NULL,NA,NULL,16,NA,NA,NA
-NA,3,Nightstaff of the Everliving,Nightstaff of the Everliving,Epic,537.815,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28604,NA,348,34,55,NA,NULL,NULL,NA,NA,NA
-NA,4,"Atiesh, Greatstaff of the Guardian","Atiesh, Greatstaff of the Guardian",Legendary,478.803,Classic,NA,0,https://tbc.wowhead.com/item=22631,NA,362,28,27,NA,NULL,NULL,NA,NA,NA
-NA,5,Serpentcrest Life-Staff,Serpentcrest Life-Staff,Rare,382.934,The Steamvault,Mekgineer Steamrigger,1,https://tbc.wowhead.com/item=27791,NA,227,27,46,NA,NULL,NULL,NA,NA,NA
-NA,6,Seer's Cane,Seer's Cane,Rare,362.39,Quartermaster Enuril,NA,1,https://tbc.wowhead.com/item=29133,NA,228,46,NULL,NA,NULL,10,NA,NA,NA
-NA,7,Epoch-Mender,Epoch-Mender,Rare,350.972,Black Morass,Temporus,1,https://tbc.wowhead.com/item=28033,NA,227,35,NULL,NA,NULL,12,NA,NA,NA
-NA,8,Staff of Divine Infusion,Staff of Divine Infusion,Rare,345.69,NA,NA,1,https://tbc.wowhead.com/item=31289,NA,194,23,50,NA,NULL,NULL,NA,NA,NA
-NA,9,Ameer's Judgement,Ameer's Judgement,Rare,338.62,NA,Nexus-King Salhadaar,1,https://tbc.wowhead.com/item=30012,NA,194,40,27,NA,NULL,NULL,NA,NA,NA
-NA,10,Staff of the Ashtongue Deathsworn,Staff of the Ashtongue Deathsworn,Rare,338.225,NA,NA,1,https://tbc.wowhead.com/item=31417,NA,194,45,25,NA,NULL,NULL,NA,NA,NA
-NA,11,Staff of the Redeemer,Staff of the Redeemer,Rare,326.31,NA,NA,1,https://tbc.wowhead.com/item=31038,NA,194,45,NULL,NA,NULL,10,NA,NA,NA
-NA,12,Spire of Twilight,Spire of Twilight,Epic,297.75,Naxxramas,Thaddius,1,https://tbc.wowhead.com/item=22801,NA,178,38,NULL,NA,NULL,10,NA,NA,NA
-NA,13,Severin's Cane,Severin's Cane,Rare,281.2,NA,Terokk's Downfall,1,https://tbc.wowhead.com/item=32830,NA,194,40,NULL,NA,NULL,NULL,NA,NA,NA
-NA,14,Ironstaff of Regeneration,Ironstaff of Regeneration,Rare,280.035,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27412,NA,143,29,35,NA,NULL,NULL,NA,NA,NA
-NA,15,Ethereum Life-Staff,Ethereum Life-Staff,Epic,227.598,Tempest Keep,High Astromancer Solarian,2,https://tbc.wowhead.com/item=29981,NA,NULL,44,62,NA,NULL,NULL,NA,NA,NA
+NA,1,Ethereum Life-Staff,Ethereum Life-Staff,Epic,642.598,Tempest Keep,High Astromancer Solarian,2,https://tbc.wowhead.com/item=29981,NA,415,44,62,NA,NULL,NULL,NA,NA,NA
+NA,2,Exodar Life-Staff,Exodar Life-Staff,Epic,555.95,World Boss,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30732,NA,364,34,NULL,NA,NULL,18,Blue,Blue,Yellow
+NA,3,Crystalheart Pulse-Staff,Crystalheart Pulse-Staff,Epic,553.896,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28782,NA,382,50,NULL,NA,NULL,16,NA,NA,NA
+NA,4,Nightstaff of the Everliving,Nightstaff of the Everliving,Epic,537.815,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28604,NA,348,34,55,NA,NULL,NULL,NA,NA,NA
+NA,5,"Atiesh, Greatstaff of the Guardian","Atiesh, Greatstaff of the Guardian",Legendary,478.803,Classic,NA,0,https://tbc.wowhead.com/item=22631,NA,362,28,27,NA,NULL,NULL,NA,NA,NA
+NA,6,Serpentcrest Life-Staff,Serpentcrest Life-Staff,Rare,382.934,The Steamvault,Mekgineer Steamrigger,1,https://tbc.wowhead.com/item=27791,NA,227,27,46,NA,NULL,NULL,NA,NA,NA
+NA,7,Seer's Cane,Seer's Cane,Rare,362.39,Quartermaster Enuril,NA,1,https://tbc.wowhead.com/item=29133,NA,228,46,NULL,NA,NULL,10,NA,NA,NA
+NA,8,Epoch-Mender,Epoch-Mender,Rare,350.972,Black Morass,Temporus,1,https://tbc.wowhead.com/item=28033,NA,227,35,NULL,NA,NULL,12,NA,NA,NA
+NA,9,Staff of Divine Infusion,Staff of Divine Infusion,Rare,345.69,NA,NA,1,https://tbc.wowhead.com/item=31289,NA,194,23,50,NA,NULL,NULL,NA,NA,NA
+NA,10,Ameer's Judgement,Ameer's Judgement,Rare,338.62,NA,Nexus-King Salhadaar,1,https://tbc.wowhead.com/item=30012,NA,194,40,27,NA,NULL,NULL,NA,NA,NA
+NA,11,Staff of the Ashtongue Deathsworn,Staff of the Ashtongue Deathsworn,Rare,338.225,NA,NA,1,https://tbc.wowhead.com/item=31417,NA,194,45,25,NA,NULL,NULL,NA,NA,NA
+NA,12,Staff of the Redeemer,Staff of the Redeemer,Rare,326.31,NA,NA,1,https://tbc.wowhead.com/item=31038,NA,194,45,NULL,NA,NULL,10,NA,NA,NA
+NA,13,Spire of Twilight,Spire of Twilight,Epic,297.75,Naxxramas,Thaddius,1,https://tbc.wowhead.com/item=22801,NA,178,38,NULL,NA,NULL,10,NA,NA,NA
+NA,14,Severin's Cane,Severin's Cane,Rare,281.2,NA,Terokk's Downfall,1,https://tbc.wowhead.com/item=32830,NA,194,40,NULL,NA,NULL,NULL,NA,NA,NA
+NA,15,Ironstaff of Regeneration,Ironstaff of Regeneration,Rare,280.035,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27412,NA,143,29,35,NA,NULL,NULL,NA,NA,NA
 NA,NA,Ranged,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Luminescent Rod of the Naaru,Luminescent Rod of the Naaru,Epic,86.706,Serpentshrine Cavern,Morogrim Tidewalker,2,https://tbc.wowhead.com/item=30080,NA,35,14,NULL,NA,NULL,6,NA,NA,NA
 NA,2,Blue Diamond Witchwand,Blue Diamond Witchwand,Epic,77.299,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28588,NA,29,13,11,NA,NULL,NULL,NA,NA,NA

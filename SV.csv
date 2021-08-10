@@ -195,20 +195,20 @@ NA,14,Figurine - Felsteel Boar,Figurine - Felsteel Boar,Rare,68,NULL,Jewelcrafti
 NA,15,Ancient Draenei War Talisman,Ancient Draenei War Talisman,Uncommon,67.98,NULL,NA,The Vengeful Harbinger,0,https://tbc.wowhead.com/item=31617,NA,33.33,NULL,NULL,21,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Netherbane,Netherbane,Epic,170.25,NULL,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=29924,NA,40,25,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,2,Claw of the Phoenix,Claw of the Phoenix,Epic,149.41,NULL,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=29948,NA,40,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,3,Talon of Azshara,Talon of Azshara,Epic,148.15,118.15,Serpentshrine Cavern,Morogrim Tidewalker,2,https://tbc.wowhead.com/item=30082,NA,40,15,20,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,4,Guile of Khoraazi,Guile of Khoraazi,Epic,136.99,NULL,NA,NA,1,https://tbc.wowhead.com/item=29121,NA,38,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,5,Felsteel Longblade,Felsteel Longblade,Epic,135.46,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23540,NA,NULL,26,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,6,Emerald Ripper,Emerald Ripper,Epic,134.99,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28524,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,7,Direbrew's Shanker,Direbrew's Shanker,Epic,134.99,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=37597,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,8,Stellaris,Stellaris,Rare,131.41,NULL,Mechanar,Nethermancer Sepethrea,1,https://tbc.wowhead.com/item=28263,NA,22,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,9,Riftmaker,Riftmaker,Epic,131.41,NULL,NA,Alurmi,1,https://tbc.wowhead.com/item=29182,NA,22,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,10,Claw of the Netherwing Flight,Claw of the Netherwing Flight,Rare,130.65,108.15,NA,Ally of the Netherwing,1,https://tbc.wowhead.com/item=31492,NA,30,15,15,NULL,NULL,NULL,15,NA,NA,NA,NA,NA
-NA,11,Blazefury,Blazefury,Epic,125.99,98.99,Blacksmithing,Crafted,2,https://tbc.wowhead.com/item=28427,NA,NULL,19,18,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,Searing Sunblade,Searing Sunblade,Epic,125.04,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29275,NA,NULL,24,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,Stormforged Axe,Stormforged Axe,Rare,125.04,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=30087,NA,NULL,24,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,14,Talon of Anzu,Talon of Anzu,Rare,121.95,NULL,Sethekk Halls,Anzu,1,https://tbc.wowhead.com/item=32781,NA,36,10,NULL,NULL,NULL,NULL,NULL,Red,NA,NA,NA,NA
-NA,15,Big Bad Wolf's Paw,Big Bad Wolf's Paw,Epic,121.57,NULL,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28584,NA,NULL,17,NULL,20,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,2,The Night Blade,The Night Blade,Epic,152.25,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31331,NA,NULL,NULL,NULL,NULL,NULL,435,NULL,NA,NA,NA,NA,NA
+NA,3,Claw of the Phoenix,Claw of the Phoenix,Epic,149.41,NULL,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=29948,NA,40,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,4,Talon of Azshara,Talon of Azshara,Epic,148.15,118.15,Serpentshrine Cavern,Morogrim Tidewalker,2,https://tbc.wowhead.com/item=30082,NA,40,15,20,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,5,Guile of Khoraazi,Guile of Khoraazi,Epic,136.99,NULL,NA,NA,1,https://tbc.wowhead.com/item=29121,NA,38,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,6,Felsteel Longblade,Felsteel Longblade,Epic,135.46,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23540,NA,NULL,26,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,7,Emerald Ripper,Emerald Ripper,Epic,134.99,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28524,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,8,Direbrew's Shanker,Direbrew's Shanker,Epic,134.99,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=37597,NA,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,9,Stellaris,Stellaris,Rare,131.41,NULL,Mechanar,Nethermancer Sepethrea,1,https://tbc.wowhead.com/item=28263,NA,22,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,10,Riftmaker,Riftmaker,Epic,131.41,NULL,NA,Alurmi,1,https://tbc.wowhead.com/item=29182,NA,22,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,11,Claw of the Netherwing Flight,Claw of the Netherwing Flight,Rare,130.65,108.15,NA,Ally of the Netherwing,1,https://tbc.wowhead.com/item=31492,NA,30,15,15,NULL,NULL,NULL,15,NA,NA,NA,NA,NA
+NA,12,Blazefury,Blazefury,Epic,125.99,98.99,Blacksmithing,Crafted,2,https://tbc.wowhead.com/item=28427,NA,NULL,19,18,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,13,Searing Sunblade,Searing Sunblade,Epic,125.04,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29275,NA,NULL,24,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,Stormforged Axe,Stormforged Axe,Rare,125.04,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=30087,NA,NULL,24,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,Talon of Anzu,Talon of Anzu,Rare,121.95,NULL,Sethekk Halls,Anzu,1,https://tbc.wowhead.com/item=32781,NA,36,10,NULL,NULL,NULL,NULL,NULL,Red,NA,NA,NA,NA
 NA,NA,Two Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Legacy,Legacy,Epic,288.4,NULL,Karazhan,The Crone,1,https://tbc.wowhead.com/item=28587,NA,80,40,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,2,Terokk's Quill,Terokk's Quill,Rare,281.34,NULL,Terokkar Forest,Terokk's Legacy,1,https://tbc.wowhead.com/item=29329,NA,NULL,54,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA

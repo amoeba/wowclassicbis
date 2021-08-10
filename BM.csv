@@ -194,21 +194,21 @@ NA,13,Bladefist's Breadth,Bladefist's Breadth,Rare,73.3,NULL,Hellfire Peninsula,
 NA,14,Figurine - Felsteel Boar,Figurine - Felsteel Boar,Rare,68,NULL,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24124,NA,68,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,15,Ancient Draenei War Talisman,Ancient Draenei War Talisman,Uncommon,65.88,NULL,NA,The Vengeful Harbinger,0,https://tbc.wowhead.com/item=31617,NA,33.33,NULL,NULL,21,NULL,NULL,NULL,NA,NA,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
-NA,1,Talon of the Phoenix,Talon of the Phoenix,Epic,103.95,81.45,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=32944,NA,52,NULL,15,19,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,2,Talon of Azshara,Talon of Azshara,Epic,100.75,70.75,Serpentshrine Cavern,Morogrim Tidewalker,2,https://tbc.wowhead.com/item=30082,NA,40,15,20,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,3,Vengeful Gladiator's Hacker,Vengeful Gladiator's Hacker,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33689,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
-NA,4,Vengeful Gladiator's Left Ripper,Vengeful Gladiator's Left Ripper,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33705,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
-NA,5,Vengeful Gladiator's Quickblade,Vengeful Gladiator's Quickblade,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33734,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
-NA,6,Vengeful Gladiator's Shiv,Vengeful Gladiator's Shiv,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33756,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
-NA,7,Vengeful Gladiator's Mutilator,Vengeful Gladiator's Mutilator,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33801,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
-NA,8,Vengeful Gladiator's Chopper,Vengeful Gladiator's Chopper,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=34015,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
-NA,9,Vengeful Gladiator's Left Render,Vengeful Gladiator's Left Render,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=34016,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
-NA,10,Illidari-Bane Broadsword (Demon),Illidari-Bane Broadsword (Demon),Rare,93,NULL,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=30788,NA,93,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,11,Illidari-Bane Dagger (Demon),Illidari-Bane Dagger (Demon),Rare,93,NULL,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=31745,NA,93,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,12,Netherbane,Netherbane,Epic,91.25,NULL,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=29924,NA,40,25,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,13,Wicked Edge of the Planes,Wicked Edge of the Planes,Epic,83.65,NULL,Blacksmithing,Crafted,2,https://tbc.wowhead.com/item=28433,NA,48,NULL,NULL,23,NULL,NULL,NULL,NA,NA,NA,NA,NA
-NA,14,Claw of the Netherwing Flight,Claw of the Netherwing Flight,Rare,83.25,60.75,NA,Ally of the Netherwing,1,https://tbc.wowhead.com/item=31492,NA,30,15,15,NULL,NULL,NULL,15,NA,NA,NA,NA,NA
-NA,15,Claw of the Phoenix,Claw of the Phoenix,Epic,83.05,NULL,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=29948,NA,40,21,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,1,The Night Blade,The Night Blade,Epic,130.5,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31331,NA,NULL,NULL,NULL,NULL,NULL,435,NULL,NA,NA,NA,NA,NA
+NA,2,Talon of the Phoenix,Talon of the Phoenix,Epic,103.95,81.45,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=32944,NA,52,NULL,15,19,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,3,Talon of Azshara,Talon of Azshara,Epic,100.75,70.75,Serpentshrine Cavern,Morogrim Tidewalker,2,https://tbc.wowhead.com/item=30082,NA,40,15,20,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,4,Vengeful Gladiator's Hacker,Vengeful Gladiator's Hacker,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33689,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
+NA,5,Vengeful Gladiator's Left Ripper,Vengeful Gladiator's Left Ripper,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33705,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
+NA,6,Vengeful Gladiator's Quickblade,Vengeful Gladiator's Quickblade,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33734,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
+NA,7,Vengeful Gladiator's Shiv,Vengeful Gladiator's Shiv,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33756,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
+NA,8,Vengeful Gladiator's Mutilator,Vengeful Gladiator's Mutilator,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=33801,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
+NA,9,Vengeful Gladiator's Chopper,Vengeful Gladiator's Chopper,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=34015,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
+NA,10,Vengeful Gladiator's Left Render,Vengeful Gladiator's Left Render,Epic,93.25,81.25,Season 3,PvP,2,https://tbc.wowhead.com/item=34016,NA,34,NULL,8,21,NULL,49,NULL,NA,NA,NA,NA,NA
+NA,11,Illidari-Bane Broadsword (Demon),Illidari-Bane Broadsword (Demon),Rare,93,NULL,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=30788,NA,93,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,12,Illidari-Bane Dagger (Demon),Illidari-Bane Dagger (Demon),Rare,93,NULL,NA,Quenching the Blade,1,https://tbc.wowhead.com/item=31745,NA,93,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,13,Netherbane,Netherbane,Epic,91.25,NULL,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=29924,NA,40,25,NULL,NULL,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,14,Wicked Edge of the Planes,Wicked Edge of the Planes,Epic,83.65,NULL,Blacksmithing,Crafted,2,https://tbc.wowhead.com/item=28433,NA,48,NULL,NULL,23,NULL,NULL,NULL,NA,NA,NA,NA,NA
+NA,15,Claw of the Netherwing Flight,Claw of the Netherwing Flight,Rare,83.25,60.75,NA,Ally of the Netherwing,1,https://tbc.wowhead.com/item=31492,NA,30,15,15,NULL,NULL,NULL,15,NA,NA,NA,NA,NA
 NA,NA,Two Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,socket,NA,NA,NA,NA
 NA,1,Twinblade of the Phoenix,Twinblade of the Phoenix,Epic,211.5,NULL,Tempest Keep,Kael'thas Sunstrider,2,https://tbc.wowhead.com/item=29993,NA,110,NULL,NULL,37,NULL,NULL,NULL,Red,Yellow,Blue,NA,NA
 NA,2,Illidari-Bane Claymore (Demon),Illidari-Bane Claymore (Demon),Rare,207.35,NULL,Shadowmoon Valley,Quenching the Blade,1,https://tbc.wowhead.com/item=30789,NA,150,NULL,NULL,37,NULL,NULL,NULL,NA,NA,NA,NA,NA
