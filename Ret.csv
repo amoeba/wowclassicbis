@@ -183,8 +183,8 @@ NA,2,Tsunami Talisman,Tsunami Talisman,Epic,56.727046,41.666046,Serpentshrine Ca
 NA,3,Romulo's Poison Vial,Romulo's Poison Vial,Epic,52.7135,0,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28579,NA,NULL,NULL,NULL,35,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,4,Icon of Unyielding Courage,Icon of Unyielding Courage,Rare,52.483,7.3,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=28121,NA,NULL,NULL,NULL,30,NULL,NULL,100,NULL,NA,NA,NULL,NA,NA,NA
 NA,5,Drake Fang Talisman,Drake Fang Talisman,Epic,47.2188,17.0968,Blackwing Lair,Ebonroc,0,https://tbc.wowhead.com/item=19406,NA,56,NULL,NULL,20,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,6,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,45.795,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23206,NA,150,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
-NA,7,Kiss of the Spider,Kiss of the Spider,Epic,42.8857,27.8247,Classic,NA,0,https://tbc.wowhead.com/item=22954,NA,NULL,NULL,NULL,10,14,25,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,6,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,45.795,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23206,NA,150,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
+NA,7,Kiss of the Spider,Kiss of the Spider,Epic,42.8857,27.8247,Naxxramas,Maexxna,0,https://tbc.wowhead.com/item=22954,NA,NULL,NULL,NULL,10,14,25,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,8,Terokkar Tablet of Precision,Terokkar Tablet of Precision,Uncommon,40.256849,7.122649,Terokkar Forest,Torgos!,1,https://tbc.wowhead.com/item=25937,NA,23.33,NULL,NULL,22,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,9,Terokkar Tablet of Precision,Terokkar Tablet of Precision,Uncommon,40.1561,7.0219,Taela Everstride,Torgos!,1,https://tbc.wowhead.com/item=25937,NA,23,NULL,NULL,22,NULL,NULL,NULL,NULL,NA,NA,NULL,NA,NA,NA
 NA,10,Abacus of Violent Odds,Abacus of Violent Odds,Rare,36.363415,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28288,NA,64,NULL,NULL,NULL,NULL,21.65,NULL,NULL,NA,NA,NULL,NA,NA,NA

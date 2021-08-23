@@ -178,7 +178,7 @@ NA,13,Shattrath Jumpers,Shattrath Jumpers,Rare,65.88,NULL,NA,Into the Heart of t
 NA,14,Shimmering Azure Boots,Shimmering Azure Boots,Uncommon,61.9,37.9,NA,Securing the Celestial Ridge,0,https://tbc.wowhead.com/item=29808,NA,23,19,16,NULL,NULL,NA,NA,NA
 NA,15,Boots of the Nexus Warden,Boots of the Nexus Warden,Uncommon,61.42,34.42,NA,The Flesh Lies...,1,https://tbc.wowhead.com/item=30519,NA,21,17,18,NULL,NULL,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,SP,int,hit,crit,haste,Sockets,NA,NA
-NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,102.85,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,102.85,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,2,Sextant of Unstable Currents,Sextant of Unstable Currents,Epic,95.92,NULL,Serpentshrine Cavern,Fathom-Lord Karathress,2,https://tbc.wowhead.com/item=30626,NA,48,NULL,NULL,40,NULL,NA,NA,NA
 NA,3,Quagmirran's Eye,Quagmirran's Eye,Rare,88.162,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,38.4,NA,NA,NA
 NA,4,Eye of Magtheridon,Eye of Magtheridon,Epic,85.91,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,71,NULL,NULL,NULL,NULL,NA,NA,NA
@@ -187,7 +187,7 @@ NA,6,Serpent-Coil Braid,Serpent-Coil Braid,Epic,80.26,62.26,Serpentshrine Cavern
 NA,7,Scryer's Bloodgem,Scryer's Bloodgem,Rare,78.25,30.25,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,25,NULL,32,NULL,NULL,NA,NA,NA
 NA,8,Shiffar's Nexus-Horn,Shiffar's Nexus-Horn,Rare,77.99,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28418,NA,41,NULL,NULL,30,NULL,NA,NA,NA
 NA,9,Neltharion's Tear,Neltharion's Tear,Epic,77.24,53.24,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,44,NULL,16,NULL,NULL,NA,NA,NA
-NA,10,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,75.02,NULL,Classic,NA,0,https://tbc.wowhead.com/item=23046,NA,62,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,10,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,75.02,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23046,NA,62,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,11,Arcanist's Stone,Arcanist's Stone,Rare,72.59,35.09,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28223,NA,29,NULL,25,NULL,NULL,NA,NA,NA
 NA,12,Starkiller's Bauble,Starkiller's Bauble,Uncommon,64.2043,25.2043,NA,The Horrors of Pollution,0,https://tbc.wowhead.com/item=30340,NA,20.83,NULL,26,NULL,NULL,NA,NA,NA
 NA,13,Xi'ri's Gift,Xi'ri's Gift,Rare,60.522,NULL,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,25,NULL,NULL,32,NULL,NA,NA,NA

@@ -71,9 +71,9 @@ NA,2,Nordrassil Chestpiece,Nordrassil Chestpiece,Epic,134.66,111.86,Tempest Keep
 NA,3,Spellfire Robe (Fire/Arcane),Spellfire Robe (Fire/Arcane),Epic,113.26,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21848,NA,72,17,NULL,28,NULL,Yellow,Blue,NA
 NA,4,Chestpiece of Malorne,Chestpiece of Malorne,Epic,112.52,89.72,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29091,NA,46,27,19,NULL,NULL,Yellow,Yellow,Blue
 NA,5,Robe of Hateful Echoes,Robe of Hateful Echoes,Epic,105.68,NULL,Serpentshrine Cavern,Hydross the Unstable,2,https://tbc.wowhead.com/item=30056,NA,50,36,NULL,25,NULL,Red,Yellow,Yellow
-NA,6,Robe of the Crimson Order,Robe of the Crimson Order,Rare,94.74,58.74,NA,NA,1,https://tbc.wowhead.com/item=31297,NA,50,23,30,NULL,NULL,NA,NA,NA
-NA,7,Auchenai Anchorite's Robe,Auchenai Anchorite's Robe,Rare,91.72,64.12,Terokkar Forest,Everything Will Be Alright,1,https://tbc.wowhead.com/item=29341,NA,28,24,23,NULL,NULL,Yellow,Yellow,Red
-NA,8,Windhawk Hauberk,Windhawk Hauberk,Epic,91.28,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29522,NA,32,29,NULL,19,NULL,Blue,Yellow,Blue
+NA,6,Windhawk Hauberk,Windhawk Hauberk,Epic,105.28,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29522,NA,46,29,NULL,19,NULL,Blue,Yellow,Blue
+NA,7,Robe of the Crimson Order,Robe of the Crimson Order,Rare,94.74,58.74,NA,NA,1,https://tbc.wowhead.com/item=31297,NA,50,23,30,NULL,NULL,NA,NA,NA
+NA,8,Auchenai Anchorite's Robe,Auchenai Anchorite's Robe,Rare,91.72,64.12,Terokkar Forest,Everything Will Be Alright,1,https://tbc.wowhead.com/item=29341,NA,28,24,23,NULL,NULL,Yellow,Yellow,Red
 NA,9,Merciless Gladiator's Wyrmhide Tunic,Merciless Gladiator's Wyrmhide Tunic,Epic,88.6,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=32060,NA,49,24,NULL,NULL,NULL,Red,Red,Yellow
 NA,10,Gladiator's Wyrmhide Tunic,Gladiator's Wyrmhide Tunic,Epic,84.84,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28140,NA,46,22,NULL,NULL,NULL,Red,Red,Yellow
 NA,11,Will of Edward the Odd,Will of Edward the Odd,Epic,82.4,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31340,NA,53,30,NULL,30,NULL,NA,NA,NA
@@ -84,12 +84,12 @@ NA,15,Mana-Etched Vestments,Mana-Etched Vestments,Rare,75.7,NULL,Old Hillsbrad F
 NA,NA,Wrist,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,1,Ravager's Cuffs of Wrath,Ravager's Cuffs of Wrath,Epic,59,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,59,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,2,Mindstorm Wristbands,Mindstorm Wristbands,Epic,54.74,NULL,Tempest Keep,Al'ar,2,https://tbc.wowhead.com/item=29918,NA,36,13,NULL,23,NULL,NA,NA,NA
-NA,3,Illidari Bindings of Wrath,Illidari Bindings of Wrath,Rare,47,NULL,Shadowmoon Valley,Ambassador Jerrikar,1,https://tbc.wowhead.com/item=31225/illidari-bindings,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,4,Ravager's Cuffs of the Invoker,Ravager's Cuffs of the Invoker,Epic,46.56,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,25,22,NULL,22,NULL,NA,NA,NA
-NA,5,Veteran's Silk Cuffs,Veteran's Silk Cuffs,Epic,46.24,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=32820,NA,22,18,NULL,14,NULL,Yellow,NA,NA
-NA,6,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,45,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,7,Bracers of Havok,Bracers of Havok,Rare,43.56,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,Yellow,NA,NA
-NA,8,Windhawk Bracers,Windhawk Bracers,Epic,43.44,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29523,NA,16,17,NULL,16,NULL,Yellow,NA,NA
+NA,3,Windhawk Bracers,Windhawk Bracers,Epic,54.44,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29523,NA,27,17,NULL,16,NULL,Yellow,NA,NA
+NA,4,Illidari Bindings of Wrath,Illidari Bindings of Wrath,Rare,47,NULL,Shadowmoon Valley,Ambassador Jerrikar,1,https://tbc.wowhead.com/item=31225/illidari-bindings,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,5,Ravager's Cuffs of the Invoker,Ravager's Cuffs of the Invoker,Epic,46.56,NULL,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,25,22,NULL,22,NULL,NA,NA,NA
+NA,6,Veteran's Silk Cuffs,Veteran's Silk Cuffs,Epic,46.24,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=32820,NA,22,18,NULL,14,NULL,Yellow,NA,NA
+NA,7,Elementalist Bracelets of Wrath,Elementalist Bracelets of Wrath,Uncommon,45,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=24692,NA,45,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,8,Bracers of Havok,Bracers of Havok,Rare,43.56,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24250,NA,30,12,NULL,NULL,NULL,Yellow,NA,NA
 NA,9,Crimson Bracers of Gloom,Crimson Bracers of Gloom,Rare,43.24,28.84,Hellfire Ramparts,Omor the Unscarred,1,https://tbc.wowhead.com/item=27462,NA,22,18,12,NULL,NULL,NA,NA,NA
 NA,10,General's Silk Cuffs,General's Silk Cuffs,Epic,42.66,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28411,NA,20,17,NULL,12,NULL,Yellow,NA,NA
 NA,11,Marshal's Silk Cuffs,Marshal's Silk Cuffs,Epic,42.66,NULL,NA,PvP,1,https://tbc.wowhead.com/item=29002,NA,20,17,NULL,12,NULL,Yellow,NA,NA
@@ -118,11 +118,11 @@ NA,1,Belt of Blasting,Belt of Blasting,Epic,113.6,86,Tailoring,Crafted,2,https:/
 NA,2,Cord of Screaming Terrors,Cord of Screaming Terrors,Epic,102.5,73.7,Serpentshrine Cavern,The Lurker Below,2,https://tbc.wowhead.com/item=30064,NA,50,15,24,NULL,NULL,Yellow,Yellow,NA
 NA,3,Spellfire Belt (Fire/Arcane),Spellfire Belt (Fire/Arcane),Epic,85.64,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21846,NA,50,18,NULL,18,NULL,Yellow,Blue,NA
 NA,4,Lurker's Cord of the Wrath,Lurker's Cord of the Wrath,Epic,79,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30675/lurkers-cord,NA,79,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,5,Girdle of Ruination,Girdle of Ruination,Epic,73.94,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24256,NA,39,13,NULL,20,NULL,Red,Yellow,NA
-NA,6,Belt of Divine Inspiration,Belt of Divine Inspiration,Epic,70.88,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28799,NA,43,26,NULL,NULL,NULL,Yellow,Blue,NA
-NA,7,Belt of Depravity,Belt of Depravity,Epic,64.66,44.26,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29241,NA,34,27,17,NULL,NULL,NA,NA,NA
-NA,8,Lurker's Cord of Invoker,Lurker's Cord of Invoker,Epic,62.42,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30675/lurkers-cord,NA,34,29,NULL,29,NULL,NA,NA,NA
-NA,9,Windhawk Belt,Windhawk Belt,Epic,62.22,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29524,NA,23,19,NULL,12,NULL,Blue,Yellow,NA
+NA,5,Windhawk Belt,Windhawk Belt,Epic,76.22,NULL,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29524,NA,37,19,NULL,12,NULL,Blue,Yellow,NA
+NA,6,Girdle of Ruination,Girdle of Ruination,Epic,73.94,NULL,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24256,NA,39,13,NULL,20,NULL,Red,Yellow,NA
+NA,7,Belt of Divine Inspiration,Belt of Divine Inspiration,Epic,70.88,NULL,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28799,NA,43,26,NULL,NULL,NULL,Yellow,Blue,NA
+NA,8,Belt of Depravity,Belt of Depravity,Epic,64.66,44.26,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=29241,NA,34,27,17,NULL,NULL,NA,NA,NA
+NA,9,Lurker's Cord of Invoker,Lurker's Cord of Invoker,Epic,62.42,NULL,Karazhan,Hyakiss the Lurker,1,https://tbc.wowhead.com/item=30675/lurkers-cord,NA,34,29,NULL,29,NULL,NA,NA,NA
 NA,10,Glyph-Lined Sash,Glyph-Lined Sash,Rare,62.14,NULL,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27843,NA,30,23,NULL,9,NULL,Yellow,Yellow,NA
 NA,11,Malefic Girdle,Malefic Girdle,Epic,59.48,NULL,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28654,NA,37,26,NULL,21,NULL,NA,NA,NA
 NA,12,Veteran's Silk Belt,Veteran's Silk Belt,Epic,58.46,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=32807,NA,32,27,NULL,27,NULL,NA,NA,NA
@@ -178,14 +178,14 @@ NA,13,Boots of the Infernal Coven,Boots of the Infernal Coven,Epic,52.08,NULL,Ka
 NA,14,General's Silk Footguards,General's Silk Footguards,Epic,51.14,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=28410,NA,28,23,NULL,24,NULL,NA,NA,NA
 NA,15,Marshal's Silk Footguards,Marshal's Silk Footguards,Epic,51.14,NULL,NA,PvP,1,https://tbc.wowhead.com/item=29003,NA,28,23,NULL,24,NULL,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,85,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,85,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,2,Sextant of Unstable Currents,Sextant of Unstable Currents,Epic,72,NULL,Serpentshrine Cavern,Fathom-Lord Karathress,2,https://tbc.wowhead.com/item=30626,NA,48,NULL,NULL,40,NULL,NA,NA,NA
 NA,3,Eye of Magtheridon,Eye of Magtheridon,Epic,71,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,71,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,4,Icon of the Silver Crescent,Icon of the Silver Crescent,Epic,69,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29370,NA,69,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,5,Quagmirran's Eye,Quagmirran's Eye,Rare,67.72,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,38.4,NA,NA,NA
 NA,6,Scryer's Bloodgem,Scryer's Bloodgem,Rare,63.4,25,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,25,NULL,32,NULL,NULL,NA,NA,NA
 NA,7,Neltharion's Tear,Neltharion's Tear,Epic,63.2,44,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,44,NULL,16,NULL,NULL,NA,NA,NA
-NA,8,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,62,NULL,Classic,NA,0,https://tbc.wowhead.com/item=23046,NA,62,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,8,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,62,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23046,NA,62,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,9,Living Root of the Wildheart (OWL),Living Root of the Wildheart (OWL),Epic,60,NULL,Serpentshrine Cavern,Hydross the Unstable,2,https://tbc.wowhead.com/item=30664,NA,60,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,10,Arcanist's Stone,Arcanist's Stone,Rare,59,29,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28223,NA,29,NULL,25,NULL,NULL,NA,NA,NA
 NA,11,Shiffar's Nexus-Horn,Shiffar's Nexus-Horn,Rare,59,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28418,NA,41,NULL,NULL,30,NULL,NA,NA,NA

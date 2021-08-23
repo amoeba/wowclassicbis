@@ -181,14 +181,14 @@ NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,ap,agi,hit,crit,haste,arp,exp,soc
 NA,1,Dragonspine Trophy,Dragonspine Trophy,Epic,316.9,NULL,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28830,NA,40,NULL,NULL,NULL,130,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,2,Warp-Spring Coil,Warp-Spring Coil,Epic,200.82,150,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=30450,NA,NULL,NULL,21,NULL,NULL,500,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,3,Tsunami Talisman,Tsunami Talisman,Epic,151.38,127.18,Serpentshrine Cavern,Leotheras the Blind,2,https://tbc.wowhead.com/item=30627,NA,61.82,NULL,10,38,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,4,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,150,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23206,NA,150,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,4,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,150,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23206,NA,150,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,5,Bloodlust Brooch,Bloodlust Brooch,Epic,118,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29383,NA,118,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,6,Abacus of Violent Odds,Abacus of Violent Odds,Rare,110.1145,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28288,NA,64,NULL,NULL,NULL,21.65,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,7,Slayer's Crest,Slayer's Crest,Epic,107,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23041,NA,107,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,8,Hourglass of the Unraveller,Hourglass of the Unraveller,Rare,105.04,NULL,Black Morass,Temporus,1,https://tbc.wowhead.com/item=28034,NA,50,NULL,NULL,32,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,9,Drake Fang Talisman,Drake Fang Talisman,Epic,104.4,56,Blackwing Lair,Ebonroc,0,https://tbc.wowhead.com/item=19406,NA,56,NULL,20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,10,Icon of Unyielding Courage,Icon of Unyielding Courage,Rare,102.6,30,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=28121,NA,NULL,NULL,30,NULL,NULL,100,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,11,Kiss of the Spider,Kiss of the Spider,Epic,101.53,77.33,Classic,NA,0,https://tbc.wowhead.com/item=22954,NA,NULL,NULL,10,14,25,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,11,Kiss of the Spider,Kiss of the Spider,Epic,101.53,77.33,Naxxramas,Maexxna,0,https://tbc.wowhead.com/item=22954,NA,NULL,NULL,10,14,25,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,12,Core of Ar'kelos,Core of Ar'kelos,Uncommon,85,NULL,Archmage Vargoth,Ar'kelos the Guardian,1,https://tbc.wowhead.com/item=29776,NA,85,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,13,Romulo's Poison Vial,Romulo's Poison Vial,Epic,84.7,0,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28579,NA,NULL,NULL,35,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,14,Bladefist's Breadth,Bladefist's Breadth,Rare,77.72,NULL,Hellfire Peninsula,Overlord,1,https://tbc.wowhead.com/item=28041,NA,33,NULL,NULL,26,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA

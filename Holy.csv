@@ -186,12 +186,12 @@ NA,6,Figurine - Talasite Owl,Figurine - Talasite Owl,Rare,122.699,Jewelcrafting,
 NA,7,Lower City Prayerbook,Lower City Prayerbook,Rare,116.541,Lower City,Revered,1,https://tbc.wowhead.com/item=30841,NA,70,NULL,NULL,NA,NULL,11,NA,NA,NA
 NA,8,Essence of the Martyr,Essence of the Martyr,Epic,114,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29376,NA,114,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,9,Warp-Scarab Brooch,Warp-Scarab Brooch,Rare,102.003,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27828,NA,47,NULL,NULL,NA,NULL,13,NA,NA,NA
-NA,10,Warmth of Forgiveness,Warmth of Forgiveness,Epic,101.544,Classic,NA,0,https://tbc.wowhead.com/item=23027,NA,NULL,NULL,NULL,NA,NULL,24,NA,NA,NA
-NA,11,Eye of the Dead,Eye of the Dead,Epic,90,Classic,NA,0,https://tbc.wowhead.com/item=23047,NA,90,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,12,Fel Reaver's Piston,Fel Reaver's Piston,Epic,87.696,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=30619,NA,20,NULL,NULL,NA,NULL,16,NA,NA,NA
-NA,13,Heavenly Inspiration,Heavenly Inspiration,Uncommon,81.98,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NA,NULL,10,NA,NA,NA
-NA,14,Ribbon of Sacrifice,Ribbon of Sacrifice,Epic,73,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28590,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,15,Quagmirran's Eye,Quagmirran's Eye,Rare,71.808,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,NULL,NULL,NULL,NA,38.4,NULL,NA,NA,NA
+NA,10,Warmth of Forgiveness,Warmth of Forgiveness,Epic,101.544,Naxxramas,Four Horsemen,0,https://tbc.wowhead.com/item=23027,NA,NULL,NULL,NULL,NA,NULL,24,NA,NA,NA
+NA,11,Eye of the Dead,Eye of the Dead,Epic,90,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23047,NA,90,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,12,Oshu'gun Relic,Oshu'gun Relic,Uncommon,88.5,Nagrand,Gava'xi,1,https://tbc.wowhead.com/item=25634/oshugun-relic,NA,88.5,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,13,Fel Reaver's Piston,Fel Reaver's Piston,Epic,87.696,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=30619,NA,20,NULL,NULL,NA,NULL,16,NA,NA,NA
+NA,14,Heavenly Inspiration,Heavenly Inspiration,Uncommon,81.98,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NA,NULL,10,NA,NA,NA
+NA,15,Ribbon of Sacrifice,Ribbon of Sacrifice,Epic,73,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28590,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Lightfathom Scepter,Lightfathom Scepter,Epic,532.741,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30108,NA,443,20,NULL,NA,NULL,11,NA,NA,NA
 NA,2,Merciless Gladiator's Salvation,Merciless Gladiator's Salvation,Epic,468.68,Season 2,PvP,2,https://tbc.wowhead.com/item=32964,NA,423,21,NULL,NA,NULL,NULL,NA,NA,NA

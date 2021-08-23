@@ -178,10 +178,10 @@ NA,13,Veteran's Scaled Greaves,Veteran's Scaled Greaves,Epic,100.084,NULL,Season
 NA,14,Ironstriders of Urgency,Ironstriders of Urgency,Epic,98.042,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28608,NA,997,28,NULL,NULL,NULL,NULL,NULL,NULL,20,NULL,NULL,NULL,Red,Yellow,NA
 NA,15,Veteran's Ornamented Greaves,Veteran's Ornamented Greaves,Epic,96.4,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=32990,NA,1172,39,NULL,NULL,NULL,NULL,NULL,27,NULL,NULL,NULL,NULL,NULL,NULL,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket,NULL,NA
-NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,59.5,NULL,NA,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,NULL,NULL,NULL,NULL,NULL,NULL,85,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,59.5,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,NULL,NULL,NULL,NULL,NULL,NULL,85,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
 NA,2,Eye of Magtheridon,Eye of Magtheridon,Epic,49.7,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,NULL,NULL,NULL,NULL,NULL,NULL,71,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
 NA,3,Icon of the Silver Crescent,Icon of the Silver Crescent,Epic,48.3,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29370,NA,NULL,NULL,NULL,NULL,NULL,NULL,69,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,4,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,43.4,NULL,Classic,NA,0,https://tbc.wowhead.com/item=23046,NA,NULL,NULL,NULL,NULL,NULL,NULL,62,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,4,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,43.4,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23046,NA,NULL,NULL,NULL,NULL,NULL,NULL,62,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
 NA,5,Goblin Rocket Launcher,Goblin Rocket Launcher,Rare,40.5,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23836,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
 NA,6,Gnomish Poultryizer,Gnomish Poultryizer,Rare,40.5,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23835,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
 NA,7,Commander's Badge,Commander's Badge,Rare,40.5,NULL,Shadowmoon Valley,"Hail, Commander!",1,https://tbc.wowhead.com/item=32864,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
