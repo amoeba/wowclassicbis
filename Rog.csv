@@ -233,7 +233,7 @@ NA,20,Spiteblade,Spiteblade,Epic,858.46,NULL,Karazhan,Netherspite,1,https://tbc.
 NA,21,Gladiator's Shanker,Gladiator's Shanker,Epic,858.38,836.6,Season 1,PvP,1,https://tbc.wowhead.com/item=28312,NA,One Hand,Dagger,91.1,1.8,28,NULL,9,15,NULL,NULL,NULL,NA,NA,NA
 NA,22,Big Bad Wolf's Paw,Big Bad Wolf's Paw,Epic,847.43,NULL,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28584,NA,Main Hand,Fist,87.6,2.5,NULL,17,NULL,20,NULL,NULL,NULL,NA,NA,NA
 NA,23,Direbrew's Shanker,Direbrew's Shanker,Epic,837.61,NULL,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=37597,NA,One Hand,Dagger,87.5,2,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,24,The Night Blade,The Night Blade,Epic,835.7,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31331,NA,One Hand,Dagger,81.4,1.8,NULL,NULL,NULL,NULL,NULL,435,NULL,NA,NA,NA
+NA,24,The Night Blade (melee proc),The Night Blade (melee proc),Epic,835.7,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31331,NA,One Hand,Dagger,81.4,1.8,NULL,NULL,NULL,NULL,NULL,435,NULL,NA,NA,NA
 NA,25,Emerald Ripper,Emerald Ripper,Epic,831.61,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28524,NA,One Hand,Dagger,87.5,1.8,36,19,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,26,Vindicator's Brand,Vindicator's Brand,Epic,811.58,765.6,Quartermaster Endarin,NA,1,https://tbc.wowhead.com/item=29124,NA,One Hand,Sword,81.2,2.6,38,NULL,19,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,27,Blinkstrike,Blinkstrike,Epic,792.4,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31332,NA,One Hand,Sword,89.3,2.6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
@@ -259,7 +259,7 @@ NA,15,Searing Sunblade,Searing Sunblade,Epic,96.68,NULL,Badge of Justice,G'eras,
 NA,16,Blade of the Unrequited,Blade of the Unrequited,Epic,96.56,NULL,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28572,NA,One Hand,Dagger,87.5,1.6,18,NULL,NULL,9,NULL,NULL,NULL,Red,Yellow,Blue
 NA,17,Blazeguard,Blazeguard,Epic,94.01,82.45,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=28426,NA,One Hand,Sword,91.3,1.6,NULL,17,17,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,18,Merciless Gladiator's Shanker,Merciless Gladiator's Shanker,Epic,89.88,83.08,Season 2,PvP,2,https://tbc.wowhead.com/item=32044,NA,One Hand,Dagger,97.5,1.8,30,NULL,10,19,NULL,NULL,NULL,NA,NA,NA
-NA,19,The Night Blade,The Night Blade,Epic,88.42,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31331,NA,One Hand,Dagger,81.4,1.8,NULL,NULL,NULL,NULL,NULL,435,NULL,NA,NA,NA
+NA,19,The Night Blade (melee proc),The Night Blade (melee proc),Epic,88.42,NULL,NA,World Drop,1,https://tbc.wowhead.com/item=31331,NA,One Hand,Dagger,81.4,1.8,NULL,NULL,NULL,NULL,NULL,435,NULL,NA,NA,NA
 NA,20,Latro's Shifting Sword,Latro's Shifting Sword,Rare,86.99,NULL,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28189,NA,One Hand,Sword,71.8,1.4,26,15,NULL,NULL,NULL,NULL,14,NA,NA,NA
 NA,21,Warp Splinter's Thorn,Warp Splinter's Thorn,Rare,76.54,66.34,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28345,NA,One Hand,Dagger,71.5,1.3,NULL,16,15,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,22,Malchazeen,Malchazeen,Epic,73.62,63.42,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28768,NA,One Hand,Dagger,91.9,1.8,50,NULL,15,NULL,NULL,NULL,NULL,NA,NA,NA
