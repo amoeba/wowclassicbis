@@ -179,20 +179,20 @@ NA,14,Shimmering Azure Boots,Shimmering Azure Boots,Uncommon,61.9,37.9,NA,Securi
 NA,15,Boots of the Nexus Warden,Boots of the Nexus Warden,Uncommon,61.42,34.42,NA,The Flesh Lies...,1,https://tbc.wowhead.com/item=30519,NA,21,17,18,NULL,NULL,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,SP,int,hit,crit,haste,Sockets,NA,NA
 NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,102.85,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Sextant of Unstable Currents,Sextant of Unstable Currents,Epic,95.92,NULL,Serpentshrine Cavern,Fathom-Lord Karathress,2,https://tbc.wowhead.com/item=30626,NA,48,NULL,NULL,40,NULL,NA,NA,NA
-NA,3,Quagmirran's Eye,Quagmirran's Eye,Rare,88.162,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,38.4,NA,NA,NA
-NA,4,Eye of Magtheridon,Eye of Magtheridon,Epic,85.91,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,71,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,5,Icon of the Silver Crescent,Icon of the Silver Crescent,Epic,83.49,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29370,NA,69,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,6,Serpent-Coil Braid,Serpent-Coil Braid,Epic,80.26,62.26,Serpentshrine Cavern,Morogrim Tidewalker,2,https://tbc.wowhead.com/item=30720,NA,28,NULL,12,30,NULL,NA,NA,NA
-NA,7,Scryer's Bloodgem,Scryer's Bloodgem,Rare,78.25,30.25,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,25,NULL,32,NULL,NULL,NA,NA,NA
-NA,8,Shiffar's Nexus-Horn,Shiffar's Nexus-Horn,Rare,77.99,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28418,NA,41,NULL,NULL,30,NULL,NA,NA,NA
-NA,9,Neltharion's Tear,Neltharion's Tear,Epic,77.24,53.24,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,44,NULL,16,NULL,NULL,NA,NA,NA
-NA,10,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,75.02,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23046,NA,62,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,11,Arcanist's Stone,Arcanist's Stone,Rare,72.59,35.09,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28223,NA,29,NULL,25,NULL,NULL,NA,NA,NA
-NA,12,Starkiller's Bauble,Starkiller's Bauble,Uncommon,64.2043,25.2043,NA,The Horrors of Pollution,0,https://tbc.wowhead.com/item=30340,NA,20.83,NULL,26,NULL,NULL,NA,NA,NA
-NA,13,Xi'ri's Gift,Xi'ri's Gift,Rare,60.522,NULL,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,25,NULL,NULL,32,NULL,NA,NA,NA
-NA,14,Ancient Crystal Talisman,Ancient Crystal Talisman,Uncommon,52.03,NULL,Seer Janidi,A Spirit Ally?,1,https://tbc.wowhead.com/item=25620,NA,43,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,15,Terokkar Tablet of Vim,Terokkar Tablet of Vim,Uncommon,49.94,16.94,Terokkar Forest,Torgos!,1,https://tbc.wowhead.com/item=25936,NA,14,NULL,22,NULL,NULL,NA,NA,NA
+NA,2,Darkmoon Card: Crusade,Darkmoon Card: Crusade,Epic,96.8,NULL,Darkmoon Faire,NA,2,https://tbc.wowhead.com/item=31856,NA,80,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,3,Sextant of Unstable Currents,Sextant of Unstable Currents,Epic,95.92,NULL,Serpentshrine Cavern,Fathom-Lord Karathress,2,https://tbc.wowhead.com/item=30626,NA,48,NULL,NULL,40,NULL,NA,NA,NA
+NA,4,Quagmirran's Eye,Quagmirran's Eye,Rare,88.162,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,38.4,NA,NA,NA
+NA,5,Eye of Magtheridon,Eye of Magtheridon,Epic,85.91,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,71,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,6,Icon of the Silver Crescent,Icon of the Silver Crescent,Epic,83.49,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29370,NA,69,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,7,Serpent-Coil Braid,Serpent-Coil Braid,Epic,80.26,62.26,Serpentshrine Cavern,Morogrim Tidewalker,2,https://tbc.wowhead.com/item=30720,NA,28,NULL,12,30,NULL,NA,NA,NA
+NA,8,Scryer's Bloodgem,Scryer's Bloodgem,Rare,78.25,30.25,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,25,NULL,32,NULL,NULL,NA,NA,NA
+NA,9,Shiffar's Nexus-Horn,Shiffar's Nexus-Horn,Rare,77.99,NULL,Arcatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28418,NA,41,NULL,NULL,30,NULL,NA,NA,NA
+NA,10,Neltharion's Tear,Neltharion's Tear,Epic,77.24,53.24,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,44,NULL,16,NULL,NULL,NA,NA,NA
+NA,11,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,75.02,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23046,NA,62,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,12,Arcanist's Stone,Arcanist's Stone,Rare,72.59,35.09,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=28223,NA,29,NULL,25,NULL,NULL,NA,NA,NA
+NA,13,Starkiller's Bauble,Starkiller's Bauble,Uncommon,64.2043,25.2043,NA,The Horrors of Pollution,0,https://tbc.wowhead.com/item=30340,NA,20.83,NULL,26,NULL,NULL,NA,NA,NA
+NA,14,Xi'ri's Gift,Xi'ri's Gift,Rare,60.522,NULL,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,25,NULL,NULL,32,NULL,NA,NA,NA
+NA,15,Ancient Crystal Talisman,Ancient Crystal Talisman,Uncommon,52.03,NULL,Seer Janidi,A Spirit Ally?,1,https://tbc.wowhead.com/item=25620,NA,43,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,SP,int,hit,crit,haste,Sockets,NA,NA
 NA,1,Merciless Gladiator's Spellblade,Merciless Gladiator's Spellblade,Epic,304.29,281.79,Season 2,PvP,2,https://tbc.wowhead.com/item=32053,NA,225,18,15,NULL,NULL,NA,NA,NA
 NA,2,Fang of the Leviathan,Fang of the Leviathan,Epic,297.876,NULL,Serpentshrine Cavern,Leotheras the Blind,2,https://tbc.wowhead.com/item=30095,NA,221,20,NULL,21,NULL,NA,NA,NA

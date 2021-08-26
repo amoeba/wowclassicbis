@@ -178,21 +178,21 @@ NA,13,Veteran's Scaled Greaves,Veteran's Scaled Greaves,Epic,100.084,NULL,Season
 NA,14,Ironstriders of Urgency,Ironstriders of Urgency,Epic,98.042,NULL,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28608,NA,997,28,NULL,NULL,NULL,NULL,NULL,NULL,20,NULL,NULL,NULL,Red,Yellow,NA
 NA,15,Veteran's Ornamented Greaves,Veteran's Ornamented Greaves,Epic,96.4,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=32990,NA,1172,39,NULL,NULL,NULL,NULL,NULL,27,NULL,NULL,NULL,NULL,NULL,NULL,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,armor,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket,NULL,NA
-NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,59.5,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,NULL,NULL,NULL,NULL,NULL,NULL,85,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,2,Eye of Magtheridon,Eye of Magtheridon,Epic,49.7,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,NULL,NULL,NULL,NULL,NULL,NULL,71,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,3,Icon of the Silver Crescent,Icon of the Silver Crescent,Epic,48.3,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29370,NA,NULL,NULL,NULL,NULL,NULL,NULL,69,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,4,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,43.4,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23046,NA,NULL,NULL,NULL,NULL,NULL,NULL,62,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,5,Goblin Rocket Launcher,Goblin Rocket Launcher,Rare,40.5,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23836,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,6,Gnomish Poultryizer,Gnomish Poultryizer,Rare,40.5,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23835,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,7,Commander's Badge,Commander's Badge,Rare,40.5,NULL,Shadowmoon Valley,"Hail, Commander!",1,https://tbc.wowhead.com/item=32864,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,8,Figurine - Living Ruby Serpent,Figurine - Living Ruby Serpent,Rare,39,NULL,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24126,NA,NULL,33,NULL,NULL,NULL,NULL,10,23,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,9,Moroes' Lucky Pocket Watch,Moroes' Lucky Pocket Watch,Epic,37.8,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28528,NA,NULL,NULL,NULL,63,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,10,Spyglass of the Hidden Fleet,Spyglass of the Hidden Fleet,Epic,36,NULL,Serpentshrine Cavern,Trash,2,https://tbc.wowhead.com/item=30620,NA,NULL,40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,11,Sextant of Unstable Currents,Sextant of Unstable Currents,Epic,33.6,NULL,Serpentshrine Cavern,Fathom-Lord Karathress,2,https://tbc.wowhead.com/item=30626,NA,NULL,NULL,NULL,NULL,NULL,NULL,48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,12,Argussian Compass,Argussian Compass,Rare,32.4,NULL,Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=27770,NA,NULL,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,13,Violet Badge,Violet Badge,Epic,32.4,NULL,Deadwind Pass,The New Directive,1,https://tbc.wowhead.com/item=31113,NA,NULL,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
-NA,14,Neltharion's Tear,Neltharion's Tear,Epic,30.8,30.8,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,NULL,NULL,NULL,NULL,NULL,NULL,44,NULL,NULL,NULL,16,NULL,NULL,NULL,NA
-NA,15,Ancient Crystal Talisman,Ancient Crystal Talisman,Uncommon,30.1,NULL,Seer Janidi,A Spirit Ally?,1,https://tbc.wowhead.com/item=25620,NA,NULL,NULL,NULL,NULL,NULL,NULL,43,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,1,Darkmoon Card: Crusade,Darkmoon Card: Crusade,Epic,63.2,NULL,Darkmoon Faire,NA,2,https://tbc.wowhead.com/item=31856,NA,NULL,NULL,NULL,NULL,NULL,NULL,80,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,2,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,59.5,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,NULL,NULL,NULL,NULL,NULL,NULL,85,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,3,Eye of Magtheridon,Eye of Magtheridon,Epic,49.7,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,NULL,NULL,NULL,NULL,NULL,NULL,71,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,4,Icon of the Silver Crescent,Icon of the Silver Crescent,Epic,48.3,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29370,NA,NULL,NULL,NULL,NULL,NULL,NULL,69,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,5,Darkmoon Card: Vengeance,Darkmoon Card: Vengeance,Epic,45.9,NULL,Darkmoon Faire,NA,2,https://tbc.wowhead.com/item=31858,NA,NULL,51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,6,Darkmoon Card: Madness,Darkmoon Card: Madness,Epic,45.9,NULL,Darkmoon Faire,NA,2,https://tbc.wowhead.com/item=31859,NA,NULL,51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,7,The Restrained Essence of Sapphiron,The Restrained Essence of Sapphiron,Epic,43.4,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23046,NA,NULL,NULL,NULL,NULL,NULL,NULL,62,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,8,Goblin Rocket Launcher,Goblin Rocket Launcher,Rare,40.5,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23836,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,9,Gnomish Poultryizer,Gnomish Poultryizer,Rare,40.5,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23835,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,10,Commander's Badge,Commander's Badge,Rare,40.5,NULL,Shadowmoon Valley,"Hail, Commander!",1,https://tbc.wowhead.com/item=32864,NA,NULL,45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,11,Figurine - Living Ruby Serpent,Figurine - Living Ruby Serpent,Rare,39,NULL,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24126,NA,NULL,33,NULL,NULL,NULL,NULL,10,23,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,12,Moroes' Lucky Pocket Watch,Moroes' Lucky Pocket Watch,Epic,37.8,NULL,Karazhan,Moroes,1,https://tbc.wowhead.com/item=28528,NA,NULL,NULL,NULL,63,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,13,Spyglass of the Hidden Fleet,Spyglass of the Hidden Fleet,Epic,36,NULL,Serpentshrine Cavern,Trash,2,https://tbc.wowhead.com/item=30620,NA,NULL,40,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,14,Sextant of Unstable Currents,Sextant of Unstable Currents,Epic,33.6,NULL,Serpentshrine Cavern,Fathom-Lord Karathress,2,https://tbc.wowhead.com/item=30626,NA,NULL,NULL,NULL,NULL,NULL,NULL,48,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
+NA,15,Argussian Compass,Argussian Compass,Rare,32.4,NULL,Underbog,The Black Stalker,1,https://tbc.wowhead.com/item=27770,NA,NULL,36,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA
 NA,NA,One Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,type,dps,spd,stam,def,dodge,parry,block,sp,int,agi,hit,sphit,exp,socket
 NA,1,Merciless Gladiator's Gavel,Merciless Gladiator's Gavel,Epic,262.07,262.07,Season 2,PvP,2,https://tbc.wowhead.com/item=32963,NA,Mace,41.3,1.6,27,NULL,NULL,NULL,NULL,225,18,NULL,NULL,15,NULL,NA
 NA,2,Fang of the Leviathan,Fang of the Leviathan,Epic,259.42,NULL,Serpentshrine Cavern,Leotheras the Blind,2,https://tbc.wowhead.com/item=30095,NA,Sword,40.8,1.8,28,NULL,NULL,NULL,NULL,221,20,NULL,NULL,NULL,NULL,NA

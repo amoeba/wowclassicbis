@@ -183,16 +183,16 @@ NA,2,Tsunami Talisman,Tsunami Talisman,Epic,167.92,152.92,Serpentshrine Cavern,L
 NA,3,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,150,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23206,NA,150,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
 NA,4,Icon of Unyielding Courage,Icon of Unyielding Courage,Rare,131.3,86.3,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=28121,NA,NULL,NULL,NULL,30,NULL,NULL,100,NULL,NA,NULL,NA,NA,NA
 NA,5,Living Root of the Wildheart (CAT),Living Root of the Wildheart (CAT),Epic,130,NULL,Serpentshrine Cavern,Hydross the Unstable,2,https://tbc.wowhead.com/item=30664,NA,130,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,6,Bloodlust Brooch,Bloodlust Brooch,Epic,118,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29383,NA,118,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,7,Drake Fang Talisman,Drake Fang Talisman,Epic,116.2,86.2,Blackwing Lair,Ebonroc,0,https://tbc.wowhead.com/item=19406,NA,56,NULL,NULL,20,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,8,Hourglass of the Unraveller,Hourglass of the Unraveller,Rare,114,NULL,Black Morass,Temporus,1,https://tbc.wowhead.com/item=28034,NA,50,NULL,NULL,NULL,32,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,9,Slayer's Crest,Slayer's Crest,Epic,107,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23041,NA,107,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,10,Romulo's Poison Vial,Romulo's Poison Vial,Epic,105.35,52.85,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28579,NA,NULL,NULL,NULL,35,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,11,Abacus of Violent Odds,Abacus of Violent Odds,Rare,90.1965,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28288,NA,64,NULL,NULL,NULL,NULL,21.65,NULL,NULL,NA,NULL,NA,NA,NA
-NA,12,Terokkar Tablet of Precision,Terokkar Tablet of Precision,Uncommon,89.55,56.55,Terokkar Forest,Torgos!,1,https://tbc.wowhead.com/item=25937,NA,23.33,NULL,NULL,22,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,13,Terokkar Tablet of Precision,Terokkar Tablet of Precision,Uncommon,89.22,56.22,Taela Everstride,Torgos!,1,https://tbc.wowhead.com/item=25937,NA,23,NULL,NULL,22,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
-NA,14,Kiss of the Spider,Kiss of the Spider,Epic,88.35,73.35,Naxxramas,Maexxna,0,https://tbc.wowhead.com/item=22954,NA,NULL,NULL,NULL,10,14,25,NULL,NULL,NA,NULL,NA,NA,NA
-NA,15,Bladefist's Breadth,Bladefist's Breadth,Rare,85,NULL,Hellfire Peninsula,Overlord,1,https://tbc.wowhead.com/item=28041,NA,33,NULL,NULL,NULL,26,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,6,Darkmoon Card: Crusade,Darkmoon Card: Crusade,Epic,120,NULL,Darkmoon Faire,NA,2,https://tbc.wowhead.com/item=31856,NA,120,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,7,Bloodlust Brooch,Bloodlust Brooch,Epic,118,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29383,NA,118,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,8,Drake Fang Talisman,Drake Fang Talisman,Epic,116.2,86.2,Blackwing Lair,Ebonroc,0,https://tbc.wowhead.com/item=19406,NA,56,NULL,NULL,20,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,9,Hourglass of the Unraveller,Hourglass of the Unraveller,Rare,114,NULL,Black Morass,Temporus,1,https://tbc.wowhead.com/item=28034,NA,50,NULL,NULL,NULL,32,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,10,Slayer's Crest,Slayer's Crest,Epic,107,NULL,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23041,NA,107,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,11,Romulo's Poison Vial,Romulo's Poison Vial,Epic,105.35,52.85,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28579,NA,NULL,NULL,NULL,35,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,12,Abacus of Violent Odds,Abacus of Violent Odds,Rare,90.1965,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28288,NA,64,NULL,NULL,NULL,NULL,21.65,NULL,NULL,NA,NULL,NA,NA,NA
+NA,13,Terokkar Tablet of Precision,Terokkar Tablet of Precision,Uncommon,89.55,56.55,Terokkar Forest,Torgos!,1,https://tbc.wowhead.com/item=25937,NA,23.33,NULL,NULL,22,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,14,Terokkar Tablet of Precision,Terokkar Tablet of Precision,Uncommon,89.22,56.22,Taela Everstride,Torgos!,1,https://tbc.wowhead.com/item=25937,NA,23,NULL,NULL,22,NULL,NULL,NULL,NULL,NA,NULL,NA,NA,NA
+NA,15,Kiss of the Spider,Kiss of the Spider,Epic,88.35,73.35,Naxxramas,Maexxna,0,https://tbc.wowhead.com/item=22954,NA,NULL,NULL,NULL,10,14,25,NULL,NULL,NA,NULL,NA,NA,NA
 NA,NA,Two Hand,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,type,ap,stam,str,agi,hit,crit,haste,arp,exp,socket,NA,NA
 NA,1,Merciless Gladiator's Maul (Feral),Merciless Gladiator's Maul (Feral),Epic,1511.001725,1484.001725,Season 2,PvP,2,https://tbc.wowhead.com/item=32014,NA,Mace,1010,55,42,NULL,18,42,NULL,NA,NULL,NA,NA,NA
 NA,2,Terestian's Stranglestaff (Feral),Terestian's Stranglestaff (Feral),Epic,1362.039085,1324.539085,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28658,NA,Staff,829,48,38,37,25,NULL,NULL,NA,NULL,NA,NA,NA
