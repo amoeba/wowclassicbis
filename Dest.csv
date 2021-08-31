@@ -2,21 +2,21 @@ Destruction Phase 2,...2,...3,...4,...5,Value Credit: Zeph TBC Warlock Model,...
 NA,NA,Item,NA,NA,EPV,"If Hit 
 Capped",Location,NA,Phase,NA,NA,Stats,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Head,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Cowl of the Grand Engineer,Cowl of the Grand Engineer,Epic,139.75,115.11,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=29986,NA,53,27,16,35,NULL,Yellow,Yellow,Blue
-NA,2,Destruction Holo-gogs,Destruction Holo-gogs,Epic,129.74,NULL,Engineering,Crafted,2,https://tbc.wowhead.com/item=32494,NA,64,24,NULL,29,NULL,Meta,Blue,NA
-NA,3,Hood of the Corruptor,Hood of the Corruptor,Epic,124.14,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30212,NA,55,33,NULL,31,NULL,Meta,Blue,NA
-NA,4,Spellstrike Hood,Spellstrike Hood,Epic,121.64,97,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24266,NA,46,12,16,24,NULL,Blue,Yellow,Red
-NA,5,Voidheart Crown,Voidheart Crown,Epic,103.44,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28963,NA,40,36,NULL,19,NULL,Meta,Red,NA
-NA,6,Uni-Mind Headdress,Uni-Mind Headdress,Epic,101.81,72.55,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28744,NA,46,40,19,25,NULL,NA,NA,NA
-NA,7,Merciless Gladiator's Felweave Cowl,Merciless Gladiator's Felweave Cowl,Epic,99.23,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=31980,NA,42,11,NULL,18,NULL,Meta,Red,NA
-NA,8,Gladiator's Felweave Cowl,Gladiator's Felweave Cowl,Epic,95.11,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=30187,NA,37,15,NULL,18,NULL,Meta,Red,NA
-NA,9,Mana-Binders Cowl,Mana-Binders Cowl,Epic,93.06,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32089,NA,34,29,NULL,15,NULL,Yellow,Meta,NA
-NA,10,Incanter's Cowl,Incanter's Cowl,Rare,92.33,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28278,NA,29,27,NULL,19,NULL,Yellow,Meta,NA
-NA,11,Hood of Oblivion,Hood of Oblivion,Rare,86.91,NULL,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28415,NA,40,32,NULL,NULL,NULL,Blue,Meta,NA
-NA,12,Evoker's Helmet of Second Sight,Evoker's Helmet of Second Sight,Rare,85.38,NULL,NA,"Teron Gorefiend, I am...",1,https://tbc.wowhead.com/item=31104,NA,35,15,NULL,24,NULL,Blue,Blue,Yellow
-NA,13,Gnomish Power Goggles,Gnomish Power Goggles,Epic,83.5,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=23828,NA,59,21,NULL,28,NULL,NA,NA,NA
-NA,14,Mag'hari Ritualist's Horns,Mag'hari Ritualist's Horns,Rare,82.65,64.17,NA,NA,1,https://tbc.wowhead.com/item=28169,NA,50,16,12,15,NULL,NA,NA,NA
-NA,15,Merciless Gladiator's Dreadweave Hood,Merciless Gladiator's Dreadweave Hood,Epic,82.43,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=31974,NA,36,20,NULL,NULL,NULL,Meta,Red,NA
+NA,1,Destruction Holo-gogs,Destruction Holo-gogs,Epic,148.87,NULL,Engineering,Crafted,2,https://tbc.wowhead.com/item=32494,NA,64,24,NULL,29,NULL,Meta,Blue,NA
+NA,2,Hood of the Corruptor,Hood of the Corruptor,Epic,143.27,NULL,Serpentshrine Cavern,Lady Vashj,2,https://tbc.wowhead.com/item=30212,NA,55,33,NULL,31,NULL,Meta,Blue,NA
+NA,3,Cowl of the Grand Engineer,Cowl of the Grand Engineer,Epic,139.75,115.11,Tempest Keep,Void Reaver,2,https://tbc.wowhead.com/item=29986,NA,53,27,16,35,NULL,Yellow,Yellow,Blue
+NA,4,Voidheart Crown,Voidheart Crown,Epic,122.57,NULL,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28963,NA,40,36,NULL,19,NULL,Meta,Red,NA
+NA,5,Spellstrike Hood,Spellstrike Hood,Epic,121.64,97,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24266,NA,46,12,16,24,NULL,Blue,Yellow,Red
+NA,6,Merciless Gladiator's Felweave Cowl,Merciless Gladiator's Felweave Cowl,Epic,118.36,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=31980,NA,42,11,NULL,18,NULL,Meta,Red,NA
+NA,7,Gladiator's Felweave Cowl,Gladiator's Felweave Cowl,Epic,114.24,NULL,Season 1,PvP,1,https://tbc.wowhead.com/item=30187,NA,37,15,NULL,18,NULL,Meta,Red,NA
+NA,8,Mana-Binders Cowl,Mana-Binders Cowl,Epic,112.19,NULL,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=32089,NA,34,29,NULL,15,NULL,Yellow,Meta,NA
+NA,9,Incanter's Cowl,Incanter's Cowl,Rare,111.46,NULL,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28278,NA,29,27,NULL,19,NULL,Yellow,Meta,NA
+NA,10,Hood of Oblivion,Hood of Oblivion,Rare,106.04,NULL,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28415,NA,40,32,NULL,NULL,NULL,Blue,Meta,NA
+NA,11,Uni-Mind Headdress,Uni-Mind Headdress,Epic,101.81,72.55,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28744,NA,46,40,19,25,NULL,NA,NA,NA
+NA,12,Merciless Gladiator's Dreadweave Hood,Merciless Gladiator's Dreadweave Hood,Epic,101.56,NULL,Season 2,PvP,2,https://tbc.wowhead.com/item=31974,NA,36,20,NULL,NULL,NULL,Meta,Red,NA
+NA,13,Exorcist's Silk Hood,Exorcist's Silk Hood,Rare,99.83,NULL,Spirit Shard,PvP,1,https://tbc.wowhead.com/item=28760,NA,29,14,NULL,25,NULL,Meta,NA,NA
+NA,14,Mana-Etched Crown,Mana-Etched Crown,Rare,99.56,NULL,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28193,NA,34,20,NULL,NULL,NULL,Red,Meta,NA
+NA,15,Hydromancer's Headwrap,Hydromancer's Headwrap,Rare,97.94,NULL,NA,The Warlord's Hideout,1,https://tbc.wowhead.com/item=28183,NA,33,27,NULL,NULL,NULL,Blue,Meta,NA
 NA,NA,Neck,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
 NA,1,Eye of the Night (GROUP BUFF),Eye of the Night (GROUP BUFF),Rare,77.1,52.46,Jewelcrafting,Crafted,1,https://tbc.wowhead.com/item=24116,NA,34,NULL,16,26,NULL,NA,NA,NA
 NA,2,The Sun King's Talisman,The Sun King's Talisman,Epic,61.56,NULL,Tempest Keep,Kael'thas and the Verdant Sphere,2,https://tbc.wowhead.com/item=30015,NA,41,16,NULL,24,NULL,NA,NA,NA
