@@ -178,8 +178,8 @@ NA,13,Marshal's Silk Footguards,Marshal's Silk Footguards,Epic,47.842,NULL,NA,Pv
 NA,14,Embroidered Spellpyre Boots,Embroidered Spellpyre Boots,Rare,43.938,NULL,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=27848,NA,41,21,NULL,NULL,NULL,NA,NA,NA
 NA,15,Rocket Boots Xtreme Lite,Rocket Boots Xtreme Lite,Rare,43.146,NULL,Engineering,Crafted,1,https://tbc.wowhead.com/item=35581,NA,47,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,NA,Trinket,NA,NA,NULL,NULL,NA,NA,NULL,NA,NA,sp,int,hit,crit,haste,socket,NA,NA
-NA,1,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,78.03,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,2,Quagmirran's Eye,Quagmirran's Eye,Rare,77.4732,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,38.4,NA,NA,NA
+NA,1,Quagmirran's Eye,Quagmirran's Eye,Rare,79.286,NULL,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,37,NULL,NULL,NULL,40,NA,NA,NA
+NA,2,Mark of the Champion (undead/demon),Mark of the Champion (undead/demon),Epic,78.03,NULL,Naxxramas,The Fall of Kel'Thuzad,1,https://tbc.wowhead.com/item=23207,NA,85,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,3,Scryer's Bloodgem,Scryer's Bloodgem,Rare,69.35,22.95,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,25,NULL,32,NULL,NULL,NA,NA,NA
 NA,4,Eye of Magtheridon,Eye of Magtheridon,Epic,65.178,NULL,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=28789,NA,71,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,5,Neltharion's Tear,Neltharion's Tear,Epic,63.592,40.392,Classic,NA,0,https://tbc.wowhead.com/item=19379,NA,44,NULL,16,NULL,NULL,NA,NA,NA
