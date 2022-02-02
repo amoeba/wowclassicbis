@@ -3,11 +3,11 @@ NA,NA,Item,NA,NA,EPV,Location,NA,Phase,NA,NA,Stats,NULL,NULL,NA,NULL,NULL,NA,NA,
 NA,NA,Head,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Fathom-Helm of the Deeps,Fathom-Helm of the Deeps,Epic,175.04,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30728,NA,106,29,NULL,NA,NULL,9,Yellow,Blue,Blue
 NA,2,Cyclone Headdress,Cyclone Headdress,Epic,155.3,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=29028,NA,75,41,NULL,NA,NULL,8,Meta,Blue,NA
-NA,3,Whitemend Hood,Whitemend Hood,Epic,148.32,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24264,NA,79,15,NULL,NA,NULL,11,Blue,Yellow,Red
-NA,4,Gladiator's Ringmail Helm,Gladiator's Ringmail Helm,Epic,135.44,Season 1,PvP,1,https://tbc.wowhead.com/item=31400,NA,62,20,NULL,NA,NULL,NULL,Meta,Red,NA
-NA,5,Grand Marshal's Ringmail Headpiece,Grand Marshal's Ringmail Headpiece,Rare,117.26,NA,PvP,1,https://tbc.wowhead.com/item=31642,NA,44,21,NULL,NA,NULL,NULL,Meta,Red,NA
-NA,6,High Warlord's Ringmail Headpiece,High Warlord's Ringmail Headpiece,Rare,117.26,NA,PvP,1,https://tbc.wowhead.com/item=31648,NA,44,21,NULL,NA,NULL,NULL,Meta,Red,NA
-NA,7,Seer's Ringmail Headpiece,Seer's Ringmail Headpiece,Rare,117.26,NA,Alurmi,1,https://tbc.wowhead.com/item=35393,NA,44,21,NULL,NA,NULL,NULL,Meta,Red,NA
+NA,3,Whitemend Hood,Whitemend Hood,Epic,152.32,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24264,NA,79,15,NULL,NA,NULL,11,Blue,Yellow,Red
+NA,4,Gladiator's Ringmail Helm,Gladiator's Ringmail Helm,Epic,139.44,Season 1,PvP,1,https://tbc.wowhead.com/item=31400,NA,62,20,NULL,NA,NULL,NULL,Meta,Red,NA
+NA,5,Grand Marshal's Ringmail Headpiece,Grand Marshal's Ringmail Headpiece,Rare,121.26,NA,PvP,1,https://tbc.wowhead.com/item=31642,NA,44,21,NULL,NA,NULL,NULL,Meta,Red,NA
+NA,6,High Warlord's Ringmail Headpiece,High Warlord's Ringmail Headpiece,Rare,121.26,NA,PvP,1,https://tbc.wowhead.com/item=31648,NA,44,21,NULL,NA,NULL,NULL,Meta,Red,NA
+NA,7,Seer's Ringmail Headpiece,Seer's Ringmail Headpiece,Rare,121.26,NA,Alurmi,1,https://tbc.wowhead.com/item=35393,NA,44,21,NULL,NA,NULL,NULL,Meta,Red,NA
 NA,8,Hallowed Crown,Hallowed Crown,Rare,117.14,Archatraz,Harbinger Skyriss,1,https://tbc.wowhead.com/item=28413,NA,57,24,26,NA,NULL,NULL,Blue,Meta,NA
 NA,9,Living Dragonscale Helm,Living Dragonscale Helm,Epic,116.88,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29508,NA,81,31,NULL,NA,NULL,14,NA,NA,NA
 NA,10,Moonglade Cowl,Moonglade Cowl,Rare,113.62,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28348,NA,53,25,13,NA,NULL,NULL,Blue,Meta,NA
@@ -15,7 +15,7 @@ NA,11,Cowl of Nature's Breath,Cowl of Nature's Breath,Epic,112.16,Gruul's Lair,G
 NA,12,Headdress of the Tides,Headdress of the Tides,Rare,103.3,Underbog,Ghaz'an,1,https://tbc.wowhead.com/item=27759,NA,73,35,NULL,NA,NULL,9,NA,NA,NA
 NA,13,Headdress of the High Potentate,Headdress of the High Potentate,Epic,99.24,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28756,NA,81,38,32,NA,NULL,NULL,NA,NA,NA
 NA,14,Watcher's Cowl,Watcher's Cowl,Rare,96.28,Fedryen Swiftspear,NA,1,https://tbc.wowhead.com/item=29174,NA,79,36,14,NA,NULL,NULL,NA,NA,NA
-NA,15,Earthshatter Headpiece,Earthshatter Headpiece,Epic,94.4,Classic,NA,0,https://tbc.wowhead.com/item=22466,NA,68,30,NULL,NA,NULL,8,NA,NA,NA
+NA,15,Raven-Heart Headdress,Raven-Heart Headdress,Rare,96.04,Auchenai Crypts,Shirrak the Dead Watcher,1,https://tbc.wowhead.com/item=27409,NA,35,23,16,NA,NULL,NULL,Red,Blue,Blue
 NA,NA,Neck,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Archaic Charm of Presence,Archaic Charm of Presence,Epic,86.04,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30726,NA,75,23,NULL,NA,NULL,NULL,NA,NA,NA
 NA,2,Emberspur Talisman,Emberspur Talisman,Epic,82.5,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28609,NA,66,NULL,NULL,NA,NULL,11,NA,NA,NA
@@ -35,19 +35,19 @@ NA,15,Ogre Slayer's Pendant,Ogre Slayer's Pendant,Rare,45.16,NA,Cho'war the Pill
 NA,NA,Shoulders,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Cyclone Shoulderpads,Cyclone Shoulderpads,Epic,111.36,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=29031,NA,68,32,NULL,NA,NULL,NULL,Blue,Blue,NA
 NA,2,Primal Mooncloth Shoulders,Primal Mooncloth Shoulders,Epic,110.18,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21874,NA,92,16,15,NA,NULL,7,NA,NA,NA
-NA,3,Gladiator's Ringmail Spaulders,Gladiator's Ringmail Spaulders,Epic,103.62,Season 1,PvP,1,https://tbc.wowhead.com/item=31407,NA,42,19,NULL,NA,NULL,6,Red,Yellow,NA
+NA,3,Gladiator's Ringmail Spaulders,Gladiator's Ringmail Spaulders,Epic,107.62,Season 1,PvP,1,https://tbc.wowhead.com/item=31407,NA,42,19,NULL,NA,NULL,6,Red,Yellow,NA
 NA,4,Dragon-Quake Shoulderguards,Dragon-Quake Shoulderguards,Epic,89.44,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28631,NA,64,28,NULL,NA,NULL,8,NA,NA,NA
-NA,5,Pauldrons of the Solace-Giver,Pauldrons of the Solace-Giver,Epic,85.44,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28612,NA,57,28,22,NA,NULL,10,NA,NA,NA
-NA,6,Grand Marshal's Ringmail Shoulders,Grand Marshal's Ringmail Shoulders,Rare,83.18,NA,PvP,1,https://tbc.wowhead.com/item=31644,NA,29,18,NULL,NA,NULL,4,Red,Yellow,NA
-NA,7,High Warlord's Ringmail Shoulderpads,High Warlord's Ringmail Shoulderpads,Rare,83.18,NA,PvP,1,https://tbc.wowhead.com/item=31650,NA,29,18,NULL,NA,NULL,4,Red,Yellow,NA
-NA,8,Seer's Ringmail Shoulderpads,Seer's Ringmail Shoulderpads,Rare,83.18,NA,Almaador,1,https://tbc.wowhead.com/item=35395,NA,29,18,NULL,NA,NULL,4,Red,Yellow,NA
-NA,9,Hallowed Pauldrons,Hallowed Pauldrons,Rare,82.16,Shadow Labyrinth,Grandmaster Vorpil,1,https://tbc.wowhead.com/item=27775,NA,42,17,20,NA,NULL,NULL,Red,Blue,NA
-NA,10,Forest Wind Shoulderpads,Forest Wind Shoulderpads,Epic,79.44,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28647,NA,66,28,24,NA,NULL,NULL,NA,NA,NA
-NA,11,Mantle of the Sea Wolf,Mantle of the Sea Wolf,Rare,75,Mana-Tombs,Tavarok,1,https://tbc.wowhead.com/item=27826,NA,51,25,NULL,NA,NULL,8,NA,NA,NA
-NA,12,Moonglade Shoulders,Moonglade Shoulders,Rare,74.12,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=27737,NA,29,19,18,NA,NULL,NULL,Red,Red,NA
+NA,5,Grand Marshal's Ringmail Shoulders,Grand Marshal's Ringmail Shoulders,Rare,87.18,NA,PvP,1,https://tbc.wowhead.com/item=31644,NA,29,18,NULL,NA,NULL,4,Red,Yellow,NA
+NA,6,High Warlord's Ringmail Shoulderpads,High Warlord's Ringmail Shoulderpads,Rare,87.18,NA,PvP,1,https://tbc.wowhead.com/item=31650,NA,29,18,NULL,NA,NULL,4,Red,Yellow,NA
+NA,7,Seer's Ringmail Shoulderpads,Seer's Ringmail Shoulderpads,Rare,87.18,NA,Almaador,1,https://tbc.wowhead.com/item=35395,NA,29,18,NULL,NA,NULL,4,Red,Yellow,NA
+NA,8,Hallowed Pauldrons,Hallowed Pauldrons,Rare,86.16,Shadow Labyrinth,Grandmaster Vorpil,1,https://tbc.wowhead.com/item=27775,NA,42,17,20,NA,NULL,NULL,Red,Blue,NA
+NA,9,Pauldrons of the Solace-Giver,Pauldrons of the Solace-Giver,Epic,85.44,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28612,NA,57,28,22,NA,NULL,10,NA,NA,NA
+NA,10,Moonglade Shoulders,Moonglade Shoulders,Rare,82.12,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=27737,NA,29,19,18,NA,NULL,NULL,Red,Red,NA
+NA,11,Forest Wind Shoulderpads,Forest Wind Shoulderpads,Epic,79.44,Karazhan,The Curator,1,https://tbc.wowhead.com/item=28647,NA,66,28,24,NA,NULL,NULL,NA,NA,NA
+NA,12,Mantle of the Sea Wolf,Mantle of the Sea Wolf,Rare,75,Mana-Tombs,Tavarok,1,https://tbc.wowhead.com/item=27826,NA,51,25,NULL,NA,NULL,8,NA,NA,NA
 NA,13,Vestia's Pauldrons of Inner Grace,Vestia's Pauldrons of Inner Grace,Rare,72,NA,NA,1,https://tbc.wowhead.com/item=28250,NA,48,25,NULL,NA,NULL,8,NA,NA,NA
 NA,14,Pauldrons of Sufferance,Pauldrons of Sufferance,Rare,68.86,Old Hillsbrad Foothills,Epoch Hunter,1,https://tbc.wowhead.com/item=27433,NA,35,13,19,NA,NULL,NULL,Blue,Yellow,NA
-NA,15,Ravenwing Pauldrons,Ravenwing Pauldrons,Rare,63.86,Old Hillsbrad Foothills,Lieutenant Drake,1,https://tbc.wowhead.com/item=27417,NA,26,13,14,NA,NULL,NULL,Red,Yellow,NA
+NA,15,Ravenwing Pauldrons,Ravenwing Pauldrons,Rare,67.86,Old Hillsbrad Foothills,Lieutenant Drake,1,https://tbc.wowhead.com/item=27417,NA,26,13,14,NA,NULL,NULL,Red,Yellow,NA
 NA,NA,Back,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Lifegiving Cloak,Lifegiving Cloak,Epic,77.74,NA,World Drop,1,https://tbc.wowhead.com/item=31329,NA,64,13,NULL,NA,NULL,5,NA,NA,NA
 NA,2,Stainless Cloak of the Pure Hearted,Stainless Cloak of the Pure Hearted,Epic,74.54,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28765,NA,53,23,NULL,NA,NULL,7,NA,NA,NA
@@ -66,20 +66,20 @@ NA,14,Diviner's Cloak,Diviner's Cloak,Uncommon,49.7,NA,The Horrors of Pollution,
 NA,15,Cloak of Scintillating Auras,Cloak of Scintillating Auras,Rare,49.68,Arcatraz,Zereketh the Unbound,1,https://tbc.wowhead.com/item=28373,NA,42,16,18,NA,NULL,NULL,NA,NA,NA
 NA,NA,Chest,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Primal Mooncloth Robe,Primal Mooncloth Robe,Epic,173.22,Tailoring,Crafted,1,https://tbc.wowhead.com/item=21875,NA,121,20,20,NA,NULL,10,Yellow,Blue,NA
-NA,2,Cyclone Hauberk,Cyclone Hauberk,Epic,143.02,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29029,NA,68,30,NULL,NA,NULL,10,Red,Yellow,Blue
-NA,3,Windhawk Hauberk,Windhawk Hauberk,Epic,142.08,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29522,NA,74,29,29,NA,NULL,NULL,Blue,Yellow,Blue
-NA,4,Gladiator's Ringmail Armor,Gladiator's Ringmail Armor,Epic,140.96,Season 1,PvP,1,https://tbc.wowhead.com/item=31396,NA,59,23,NULL,NA,NULL,7,Red,Yellow,Yellow
+NA,2,Cyclone Hauberk,Cyclone Hauberk,Epic,147.02,Magtheridon's Lair,Magtheridon,1,https://tbc.wowhead.com/item=29029,NA,68,30,NULL,NA,NULL,10,Red,Yellow,Blue
+NA,3,Gladiator's Ringmail Armor,Gladiator's Ringmail Armor,Epic,144.96,Season 1,PvP,1,https://tbc.wowhead.com/item=31396,NA,59,23,NULL,NA,NULL,7,Red,Yellow,Yellow
+NA,4,Windhawk Hauberk,Windhawk Hauberk,Epic,142.08,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29522,NA,74,29,29,NA,NULL,NULL,Blue,Yellow,Blue
 NA,5,Earthblood Chestguard,Earthblood Chestguard,Epic,122.18,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28735,NA,86,41,NULL,NA,NULL,11,NA,NA,NA
-NA,6,Earthpeace Breastplate,Earthpeace Breastplate,Rare,116,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23527,NA,92,NULL,NULL,NA,NULL,16,NA,NA,NA
-NA,7,Hallowed Garments,Hallowed Garments,Rare,115.1,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=28230,NA,57,26,26,NA,NULL,NULL,Red,Yellow,Blue
-NA,8,Void Slayer's Tunic,Void Slayer's Tunic,Rare,110.08,Netherstorm,Dimensius the All-Devouring,1,https://tbc.wowhead.com/item=30298,NA,88,21,NULL,NA,NULL,8,NA,NA,NA
-NA,9,Moonglade Robe,Moonglade Robe,Rare,108.78,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28202,NA,55,17,14,NA,NULL,NULL,Red,Yellow,Blue
-NA,10,Stonebough Jerkin,Stonebough Jerkin,Epic,107.3,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28600,NA,77,35,31,NA,NULL,9,NA,NA,NA
-NA,11,Grand Marshal's Ringmail Chestguard,Grand Marshal's Ringmail Chestguard,Rare,106.18,NA,PvP,0,https://tbc.wowhead.com/item=31640,NA,31,22,NULL,NA,NULL,5,Red,Yellow,Yellow
-NA,12,High Warlord's Ringmail Chestguard,High Warlord's Ringmail Chestguard,Rare,106.18,NA,PvP,0,https://tbc.wowhead.com/item=31646,NA,31,22,NULL,NA,NULL,5,Red,Yellow,Yellow
-NA,13,Seer's Ringmail Chestguard,Seer's Ringmail Chestguard,Rare,106.18,Lower City,Honored,1,https://tbc.wowhead.com/item=35391,NA,31,22,NULL,NA,NULL,5,Red,Yellow,Yellow
-NA,14,Masquerade Gown,Masquerade Gown,Epic,103.36,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28578,NA,88,32,NULL,NA,NULL,NULL,NA,NA,NA
-NA,15,Raiments of Divine Authority,Raiments of Divine Authority,Rare,101.7,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=24397,NA,46,21,18,NA,NULL,NULL,Red,Yellow,Blue
+NA,6,Hallowed Garments,Hallowed Garments,Rare,119.1,Shadow Labyrinth,Murmur,1,https://tbc.wowhead.com/item=28230,NA,57,26,26,NA,NULL,NULL,Red,Yellow,Blue
+NA,7,Earthpeace Breastplate,Earthpeace Breastplate,Rare,116,Blacksmithing,Crafted,1,https://tbc.wowhead.com/item=23527,NA,92,NULL,NULL,NA,NULL,16,NA,NA,NA
+NA,8,Moonglade Robe,Moonglade Robe,Rare,112.78,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=28202,NA,55,17,14,NA,NULL,NULL,Red,Yellow,Blue
+NA,9,Grand Marshal's Ringmail Chestguard,Grand Marshal's Ringmail Chestguard,Rare,110.18,NA,PvP,0,https://tbc.wowhead.com/item=31640,NA,31,22,NULL,NA,NULL,5,Red,Yellow,Yellow
+NA,10,High Warlord's Ringmail Chestguard,High Warlord's Ringmail Chestguard,Rare,110.18,NA,PvP,0,https://tbc.wowhead.com/item=31646,NA,31,22,NULL,NA,NULL,5,Red,Yellow,Yellow
+NA,11,Seer's Ringmail Chestguard,Seer's Ringmail Chestguard,Rare,110.18,Lower City,Honored,1,https://tbc.wowhead.com/item=35391,NA,31,22,NULL,NA,NULL,5,Red,Yellow,Yellow
+NA,12,Void Slayer's Tunic,Void Slayer's Tunic,Rare,110.08,Netherstorm,Dimensius the All-Devouring,1,https://tbc.wowhead.com/item=30298,NA,88,21,NULL,NA,NULL,8,NA,NA,NA
+NA,13,Stonebough Jerkin,Stonebough Jerkin,Epic,107.3,Karazhan,Nightbane,1,https://tbc.wowhead.com/item=28600,NA,77,35,31,NA,NULL,9,NA,NA,NA
+NA,14,Raiments of Divine Authority,Raiments of Divine Authority,Rare,105.7,Blood Furnace,Keli'dan the Breaker,1,https://tbc.wowhead.com/item=24397,NA,46,21,18,NA,NULL,NULL,Red,Yellow,Blue
+NA,15,Masquerade Gown,Masquerade Gown,Epic,103.36,Karazhan,Julianne,1,https://tbc.wowhead.com/item=28578,NA,88,32,NULL,NA,NULL,NULL,NA,NA,NA
 NA,NA,Wrist,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Ravager's Cuffs of Healing,Ravager's Cuffs of Healing,Epic,90,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,90,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,2,Windhawk Bracers,Windhawk Bracers,Epic,79.34,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29523,NA,47,17,7,NA,NULL,NULL,Yellow,NA,NA
@@ -88,24 +88,24 @@ NA,4,Whirlwind Bracers,Whirlwind Bracers,Epic,66.1,Karazhan,Attumen the Huntsman
 NA,5,Bracelets of Royal Redemption,Bracelets of Royal Redemption,Epic,57.8,Classic,NA,0,https://tbc.wowhead.com/item=21604,NA,53,10,9,NA,NULL,NULL,NA,NA,NA
 NA,6,Ravager's Cuffs of the Prophet,Ravager's Cuffs of the Prophet,Epic,57.56,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,47,22,22,NA,NULL,NULL,NA,NA,NA
 NA,7,Ravager's Cuffs of the Physician,Ravager's Cuffs of the Physician,Epic,57.56,Karazhan,Rokad the Ravager,1,https://tbc.wowhead.com/item=30684/ravagers-cuffs,NA,47,22,NULL,NA,NULL,NULL,NA,NA,NA
-NA,8,Bands of the Benevolent,Bands of the Benevolent,Epic,55.6,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=29249,NA,46,20,18,NA,NULL,NULL,NA,NA,NA
-NA,9,Primal Surge Bracers,Primal Surge Bracers,Rare,54.64,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28194,NA,37,18,NULL,NA,NULL,6,NA,NA,NA
-NA,10,Bands of Indwelling,Bands of Indwelling,Epic,54.64,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28511,NA,46,18,20,NA,NULL,NULL,NA,NA,NA
-NA,11,General's Kodohide Bracers,General's Kodohide Bracers,Epic,52.24,NA,PvP,1,https://tbc.wowhead.com/item=31598,NA,22,13,NULL,NA,NULL,4,Red,NA,NA
-NA,12,Marshal's Kodohide Bracers,Marshal's Kodohide Bracers,Epic,52.24,NA,PvP,1,https://tbc.wowhead.com/item=31599,NA,22,13,NULL,NA,NULL,4,Red,NA,NA
+NA,8,General's Kodohide Bracers,General's Kodohide Bracers,Epic,56.24,NA,PvP,1,https://tbc.wowhead.com/item=31598,NA,22,13,NULL,NA,NULL,4,Red,NA,NA
+NA,9,Marshal's Kodohide Bracers,Marshal's Kodohide Bracers,Epic,56.24,NA,PvP,1,https://tbc.wowhead.com/item=31599,NA,22,13,NULL,NA,NULL,4,Red,NA,NA
+NA,10,Bands of the Benevolent,Bands of the Benevolent,Epic,55.6,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=29249,NA,46,20,18,NA,NULL,NULL,NA,NA,NA
+NA,11,Primal Surge Bracers,Primal Surge Bracers,Rare,54.64,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28194,NA,37,18,NULL,NA,NULL,6,NA,NA,NA
+NA,12,Bands of Indwelling,Bands of Indwelling,Epic,54.64,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28511,NA,46,18,20,NA,NULL,NULL,NA,NA,NA
 NA,13,Earthshatter Wristguards,Earthshatter Wristguards,Epic,47.64,Classic,NA,0,https://tbc.wowhead.com/item=22471,NA,33,18,NULL,NA,NULL,4,NA,NA,NA
 NA,14,Lucid Dream Bracers,Lucid Dream Bracers,Rare,44.2,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27827,NA,37,15,17,NA,NULL,NULL,NA,NA,NA
 NA,15,Netherstrike Bracers,Netherstrike Bracers,Epic,40.08,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29521,NA,NULL,13,NULL,NA,NULL,6,Yellow,NA,NA
 NA,NA,Hands,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
-NA,1,Gloves of Centering,Gloves of Centering,Epic,112.6,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28520,NA,62,20,NULL,NA,NULL,6,Blue,Red,NA
+NA,1,Gloves of Centering,Gloves of Centering,Epic,116.6,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28520,NA,62,20,NULL,NA,NULL,6,Blue,Red,NA
 NA,2,Mitts of the Treemender,Mitts of the Treemender,Epic,102.18,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28521,NA,64,22,14,NA,NULL,NULL,Blue,Yellow,NA
 NA,3,Cyclone Gloves,Cyclone Gloves,Epic,96.44,NA,NA,1,https://tbc.wowhead.com/item=29032,NA,68,28,NULL,NA,NULL,10,NA,NA,NA
-NA,4,Gloves of the Living Touch,Gloves of the Living Touch,Epic,85.64,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29506,NA,77,18,22,NA,NULL,NULL,NA,NA,NA
-NA,5,Gloves of Saintly Blessings,Gloves of Saintly Blessings,Epic,84,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28508,NA,40,25,25,NA,NULL,NULL,Red,Blue,NA
+NA,4,Gloves of Saintly Blessings,Gloves of Saintly Blessings,Epic,88,Karazhan,Attumen the Huntsman,1,https://tbc.wowhead.com/item=28508,NA,40,25,25,NA,NULL,NULL,Red,Blue,NA
+NA,5,Gloves of the Living Touch,Gloves of the Living Touch,Epic,85.64,Leatherworking,Crafted,1,https://tbc.wowhead.com/item=29506,NA,77,18,22,NA,NULL,NULL,NA,NA,NA
 NA,6,Gladiator's Ringmail Gauntlets,Gladiator's Ringmail Gauntlets,Epic,81.5,Season 1,PvP,1,https://tbc.wowhead.com/item=31397,NA,59,18,NULL,NA,NULL,NULL,NA,NA,NA
 NA,7,Prismatic Mittens of Mending,Prismatic Mittens of Mending,Rare,77.98,Botanica,Commander Sarannis,1,https://tbc.wowhead.com/item=28304,NA,55,26,NULL,NA,NULL,7,NA,NA,NA
 NA,8,Fathomheart Gauntlets,Fathomheart Gauntlets,Rare,77.5,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=27806,NA,55,25,NULL,NA,NULL,7,NA,NA,NA
-NA,9,Bloody Surgeon's Mitts,Bloody Surgeon's Mitts,Rare,72.6,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24393,NA,31,20,12,NA,NULL,NULL,Red,Blue,NA
+NA,9,Bloody Surgeon's Mitts,Bloody Surgeon's Mitts,Rare,76.6,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24393,NA,31,20,12,NA,NULL,NULL,Red,Blue,NA
 NA,10,Cryo-mitts,Cryo-mitts,Rare,67.56,NA,Someone Else's Hard Work Pays Off,1,https://tbc.wowhead.com/item=29327,NA,57,22,16,NA,NULL,NULL,NA,NA,NA
 NA,11,Natural Mender's Wraps,Natural Mender's Wraps,Rare,67,Auchenai Crypts,Avatar of the Martyred,1,https://tbc.wowhead.com/item=28268,NA,55,25,18,NA,NULL,NULL,NA,NA,NA
 NA,12,Gloves of Preservation,Gloves of Preservation,Rare,65,NA,Fel Embers,1,https://tbc.wowhead.com/item=25791,NA,53,25,25,NA,NULL,NULL,NA,NA,NA
@@ -126,8 +126,8 @@ NA,10,Lurker's Cord of the Prophet,Lurker's Cord of the Prophet,Epic,77.92,Karaz
 NA,11,Stillwater Girdle,Stillwater Girdle,Rare,77.48,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27835,NA,53,26,NULL,NA,NULL,8,NA,NA,NA
 NA,12,Lifeblood Belt,Lifeblood Belt,Rare,75.28,Tailoring,Crafted,1,https://tbc.wowhead.com/item=30463,NA,55,11,NULL,NA,NULL,10,NA,NA,NA
 NA,13,Cincture of Will,Cincture of Will,Epic,72.44,Karazhan,Terestian Illhoof,1,https://tbc.wowhead.com/item=28652,NA,59,28,25,NA,NULL,NULL,NA,NA,NA
-NA,14,Cord of Belief,Cord of Belief,Rare,69.04,Slave Pens,Mennu the Betrayer,1,https://tbc.wowhead.com/item=27542,NA,46,23,20,NA,NULL,8,NA,NA,NA
-NA,15,Girdle of the Gale Storm,Girdle of the Gale Storm,Rare,68.12,Blood Furnace,The Maker,1,https://tbc.wowhead.com/item=24388,NA,18,19,NULL,NA,NULL,6,Red,Blue,NA
+NA,14,Girdle of the Gale Storm,Girdle of the Gale Storm,Rare,72.12,Blood Furnace,The Maker,1,https://tbc.wowhead.com/item=24388,NA,18,19,NULL,NA,NULL,6,Red,Blue,NA
+NA,15,Tarren Mill Defender's Cinch,Tarren Mill Defender's Cinch,Rare,70.64,Old Hillsbrad Foothills,Return to Andormu,1,https://tbc.wowhead.com/item=29319,NA,NULL,18,NULL,NA,NULL,12,Red,Red,NA
 NA,NA,Ring,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Ring of Flowing Light,Ring of Flowing Light,Epic,90.18,Hellfire Peninsula,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30736,NA,75,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,2,Jade Ring of the Everliving,Jade Ring of the Everliving,Epic,86,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28763,NA,68,NULL,NULL,NA,NULL,12,NA,NA,NA
@@ -147,35 +147,35 @@ NA,15,Band of Unanswered Prayers,Band of Unanswered Prayers,Epic,56.28,Naxxramas
 NA,NA,Legs,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Gilded Trousers of Benediction,Gilded Trousers of Benediction,Epic,185.3,Shadowmoon Valley,Doomwalker,1,https://tbc.wowhead.com/item=30727,NA,118,16,NULL,NA,NULL,12,Yellow,Blue,Blue
 NA,2,Heart-Flame Leggings,Heart-Flame Leggings,Epic,147.46,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28751,NA,90,33,NULL,NA,NULL,NULL,Blue,Blue,Yellow
-NA,3,Earthsoul Leggings,Earthsoul Leggings,Epic,137.02,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28591,NA,81,30,24,NA,NULL,NULL,Yellow,Blue,Blue
-NA,4,Whitemend Pants,Whitemend Pants,Epic,134.2,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24261,NA,62,21,NULL,NA,NULL,11,Blue,Yellow,Red
-NA,5,Cyclone Kilt,Cyclone Kilt,Epic,130.7,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=29030,NA,95,40,NULL,NA,NULL,11,NA,NA,NA
-NA,6,Pantaloons of Repentance,Pantaloons of Repentance,Epic,130.32,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28742,NA,68,34,26,NA,NULL,NULL,Red,Blue,Blue
+NA,3,Whitemend Pants,Whitemend Pants,Epic,138.2,Tailoring,Crafted,1,https://tbc.wowhead.com/item=24261,NA,62,21,NULL,NA,NULL,11,Blue,Yellow,Red
+NA,4,Earthsoul Leggings,Earthsoul Leggings,Epic,137.02,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28591,NA,81,30,24,NA,NULL,NULL,Yellow,Blue,Blue
+NA,5,Pantaloons of Repentance,Pantaloons of Repentance,Epic,134.32,Karazhan,Netherspite,1,https://tbc.wowhead.com/item=28742,NA,68,34,26,NA,NULL,NULL,Red,Blue,Blue
+NA,6,Cyclone Kilt,Cyclone Kilt,Epic,130.7,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=29030,NA,95,40,NULL,NA,NULL,11,NA,NA,NA
 NA,7,Kamaei's Cerulean Skirt,Kamaei's Cerulean Skirt,Epic,130,NA,World Drop,1,https://tbc.wowhead.com/item=31343,NA,118,25,21,NA,NULL,NULL,NA,NA,NA
-NA,8,Pontifex Kilt,Pontifex Kilt,Epic,125.54,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=30543,NA,66,29,27,NA,NULL,NULL,Red,Yellow,Blue
-NA,9,Gladiator's Ringmail Leggings,Gladiator's Ringmail Leggings,Epic,114.34,Season 1,PvP,1,https://tbc.wowhead.com/item=31406,NA,79,26,NULL,NA,NULL,6,NA,NA,NA
-NA,10,Pontiff's Pantaloons of Prophecy,Pontiff's Pantaloons of Prophecy,Rare,113.96,Old Hillsbrad Foothills,Captain Skarloc,1,https://tbc.wowhead.com/item=28218,NA,55,27,24,NA,NULL,NULL,Red,Blue,Blue
-NA,11,Kilt of the Night Strider,Kilt of the Night Strider,Rare,104.48,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24391,NA,33,26,8,NA,NULL,6,Red,Red,Blue
-NA,12,Lifegiver Britches,Lifegiver Britches,Rare,102,Hellfire Ramparts,Vazruden and Nazan,1,https://tbc.wowhead.com/item=24083,NA,44,25,12,NA,NULL,NULL,Red,Blue,Blue
-NA,13,Oceansong Kilt,Oceansong Kilt,Rare,100.32,Hellfire Ramparts,Vazruden and Nazan,1,https://tbc.wowhead.com/item=27458,NA,84,34,NULL,NA,NULL,NULL,NA,NA,NA
-NA,14,Pants of Living Growth,Pants of Living Growth,Epic,99.92,NA,World Drop,1,https://tbc.wowhead.com/item=31335,NA,77,29,35,NA,NULL,6,NA,NA,NA
-NA,15,Hallowed Trousers,Hallowed Trousers,Rare,99.34,Sethekk Halls,Talon King Ikiss,1,https://tbc.wowhead.com/item=27875,NA,73,33,18,NA,NULL,7,NA,NA,NA
+NA,8,Pontifex Kilt,Pontifex Kilt,Epic,129.54,Steamvault,Warlord Kalithresh,1,https://tbc.wowhead.com/item=30543,NA,66,29,27,NA,NULL,NULL,Red,Yellow,Blue
+NA,9,Pontiff's Pantaloons of Prophecy,Pontiff's Pantaloons of Prophecy,Rare,117.96,Old Hillsbrad Foothills,Captain Skarloc,1,https://tbc.wowhead.com/item=28218,NA,55,27,24,NA,NULL,NULL,Red,Blue,Blue
+NA,10,Gladiator's Ringmail Leggings,Gladiator's Ringmail Leggings,Epic,114.34,Season 1,PvP,1,https://tbc.wowhead.com/item=31406,NA,79,26,NULL,NA,NULL,6,NA,NA,NA
+NA,11,Kilt of the Night Strider,Kilt of the Night Strider,Rare,112.48,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24391,NA,33,26,8,NA,NULL,6,Red,Red,Blue
+NA,12,Haramad's Leg Wraps,Haramad's Leg Wraps,Rare,106.5,NA,Undercutting the Competition,1,https://tbc.wowhead.com/item=29345,NA,24,NULL,29,NA,NULL,11,Red,Red,Red
+NA,13,Lifegiver Britches,Lifegiver Britches,Rare,106,Hellfire Ramparts,Vazruden and Nazan,1,https://tbc.wowhead.com/item=24083,NA,44,25,12,NA,NULL,NULL,Red,Blue,Blue
+NA,14,Oceansong Kilt,Oceansong Kilt,Rare,100.32,Hellfire Ramparts,Vazruden and Nazan,1,https://tbc.wowhead.com/item=27458,NA,84,34,NULL,NA,NULL,NULL,NA,NA,NA
+NA,15,Pants of Living Growth,Pants of Living Growth,Epic,99.92,NA,World Drop,1,https://tbc.wowhead.com/item=31335,NA,77,29,35,NA,NULL,6,NA,NA,NA
 NA,NA,Feet,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Gold-Leaf Wildboots,Gold-Leaf Wildboots,Epic,122.74,Hellfire Peninsula,Doom Lord Kazzak,1,https://tbc.wowhead.com/item=30737,NA,86,19,18,NA,NULL,NULL,Yellow,Blue,NA
 NA,2,Glider's Foot-Wraps of Healing,Glider's Foot-Wraps of Healing,Epic,121,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,121,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,3,Forestlord Striders,Forestlord Striders,Epic,95.96,Karazhan,Chess Event,1,https://tbc.wowhead.com/item=28752,NA,55,27,16,NA,NULL,NULL,Blue,Blue,NA
 NA,4,General's Kodohide Boots,General's Kodohide Boots,Epic,83.54,Season 1,PvP,1,https://tbc.wowhead.com/item=31595,NA,62,23,NULL,NA,NULL,7,NA,NA,NA
 NA,5,Marshal's Kodohide Boots,Marshal's Kodohide Boots,Epic,83.54,NA,PvP,1,https://tbc.wowhead.com/item=31597,NA,62,23,NULL,NA,NULL,7,NA,NA,NA
-NA,6,Boots of the Incorrupt,Boots of the Incorrupt,Epic,80.52,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28663,NA,57,24,23,NA,NULL,8,NA,NA,NA
-NA,7,Wavefury Boots,Wavefury Boots,Rare,78.52,Slave Pens,Rokmar the Crackler,1,https://tbc.wowhead.com/item=27549,NA,55,24,NULL,NA,NULL,8,NA,NA,NA
-NA,8,Glider's Foot-Wraps of the Prophet,Glider's Foot-Wraps of the Prophet,Epic,77.92,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,64,29,29,NA,NULL,NULL,NA,NA,NA
-NA,9,Slippers of Serenity,Slippers of Serenity,Rare,77.56,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27411,NA,35,22,15,NA,NULL,NULL,Red,Blue,NA
+NA,6,Slippers of Serenity,Slippers of Serenity,Rare,81.56,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27411,NA,35,22,15,NA,NULL,NULL,Red,Blue,NA
+NA,7,Boots of the Incorrupt,Boots of the Incorrupt,Epic,80.52,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28663,NA,57,24,23,NA,NULL,8,NA,NA,NA
+NA,8,Wavefury Boots,Wavefury Boots,Rare,78.52,Slave Pens,Rokmar the Crackler,1,https://tbc.wowhead.com/item=27549,NA,55,24,NULL,NA,NULL,8,NA,NA,NA
+NA,9,Glider's Foot-Wraps of the Prophet,Glider's Foot-Wraps of the Prophet,Epic,77.92,Karazhan,Shadikith the Glider,1,https://tbc.wowhead.com/item=30680/gliders-foot-wraps,NA,64,29,29,NA,NULL,NULL,NA,NA,NA
 NA,10,Jeweled Boots of Sanctification,Jeweled Boots of Sanctification,Rare,76,Shattered Halls,Warbringer O'mrogg,1,https://tbc.wowhead.com/item=27525,NA,55,25,NULL,NA,NULL,6,NA,NA,NA
 NA,11,Boots of the Pious,Boots of the Pious,Epic,74.48,Mechanar,Pathaleon the Calculator,1,https://tbc.wowhead.com/item=29251,NA,62,26,23,NA,NULL,NULL,NA,NA,NA
-NA,12,Curate's Boots,Curate's Boots,Rare,65,NA,Fel Embers,1,https://tbc.wowhead.com/item=25792,NA,53,25,25,NA,NULL,NULL,NA,NA,NA
-NA,13,Boots of the Glade-Keeper,Boots of the Glade-Keeper,Rare,64.52,NA,NA,1,https://tbc.wowhead.com/item=28251,NA,53,24,20,NA,NULL,NULL,NA,NA,NA
-NA,14,Auchenai Boots,Auchenai Boots,Rare,63,Shadow Labyrinth,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28177,NA,NULL,25,NULL,NA,NULL,10,Red,Red,NA
-NA,15,Earthshatter Boots,Earthshatter Boots,Epic,58,Classic,NA,0,https://tbc.wowhead.com/item=22468,NA,37,25,NULL,NA,NULL,6,NA,NA,NA
+NA,12,Auchenai Boots,Auchenai Boots,Rare,71,Shadow Labyrinth,Into the Heart of the Labyrinth,1,https://tbc.wowhead.com/item=28177,NA,NULL,25,NULL,NA,NULL,10,Red,Red,NA
+NA,13,Curate's Boots,Curate's Boots,Rare,65,NA,Fel Embers,1,https://tbc.wowhead.com/item=25792,NA,53,25,25,NA,NULL,NULL,NA,NA,NA
+NA,14,Boots of the Glade-Keeper,Boots of the Glade-Keeper,Rare,64.52,NA,NA,1,https://tbc.wowhead.com/item=28251,NA,53,24,20,NA,NULL,NULL,NA,NA,NA
+NA,15,Boots of Foretelling,Boots of Foretelling,Epic,59.2,Karazhan,Maiden of Virtue,1,https://tbc.wowhead.com/item=28517,NA,NULL,23,NULL,NA,NULL,NULL,Red,Yellow,NA
 NA,NA,Trinket,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Essence of the Martyr,Essence of the Martyr,Epic,133.5,Badge of Justice,G'eras,1,https://tbc.wowhead.com/item=29376,NA,133.5,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,2,Scarab of the Infinite Cycle,Scarab of the Infinite Cycle,Rare,128.8,Black Morass,Aeonus,1,https://tbc.wowhead.com/item=28190,NA,70,NULL,NULL,NA,30,NULL,NA,NA,NA
@@ -239,4 +239,4 @@ NA,11,Spire of Twilight,Spire of Twilight,Epic,211.24,Naxxramas,Thaddius,1,https
 NA,12,Staff of Divine Infusion,Staff of Divine Infusion,Rare,205.04,NA,NA,1,https://tbc.wowhead.com/item=31289,NA,194,23,50,NA,NULL,NULL,NA,NA,NA
 NA,13,Ironstaff of Regeneration,Ironstaff of Regeneration,Rare,156.92,Auchenai Crypts,Exarch Maladaar,1,https://tbc.wowhead.com/item=27412,NA,143,29,35,NA,NULL,NULL,NA,NA,NA
 NA,14,Runed Silver Staff,Runed Silver Staff,Uncommon,148.76,NA,Teleport This!,0,https://tbc.wowhead.com/item=31700,NA,122,37,NULL,NA,NULL,6,NA,NA,NA
-NA,15,Hammer of the Naaru,Hammer of the Naaru,Epic,67.76,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28800,NA,NULL,37,NULL,NA,NULL,NULL,Red,Red,Blue
+NA,15,Hammer of the Naaru,Hammer of the Naaru,Epic,75.76,Gruul's Lair,High King Maulgar,1,https://tbc.wowhead.com/item=28800,NA,NULL,37,NULL,NA,NULL,NULL,Red,Red,Blue
