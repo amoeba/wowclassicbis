@@ -183,15 +183,15 @@ NA,3,Eye of Gruul,Eye of Gruul,Epic,119,Gruul's Lair,Gruul the Dragonkiller,1,ht
 NA,4,Eye of the Dead,Eye of the Dead,Epic,90,Naxxramas,Sapphiron,0,https://tbc.wowhead.com/item=23047,NA,90,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,5,Oshu'gun Relic,Oshu'gun Relic,Uncommon,88.5,Nagrand,Gava'xi,1,https://tbc.wowhead.com/item=25634/oshugun-relic,NA,88.5,NULL,NULL,NA,NULL,NULL,NA,NA,NA
 NA,6,Lower City Prayerbook,Lower City Prayerbook,Rare,86.5,Lower City,Revered,1,https://tbc.wowhead.com/item=30841,NA,70,NULL,NULL,NA,NULL,11,NA,NA,NA
-NA,7,Quagmirran's Eye,Quagmirran's Eye,Rare,78.4,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,NULL,NULL,NULL,NA,40,NULL,NA,NA,NA
-NA,8,Ribbon of Sacrifice,Ribbon of Sacrifice,Epic,73,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28590,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,9,Xi'ri's Gift,Xi'ri's Gift,Rare,68.12,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,47,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,10,Warp-Scarab Brooch,Warp-Scarab Brooch,Rare,66.5,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27828,NA,47,NULL,NULL,NA,NULL,13,NA,NA,NA
-NA,11,Auslese's Light Channeler,Auslese's Light Channeler,Rare,59,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24390,NA,59,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,12,Bangle of Endless Blessings,Bangle of Endless Blessings,Rare,57,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28370,NA,NULL,NULL,22,NA,NULL,38,NA,NA,NA
-NA,13,Heavenly Inspiration,Heavenly Inspiration,Uncommon,54.67,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NA,NULL,10,NA,NA,NA
-NA,14,Vengeance of the Illidari,Vengeance of the Illidari,Rare,54.16,NA,Cruel's Intentions,1,https://tbc.wowhead.com/item=28040,NA,37,NULL,NULL,NA,NULL,NULL,NA,NA,NA
-NA,15,Pendant of the Violet Eye,Pendant of the Violet Eye,Epic,53.7,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28727,NA,NULL,40,NULL,NA,NULL,23,NA,NA,NA
+NA,7,Rejuvenating Gem,Rejuvenating Gem,Epic,79.5,Blackwing Lair,NA,0,https://tbc.wowhead.com/item=19395/rejuvenating-gem,NA,66,NULL,NULL,NA,NULL,9,NA,NA,NA
+NA,8,Quagmirran's Eye,Quagmirran's Eye,Rare,78.4,Slave Pens,Quagmirran,1,https://tbc.wowhead.com/item=27683,NA,NULL,NULL,NULL,NA,40,NULL,NA,NA,NA
+NA,9,Darkmoon Card: Blue Dragon,Darkmoon Card: Blue Dragon,Epic,75,Darkmoon Faire,NA,0,https://tbc.wowhead.com/item=19288/darkmoon-card-blue-dragon,NA,NULL,NULL,NULL,NA,NULL,50,NA,NA,NA
+NA,10,Ribbon of Sacrifice,Ribbon of Sacrifice,Epic,73,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28590,NA,73,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,11,Xi'ri's Gift,Xi'ri's Gift,Rare,68.12,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,47,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,12,Warp-Scarab Brooch,Warp-Scarab Brooch,Rare,66.5,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27828,NA,47,NULL,NULL,NA,NULL,13,NA,NA,NA
+NA,13,Auslese's Light Channeler,Auslese's Light Channeler,Rare,59,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24390,NA,59,NULL,NULL,NA,NULL,NULL,NA,NA,NA
+NA,14,Bangle of Endless Blessings,Bangle of Endless Blessings,Rare,57,Botanica,Warp Splinter,1,https://tbc.wowhead.com/item=28370,NA,NULL,NULL,22,NA,NULL,38,NA,NA,NA
+NA,15,Heavenly Inspiration,Heavenly Inspiration,Uncommon,54.67,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NA,NULL,10,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Light's Justice,Light's Justice,Epic,392.08,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28771,NA,382,21,20,NA,NULL,NULL,NA,NA,NA
 NA,2,Gladiator's Salvation,Gladiator's Salvation,Epic,383.64,Season 1,PvP,1,https://tbc.wowhead.com/item=32451,NA,375,18,NULL,NA,NULL,NULL,NA,NA,NA

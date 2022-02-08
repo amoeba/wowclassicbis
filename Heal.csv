@@ -184,14 +184,14 @@ NA,4,Oshu'gun Relic,Oshu'gun Relic,Uncommon,88.5,Nagrand,Gava'xi,1,https://tbc.w
 NA,5,Eye of Gruul,Eye of Gruul,Epic,81.5,Gruul's Lair,Gruul the Dragonkiller,1,https://tbc.wowhead.com/item=28823,NA,44,NULL,NULL,NULL,NULL,50,NA,NA,NA
 NA,6,Lower City Prayerbook,Lower City Prayerbook,Rare,78.25,Lower City,Revered,1,https://tbc.wowhead.com/item=30841,NA,70,NULL,NULL,NULL,NULL,11,NA,NA,NA
 NA,7,Ribbon of Sacrifice,Ribbon of Sacrifice,Epic,73,Karazhan,The Big Bad Wolf,1,https://tbc.wowhead.com/item=28590,NA,73,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,8,Xi'ri's Gift,Xi'ri's Gift,Rare,63.96,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,47,NULL,NULL,32,NULL,NULL,NA,NA,NA
-NA,9,Auslese's Light Channeler,Auslese's Light Channeler,Rare,59,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24390,NA,59,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,10,Warp-Scarab Brooch,Warp-Scarab Brooch,Rare,56.75,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27828,NA,47,NULL,NULL,NULL,NULL,13,NA,NA,NA
-NA,11,Vengeance of the Illidari,Vengeance of the Illidari,Rare,50.78,NA,Cruel's Intentions,1,https://tbc.wowhead.com/item=28040,NA,37,NULL,NULL,26,NULL,NULL,NA,NA,NA
-NA,12,Ancient Draenei Arcane Relic,Ancient Draenei Arcane Relic,Uncommon,47.8,NA,The Vengeful Harbinger,0,https://tbc.wowhead.com/item=31615,NA,36.67,NULL,NULL,21,NULL,NULL,NA,NA,NA
-NA,13,Heavenly Inspiration,Heavenly Inspiration,Uncommon,47.17,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NULL,NULL,10,NA,NA,NA
-NA,14,Scryer's Bloodgem,Scryer's Bloodgem,Rare,47,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,47,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
-NA,15,Pendant of the Violet Eye,Pendant of the Violet Eye,Epic,37.25,Karazhan,Shade of Aran,1,https://tbc.wowhead.com/item=28727,NA,NULL,40,NULL,NULL,NULL,23,NA,NA,NA
+NA,8,Rejuvenating Gem,Rejuvenating Gem,Epic,72.75,Blackwing Lair,NA,0,https://tbc.wowhead.com/item=19395/rejuvenating-gem,NA,66,NULL,NULL,NULL,NULL,9,NA,NA,NA
+NA,9,Xi'ri's Gift,Xi'ri's Gift,Rare,63.96,The Sha'tar,Revered,1,https://tbc.wowhead.com/item=29179,NA,47,NULL,NULL,32,NULL,NULL,NA,NA,NA
+NA,10,Auslese's Light Channeler,Auslese's Light Channeler,Rare,59,Blood Furnace,Broggok,1,https://tbc.wowhead.com/item=24390,NA,59,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
+NA,11,Warp-Scarab Brooch,Warp-Scarab Brooch,Rare,56.75,Mana-Tombs,Nexus-Prince Shaffar,1,https://tbc.wowhead.com/item=27828,NA,47,NULL,NULL,NULL,NULL,13,NA,NA,NA
+NA,12,Vengeance of the Illidari,Vengeance of the Illidari,Rare,50.78,NA,Cruel's Intentions,1,https://tbc.wowhead.com/item=28040,NA,37,NULL,NULL,26,NULL,NULL,NA,NA,NA
+NA,13,Ancient Draenei Arcane Relic,Ancient Draenei Arcane Relic,Uncommon,47.8,NA,The Vengeful Harbinger,0,https://tbc.wowhead.com/item=31615,NA,36.67,NULL,NULL,21,NULL,NULL,NA,NA,NA
+NA,14,Heavenly Inspiration,Heavenly Inspiration,Uncommon,47.17,NA,Success!,0,https://tbc.wowhead.com/item=30293,NA,39.67,NULL,NULL,NULL,NULL,10,NA,NA,NA
+NA,15,Scryer's Bloodgem,Scryer's Bloodgem,Rare,47,The Scryers,Revered,1,https://tbc.wowhead.com/item=29132,NA,47,NULL,NULL,NULL,NULL,NULL,NA,NA,NA
 NA,NA,One Hand,NA,NA,NULL,NA,NA,NULL,NA,NA,heal,int,spi,crit,haste,mp5,socket,NA,NA
 NA,1,Light's Justice,Light's Justice,Epic,392.5,Karazhan,Prince Malchezaar,1,https://tbc.wowhead.com/item=28771,NA,382,21,20,NULL,NULL,NULL,NA,NA,NA
 NA,2,Gladiator's Salvation,Gladiator's Salvation,Epic,384,Season 1,PvP,1,https://tbc.wowhead.com/item=32451,NA,375,18,NULL,NULL,NULL,NULL,NA,NA,NA
